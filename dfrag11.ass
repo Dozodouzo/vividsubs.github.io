@@ -9,13 +9,9 @@ YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
 Last Style Storage: Default
-Aegisub Scroll Position: 27
-Aegisub Active Line: 30
+Aegisub Scroll Position: 5083
+Aegisub Active Line: 5127
 Aegisub Video Zoom Percent: 1.000000
-Audio URI: dfrag11_premux.mkv
-Video File: dfrag11_premux.mkv
-Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 1428
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -5178,7 +5174,7 @@ Dialogue: 5,0:21:32.31,0:21:35.12,Default,,0,0,0,,She recovered, and she's doing
 Dialogue: 5,0:21:35.12,0:21:36.65,Default,,0,0,0,,That's why I'm on my way back.
 Dialogue: 5,0:21:37.21,0:21:38.98,Default,,0,0,0,,Though I'm kinda surrounded at the moment.
 Dialogue: 5,0:21:40.61,0:21:41.69,Default,,0,0,0,,All right.
-Dialogue: 5,0:21:42.69,0:21:45.08,Default,,0,0,0,,Get your butt up here, Shield No.2!
+Dialogue: 5,0:21:42.69,0:21:45.08,Default,,0,0,0,,Get your butt up here, Shield No. 2!
 Dialogue: 5,0:21:45.08,0:21:47.57,Default,,0,0,0,,Otherwise, I'll have this all cleaned up \Nbefore you even get here!
 Dialogue: 5,0:21:47.57,0:21:50.20,Default,,0,0,0,,Should you really be putting on \Nthat tough-girl act?
 Dialogue: 5,0:21:50.89,0:21:52.99,Default,,0,0,0,,Huh? What are you talking about,

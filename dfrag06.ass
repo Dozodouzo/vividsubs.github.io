@@ -9,12 +9,12 @@ YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
 Last Style Storage: Default
-Aegisub Scroll Position: 0
-Aegisub Active Line: 0
+Aegisub Scroll Position: 4136
+Aegisub Active Line: 4138
 Aegisub Video Zoom Percent: 1.000000
 Video File: dfrag06_premux.mkv
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 80
+Aegisub Video Position: 11229
 Audio URI: dfrag06_premux.mkv
 
 [V4+ Styles]
@@ -4186,7 +4186,7 @@ Dialogue: 5,0:07:26.02,0:07:28.05,Default,,0,0,0,,I'll protect you, Roka-san!
 Dialogue: 5,0:07:35.43,0:07:38.04,Default,,0,0,0,,Uh, I guess I put a bit too much force into it.
 Dialogue: 5,0:07:38.04,0:07:41.20,Default,,0,0,0,,I thought you'd be able to handle it, but...
 Dialogue: 5,0:07:42.17,0:07:43.85,Default,,0,0,0,,Anyway, I'm sorry.
-Dialogue: 5,0:07:44.93,0:07:47.52,Default,,0,0,0,,Good for you, Kazama.
+Dialogue: 5,0:07:44.93,0:07:47.52,Default,,0,0,0,,Good for you, Kazama-san.
 Dialogue: 5,0:07:48.32,0:07:51.86,Default,,0,0,0,,This will be your second time.
 Dialogue: 5,0:07:58.07,0:08:00.00,Default,,0,0,0,,Doesn't that bag feel great?
 Dialogue: 5,0:08:00.59,0:08:03.02,Default,,0,0,0,,Ah, please let me wear it too!

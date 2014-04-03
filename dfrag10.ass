@@ -9,13 +9,9 @@ YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
 Last Style Storage: Default
-Aegisub Scroll Position: 0
-Aegisub Active Line: 0
+Aegisub Scroll Position: 606
+Aegisub Active Line: 622
 Aegisub Video Zoom Percent: 1.000000
-Audio URI: dfrag10_premux.mkv
-Video File: dfrag10_premux.mkv
-Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -673,7 +669,7 @@ Dialogue: 5,0:01:06.06,0:01:07.38,Default,,0,0,0,,It is?
 Dialogue: 5,0:01:07.38,0:01:09.28,Default,,0,0,0,,How many face cards did you throw in the deck?!
 Dialogue: 5,0:01:09.28,0:01:12.00,Default,,0,0,0,,You lost! Go buy us drinks.
 Dialogue: 5,0:01:12.00,0:01:13.38,Default,,0,0,0,,This is so wrong!
-Dialogue: 5,0:01:13.63,0:01:17.44,Default,,0,0,0,,I want this juice that you can only get at the convenience store fifteen minutes away.
+Dialogue: 5,0:01:13.63,0:01:17.44,Default,,0,0,0,,I want this juice that you can only get at this convenience store fifteen minutes' walk away.
 Dialogue: 5,0:01:17.44,0:01:19.14,Default,,0,0,0,,I'm not going any further than the school store!
 Dialogue: 5,0:01:19.14,0:01:21.92,Default,,0,0,0,,I'll take some mineral water!
 Dialogue: 5,0:01:21.92,0:01:23.85,Default,,0,0,0,,Get whichever one comes from the lowest altitude.
@@ -5812,7 +5808,7 @@ Dialogue: 5,0:09:05.98,0:09:08.88,Default,,0,0,0,,Hey, I wouldn't say we're at e
 Dialogue: 5,0:09:08.88,0:09:14.49,Default,,0,0,0,,It's just like, countless layers of bad timing and miscommunication have piled up!
 Dialogue: 5,0:09:14.49,0:09:17.70,Default,,0,0,0,,I hope she graduates and spends a year drifting between colleges that won't take her.
 Dialogue: 5,0:09:17.70,0:09:21.18,Default,,0,0,0,,Maybe then she'll get a taste of the hardships of life.{wow 10/10 amazing sakuga scene}
-Dialogue: 5,0:09:21.18,0:09:24.76,Default,,0,0,0,,If you can't stand her, why'd you enrol in the same high school as her?
+Dialogue: 5,0:09:21.18,0:09:24.76,Default,,0,0,0,,If you can't stand her, why'd you enroll in the same high school as her?
 Dialogue: 5,0:09:24.76,0:09:26.00,Default,,0,0,0,,What choice did I have?
 Dialogue: 5,0:09:26.35,0:09:28.13,Default,,0,0,0,,This school is the closest to my house.
 Dialogue: 5,0:09:34.63,0:09:35.46,Default,,0,0,0,,It can't be!
@@ -5885,7 +5881,7 @@ Dialogue: 5,0:12:50.08,0:12:54.16,Default,,0,0,0,,Aww. Looks like Pukey lost aft
 Dialogue: 5,0:12:55.43,0:12:57.25,Default,,0,0,0,,Well, I figured as much.
 Dialogue: 5,0:12:57.25,0:13:00.96,Default,,0,0,0,,Oh, I should take care of our \Nunfinished business before they arrive.
 Dialogue: 5,0:13:00.96,0:13:03.86,Default,,0,0,0,,I wanted to thank you.
-Dialogue: 5,0:13:03.86,0:13:07.14,Default,,0,0,0,,You know, for taking the 10,000 yen I got for New Year's to the police.
+Dialogue: 5,0:13:03.86,0:13:07.14,Default,,0,0,0,,You know, for taking the ten thousand yen I got for New Year's to the police.
 Dialogue: 5,0:13:07.51,0:13:08.44,Default,,0,0,0,,Huh?
 Dialogue: 5,0:13:08.44,0:13:12.06,Default,,0,0,0,,That money was a gift from Grandpa, so it was important to me.
 Dialogue: 5,0:13:12.06,0:13:12.68,Default,,0,0,0,,What?
