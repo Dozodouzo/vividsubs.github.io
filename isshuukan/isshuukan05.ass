@@ -9,16 +9,16 @@ PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
 Last Style Storage: Default
-Aegisub Active Line: 5
+Aegisub Active Line: 444
 Aegisub Video Zoom Percent: 1.000000
-Aegisub Scroll Position: 0
+Aegisub Scroll Position: 438
 Scroll Position: 0
 Active Line: 0
 Video Zoom Percent: 0.875
-Video File: isshuukan05_premux.mkv
+Video File: ../../editing/isshuukan/isshuukan05_premux.mkv
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 120
-Audio URI: isshuukan05_premux.mkv
+Aegisub Video Position: 31013
+Audio URI: ../../editing/isshuukan/isshuukan05_premux.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -360,7 +360,7 @@ Dialogue: 5,0:13:23.24,0:13:25.20,Default,,0,0,0,,Less worrying, more moving!
 Dialogue: 5,0:13:29.39,0:13:30.16,Default,,0,0,0,,Oh, right.
 Dialogue: 5,0:13:30.58,0:13:33.04,Default,,0,0,0,,I gotta drop by somewhere today.
 Dialogue: 5,0:13:33.04,0:13:34.41,Default,,0,0,0,,Come with me.
-Dialogue: 5,0:13:34.41,0:13:35.91,Default,,0,0,0,,You're following them, aren't you?
+Dialogue: 5,0:13:34.41,0:13:35.91,Default,,0,0,0,,You wanna {\i1}follow{\i0} them now?
 Dialogue: 5,0:13:35.91,0:13:37.61,Default,,0,0,0,,Well, aren't you curious?
 Dialogue: 5,0:13:37.61,0:13:39.29,Default,,0,0,0,,They're two girls, going on a date.{comma for emphasis}
 Dialogue: 5,0:13:40.25,0:13:44.46,Default,,0,0,0,,I mean, I need to make sure they're getting along.
@@ -382,7 +382,7 @@ Dialogue: 5,0:14:23.54,0:14:25.20,Default,,0,0,0,,Sorry, Hase-kun.
 Dialogue: 5,0:14:28.05,0:14:29.34,Default,,0,0,0,,It's so good.
 Dialogue: 5,0:14:29.34,0:14:30.69,Default,,0,0,0,,Yeah.
 Dialogue: 5,0:14:30.69,0:14:33.19,Default,,0,0,0,,Here, gimme a nibble.
-Dialogue: 5,0:14:34.95,0:14:37.43,Default,,0,0,0,,Cool it. They're both girls.
+Dialogue: 5,0:14:34.95,0:14:37.43,Default,,0,0,0,,Cool it. A girl's not gonna snatch her away.
 Dialogue: 5,0:14:37.75,0:14:39.94,Default,,0,0,0,,Kaori-chan, you can have some of mine.
 Dialogue: 5,0:14:42.68,0:14:43.90,Default,,0,0,0,,What's wrong?
 Dialogue: 5,0:14:43.90,0:14:45.45,Default,,0,0,0,,I'm just happy.
@@ -479,7 +479,7 @@ Dialogue: 5,0:21:15.45,0:21:17.29,Default,,0,0,0,,No frowning, okay?
 Dialogue: 5,0:21:17.76,0:21:19.25,Default,,0,0,0,,Smile!
 Dialogue: 5,0:21:26.37,0:21:31.46,Default,,0,0,0,,{\i1}Before I knew it, the rule that had \Nrestricted us disappeared into thin air.
 Dialogue: 5,0:21:31.46,0:21:32.60,Default,,0,0,0,,{\i1}And then...
-Dialogue: 5,0:21:33.46,0:21:36.63,Default,,0,0,0,,Those two seem to be getting along.
+Dialogue: 5,0:21:33.46,0:21:36.63,Default,,0,0,0,,Looks like those two will be just fine.
 Dialogue: 5,0:21:36.63,0:21:37.23,Default,,0,0,0,,Yeah.
 Dialogue: 5,0:21:41.10,0:21:43.05,Default,,0,0,0,,D-Did she just...
 Dialogue: 5,0:21:43.05,0:21:45.88,Default,,0,0,0,,She recognized you.{i knew it !}
