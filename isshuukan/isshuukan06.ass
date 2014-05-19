@@ -9,15 +9,15 @@ PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
 Last Style Storage: Default
-Aegisub Active Line: 0
+Aegisub Active Line: 1156
 Aegisub Video Zoom Percent: 1.000000
-Aegisub Scroll Position: 0
+Aegisub Scroll Position: 1153
 Scroll Position: 0
 Active Line: 0
 Video Zoom Percent: 0.875
 Video File: isshuukan06_premux.mkv
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 42
+Aegisub Video Position: 33920
 Audio URI: isshuukan06_premux.mkv
 
 [V4+ Styles]
@@ -1191,6 +1191,6 @@ Dialogue: 1,0:23:09.49,0:23:14.08,ED-eng,,0,0,0,,{\blur2\fad(200,450)\c&H4B3032&
 Dialogue: 2,0:23:09.49,0:23:14.08,ED-eng,,0,0,0,,{\bord0\blur0.4\fad(200,450)}something to say goodbye with
 Dialogue: 0,0:23:09.49,0:23:14.08,ED-rom,,0,0,0,,{\fad(200,450)\blur2\3c&H86A05A&\c&H86A05A&}boku wa sagashiteta
 Dialogue: 1,0:23:09.49,0:23:14.08,ED-rom,,0,0,0,,{\bord0\fad(200,450)\blur0.4\3c&H86A05A&}boku wa sagashiteta
-Dialogue: 5,0:23:34.69,0:23:39.08,Default,,0,0,20,,Friends that say "Ah" and "Whew."
-Dialogue: 0,0:23:34.72,0:23:39.81,i sure can friends,,0,0,0,next,{\fad(450,0)\bord2\an7\blur0.8\pos(56,36)\3c&HC9C9C9&\c&HC9C9C9&\1a&HFF&\t(405,450,\1a&H00&)}Friends that say "Ah" and "Whew."
-Dialogue: 1,0:23:34.72,0:23:39.81,i sure can friends,,0,0,0,next,{\fad(450,0)\bord0\an7\blur0.6\pos(56,36)\c&H020300&}Friends that say "Ah" and "Whew."
+Dialogue: 5,0:23:34.69,0:23:39.08,Default,,0,0,20,,Friends that say "Ah." Friends that say "Whew."
+Dialogue: 0,0:23:34.72,0:23:39.81,i sure can friends,,0,0,0,next,{\fad(450,0)\bord2\an7\blur0.8\pos(56,36)\3c&HC9C9C9&\c&HC9C9C9&\1a&HFF&\t(405,450,\1a&H00&)}Friends that say "Ah." Friends that say "Whew."
+Dialogue: 1,0:23:34.72,0:23:39.81,i sure can friends,,0,0,0,next,{\fad(450,0)\bord0\an7\blur0.6\pos(56,36)\c&H020300&}Friends that say "Ah." Friends that say "Whew."
