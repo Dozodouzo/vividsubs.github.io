@@ -4853,7 +4853,7 @@ Dialogue: 5,0:21:10.44,0:21:11.51,Default,,0,0,0,,How is it?
 Dialogue: 5,0:21:11.51,0:21:12.41,Default,,0,0,0,,Lookie, lookie!
 Dialogue: 5,0:21:12.41,0:21:14.66,Default,,0,0,0,,H-Hey, come on!
 Dialogue: 5,0:21:14.66,0:21:16.89,Default,,0,0,0,,What's gotten into them?
-Dialogue: 5,0:21:14.66,0:21:16.89,Alternative,,0,0,0,,{overlap}I said I just felt like it, okay? Gimme a beak!
+Dialogue: 5,0:21:14.66,0:21:16.89,Alternative,,0,0,0,,{overlap}I said I just felt like it, okay? Gimme a break!
 Dialogue: 5,0:21:17.42,0:21:18.60,Default,,0,0,0,,Lookie, lookie!
 Dialogue: 0,0:21:17.63,0:21:17.67,manga,,0,0,0,,{\bord2\blur0.6\3c&H222C57&\c&H222C57&\fscx128\fscy130\pos(593,590)\clip(523,557,555,614)}Ecology
 Dialogue: 1,0:21:17.63,0:21:17.67,manga,,0,0,0,,{\bord0\blur0.6\c&H3741AC&\fscx128\fscy130\pos(593,590)\clip(523,557,555,614)}Ecology
