@@ -9,12 +9,12 @@ YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Scroll Position: 0
+Aegisub Scroll Position: 1195
 Aegisub Video Zoom Percent: 1.000000
 Video File: isshuukan09_premux.mkv
-Aegisub Video Position: 186
+Aegisub Video Position: 33939
 Audio URI: isshuukan09_premux.mkv
-Aegisub Active Line: 0
+Aegisub Active Line: 1196
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1227,6 +1227,6 @@ Dialogue: 1,0:23:09.57,0:23:14.16,ED-eng,,0,0,0,,{\blur2\fad(200,450)\c&H4B3032&
 Dialogue: 2,0:23:09.57,0:23:14.16,ED-eng,,0,0,0,,{\bord0\blur0.4\fad(200,450)}something to say goodbye with
 Dialogue: 0,0:23:09.57,0:23:14.16,ED-rom,,0,0,0,,{\fad(200,450)\blur2\3c&H86A05A&\c&H86A05A&}boku wa sagashiteta
 Dialogue: 1,0:23:09.57,0:23:14.16,ED-rom,,0,0,0,,{\bord0\fad(200,450)\blur0.4\3c&H86A05A&}boku wa sagashiteta
-Dialogue: 5,0:23:35.51,0:23:37.68,Default,,0,0,0,,Friends and Friends.{coming up next: Friends and France.}
-Dialogue: 0,0:23:35.51,0:23:39.93,i sure can friends,,0,0,0,,{\fad(450,0)\bord2\an7\blur0.8\pos(56,36)\3c&HC9C9C9&\c&HC9C9C9&\1a&HFF&\t(405,450,\1a&H00&)}Friends and Friends.
-Dialogue: 1,0:23:35.51,0:23:39.93,i sure can friends,,0,0,0,,{\fad(450,0)\bord0\an7\blur0.6\pos(56,36)\c&H020300&}Friends and Friends.
+Dialogue: 5,0:23:35.51,0:23:37.68,Default,,0,0,0,,Friends and "Friends."{coming up next: Friends and France.}
+Dialogue: 0,0:23:35.51,0:23:39.93,i sure can friends,,0,0,0,,{\fad(450,0)\bord2\an7\blur0.8\pos(56,36)\3c&HC9C9C9&\c&HC9C9C9&\1a&HFF&\t(405,450,\1a&H00&)}Friends and "Friends."
+Dialogue: 1,0:23:35.51,0:23:39.93,i sure can friends,,0,0,0,,{\fad(450,0)\bord0\an7\blur0.6\pos(56,36)\c&H020300&}Friends and "Friends."
