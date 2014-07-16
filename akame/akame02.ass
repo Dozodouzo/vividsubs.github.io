@@ -5,16 +5,16 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
 Last Style Storage: Default
-Aegisub Scroll Position: 0
+Aegisub Scroll Position: 378
 Video File: akame02_premux.mkv
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 45
+Aegisub Video Position: 14118
 Audio URI: akame02_premux.mkv
-Aegisub Active Line: 0
+Aegisub Active Line: 381
 Aegisub Video Zoom Percent: 1.125000
 Keyframes File: akame02_premux_keyframes.log
 
@@ -340,7 +340,7 @@ Dialogue: 5,0:06:20.31,0:06:22.19,Default,,0,0,0,,I understand the situation.
 Dialogue: 5,0:06:22.19,0:06:23.37,Default,,0,0,0,,Tatsumi...
 Dialogue: 5,0:06:23.37,0:06:25.36,Default,,0,0,0,,Would you like to join Night Raid?
 Dialogue: 5,0:06:25.83,0:06:27.82,Default,,0,0,0,,If I say no, I'm dead, right?
-Dialogue: 5,0:06:27.82,0:06:29.56,Default,,0,0,0,,No, that isn't this case.
+Dialogue: 5,0:06:27.82,0:06:29.56,Default,,0,0,0,,No, that isn't the case.
 Dialogue: 5,0:06:30.00,0:06:32.23,Default,,0,0,0,,But that doesn't mean we can let you go.
 Dialogue: 5,0:06:32.23,0:06:35.49,Default,,0,0,0,,We'll employ you in our workshop instead.
 Dialogue: 5,0:06:35.49,0:06:38.14,Default,,0,0,0,,Either way, though, we're not going to kill you.
@@ -412,7 +412,7 @@ Dialogue: 5,0:09:39.66,0:09:41.95,Default,,0,0,0,,If he becomes a burden, feel f
 Dialogue: 5,0:09:41.95,0:09:42.85,Default,,0,0,0,,Understood.
 Dialogue: 5,0:09:42.85,0:09:45.14,Default,,0,0,0,,{\i1}What do you mean, "Understood"?
 Dialogue: 5,0:09:45.14,0:09:47.41,Default,,0,0,0,,Work hard, 'cos your life depends on it!
-Dialogue: 5,0:09:48.81,0:09:51.87,Default,,0,0,0,,{\i1}I''ll be working with {\i0}her?
+Dialogue: 5,0:09:48.81,0:09:51.87,Default,,0,0,0,,{\i1}I'll be working with {\i0}her?
 Dialogue: 5,0:09:54.79,0:09:56.83,Default,,0,0,0,,Let's learn as many skills as possible
 Dialogue: 5,0:09:56.83,0:09:59.32,Default,,0,0,0,,so we can climb the army's ranks.
 Dialogue: 5,0:09:59.32,0:10:03.95,Default,,0,0,0,,If we learn all about food, \Nwe're less likely to go hungry.
