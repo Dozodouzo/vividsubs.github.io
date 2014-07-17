@@ -11,8 +11,8 @@ PlayResY: 720
 Last Style Storage: Default
 Audio URI: aldnoah02_premux.mkv
 Aegisub Video Zoom Percent: 1.000000
-Aegisub Scroll Position: 0
-Aegisub Active Line: 0
+Aegisub Scroll Position: 237
+Aegisub Active Line: 257
 Video File: aldnoah02_premux.mkv
 Aegisub Video Aspect Ratio: c1.777778
 Scroll Position: 0
@@ -20,7 +20,7 @@ Active Line: 2
 Video Zoom Percent: 0.625
 Video Aspect Ratio: c1.77708
 Video Position: 408
-Aegisub Video Position: 31886
+Aegisub Video Position: 19286
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -289,11 +289,11 @@ Dialogue: 5,0:12:32.18,0:12:33.31,Default,,0,0,0,,It's radio jamming.
 Dialogue: 5,0:12:33.31,0:12:36.86,Default,,0,0,0,,They're using powerful electromagnetic waves to disrupt our chain of command.
 Dialogue: 5,0:12:36.86,0:12:38.81,Default,,0,0,0,,Just like fifteen years ago.
 Dialogue: 5,0:12:38.81,0:12:39.98,Default,,0,0,0,,It's one of their tricks.
-Dialogue: 5,0:12:40.78,0:12:43.79,Default,,0,0,0,,Don't talk to me about the past, you fraud.
+Dialogue: 5,0:12:40.78,0:12:43.79,Default,,0,0,0,,Enough of that crap about \Nfifteen years ago, you fraud.
 Dialogue: 5,0:12:57.07,0:12:58.80,Default,,0,0,0,,Shit! He's right on my ass!
 Dialogue: 5,0:12:59.27,0:13:00.48,Default,,0,0,0,,We got you!
 Dialogue: 5,0:13:06.93,0:13:07.89,Default,,0,0,0,,What?!
-Dialogue: 5,0:13:24.36,0:13:28.28,Default,,0,0,0,,There's no greater beauty than crushing someone who is fully aware they are about to die.
+Dialogue: 5,0:13:24.36,0:13:28.28,Default,,0,0,0,,There is nothing more ugly than watching the doomed desperately cling to life.
 Dialogue: 5,0:13:40.24,0:13:41.96,Default,,0,0,0,,Well, Slaine?
 Dialogue: 5,0:13:41.96,0:13:48.22,Default,,0,0,0,,How does it feel to watch your former countrymen die pathetically from your safe little perch?
 Dialogue: 5,0:13:49.52,0:13:51.85,Default,,0,0,0,,All fighters have been destroyed.
