@@ -8,13 +8,13 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
-Audio URI: Usagi.09.premux.720p.mkv
+Audio URI: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 09 [12E4B78F].mkv
 Aegisub Video Zoom Percent: 1.000000
-Aegisub Scroll Position: 6696
-Aegisub Active Line: 6701
-Video File: Usagi.09.premux.720p.mkv
+Aegisub Scroll Position: 33
+Aegisub Active Line: 34
+Video File: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 09 [12E4B78F].mkv
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 33956
+Aegisub Video Position: 3568
 Last Style Storage: Usagi
 
 [V4+ Styles]
@@ -68,7 +68,7 @@ Dialogue: 100,0:02:10.56,0:02:12.52,Default,Grandpa,0,0,0,,Time to go home, Tipp
 Dialogue: 100,0:02:18.40,0:02:20.49,Default,Chino,0,0,0,,She's using Tippy as a pillow again.
 Dialogue: 100,0:02:20.99,0:02:24.83,Default,Cocoa,0,0,0,,Onee-chan, don't leave me...
 Comment: 100,0:02:28.00,0:02:28.04,Default,,0,0,0,,OP
-Dialogue: 0,0:02:28.79,0:02:30.87,Daydream - English,,0,0,0,,{\fad(200,200)\blur2}Is your heart hop-hoping in anticipation?
+Dialogue: 0,0:02:28.79,0:02:30.87,Daydream - English,,0,0,0,,{\fad(200,200)\blur2}Is your heart hop-hopping in anticipation?
 Dialogue: 1,0:02:28.79,0:02:28.90,Daydream - Romaji,,0,0,0,fx,{\pos(37,30)\fad(200,0)\c&HFFFFFF&\blur2}ko
 Dialogue: 2,0:02:28.79,0:02:28.90,Daydream - Romaji,,0,0,0,fx,{\pos(37,30)\fad(200,0)\c&H7486BC&\bord0}ko
 Dialogue: 1,0:02:28.79,0:02:29.10,Daydream - Romaji,,0,0,0,fx,{\pos(76,30)\fad(200,0)\c&HFFFFFF&\blur2}ko

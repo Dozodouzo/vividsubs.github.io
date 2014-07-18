@@ -6,16 +6,16 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-Aegisub Scroll Position: 0
-Aegisub Active Line: 0
+Aegisub Scroll Position: 8
+Aegisub Active Line: 36
 Aegisub Video Zoom Percent: 1.000000
 PlayResX: 1280
 PlayResY: 720
 Last Style Storage: Default
-Video File: Usagi.08.premux.720p.mkv
+Video File: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 08 [66F9F271].mkv
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 73
-Audio URI: Usagi.08.premux.720p.mkv
+Aegisub Video Position: 2248
+Audio URI: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 08 [66F9F271].mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,7 +70,7 @@ Dialogue: 0,0:01:22.52,0:01:24.56,Default,Rize,0,0,0,,I blasted them all to king
 Dialogue: 0,0:01:27.95,0:01:30.38,Default,Rize,0,0,0,,The birth of a reaver of war!
 Dialogue: 0,0:01:30.38,0:01:32.56,Default,Chiya,0,0,0,,Oh, I like that phrase!{chiya stahp don't get inspired}
 Comment: 0,0:01:33.03,0:03:02.95,Default,,0,0,0,,OP
-Dialogue: 0,0:01:33.74,0:01:35.82,Daydream - English,,0,0,0,,{\fad(200,200)\blur2}Is your heart hop-hoping in anticipation?
+Dialogue: 0,0:01:33.74,0:01:35.82,Daydream - English,,0,0,0,,{\fad(200,200)\blur2}Is your heart hop-hopping in anticipation?
 Dialogue: 1,0:01:33.74,0:01:33.85,Daydream - Romaji,,0,0,0,fx,{\pos(37,30)\fad(200,0)\c&HFFFFFF&\blur2}ko
 Dialogue: 2,0:01:33.74,0:01:33.85,Daydream - Romaji,,0,0,0,fx,{\pos(37,30)\fad(200,0)\c&H7486BC&\bord0}ko
 Dialogue: 1,0:01:33.74,0:01:34.05,Daydream - Romaji,,0,0,0,fx,{\pos(76,30)\fad(200,0)\c&HFFFFFF&\blur2}ko
