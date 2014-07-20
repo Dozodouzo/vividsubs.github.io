@@ -11,8 +11,8 @@ PlayResY: 720
 Last Style Storage: Default
 Audio URI: aldnoah02_premux.mkv
 Aegisub Video Zoom Percent: 1.000000
-Aegisub Scroll Position: 237
-Aegisub Active Line: 257
+Aegisub Scroll Position: 272
+Aegisub Active Line: 273
 Video File: aldnoah02_premux.mkv
 Aegisub Video Aspect Ratio: c1.777778
 Scroll Position: 0
@@ -20,7 +20,7 @@ Active Line: 2
 Video Zoom Percent: 0.625
 Video Aspect Ratio: c1.77708
 Video Position: 408
-Aegisub Video Position: 19286
+Aegisub Video Position: 20981
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -309,7 +309,7 @@ Dialogue: 5,0:14:16.41,0:14:17.64,Default,,0,0,0,,Good. Drop me.
 Dialogue: 5,0:14:17.64,0:14:18.42,Default,,0,0,0,,Yes, sir.
 Dialogue: 5,0:14:18.42,0:14:20.04,Default,,0,0,0,,Nilokeras, disconnect.
 Dialogue: 5,0:14:25.55,0:14:26.48,Default,,0,0,0,,Here it comes!
-Dialogue: 5,0:14:35.06,0:14:38.35,Default,,0,0,0,,Hail, Lord Trillram! We were awaiting your arrival.
+Dialogue: 5,0:14:35.06,0:14:38.35,Default,,0,0,0,,Greetings, Sir Trillram. \NWe have been awaiting your arrival.
 Dialogue: 5,0:14:38.80,0:14:41.90,Default,,0,0,0,,Yes, a thousand congratulations for completing your mission.
 Dialogue: 5,0:14:50.71,0:14:51.72,Default,,0,0,0,,That's...
 Dialogue: 5,0:14:51.72,0:14:53.54,Default,,0,0,0,,the light of Aldnoah!
