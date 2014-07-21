@@ -10,12 +10,12 @@ PlayResX: 1280
 PlayResY: 720
 Video Aspect Ratio: c1.77708
 Aegisub Video Zoom Percent: 1.000000
-Aegisub Active Line: 1
-Aegisub Scroll Position: 0
-Video File: aldnoah03_premux.mkv
+Aegisub Active Line: 768
+Aegisub Scroll Position: 762
+Video File: ../../editing/aldnoah/03/aldnoah03_premux.mkv
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 95
-Audio URI: aldnoah03_premux.mkv
+Aegisub Video Position: 15816
+Audio URI: ../../editing/aldnoah/03/aldnoah03_premux.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -677,7 +677,7 @@ Dialogue: 0,0:03:58.46,0:04:01.88,Default,,0,0,0,,Do you have any idea what you'
 Dialogue: 0,0:04:01.88,0:04:04.59,Default,,0,0,0,,I'm perfectly aware that this is crazy.
 Dialogue: 0,0:04:04.59,0:04:05.64,Default,,0,0,0,,Then why?!
 Dialogue: 0,0:04:05.64,0:04:10.52,Default,,0,0,0,,I don't know why, but that Martian is obsessed with hunting us.
-Dialogue: 0,0:04:10.52,0:04:16.06,Default,,0,0,0,,Therefore, his attacks won't spread to the city proper \Nor the harbor while we hold out here.
+Dialogue: 0,0:04:10.52,0:04:16.06,Default,,0,0,0,,Therefore, his attacks won't spread to the suburbs \Nor the harbor while we hold out here.
 Dialogue: 0,0:04:16.63,0:04:19.47,Default,,0,0,0,,As luck would have it, this entire area \Nhas already been evacuated.
 Dialogue: 0,0:04:19.47,0:04:20.84,Default,,0,0,0,,But that doesn't mean—
 Dialogue: 0,0:04:28.24,0:04:29.49,Default,,0,0,0,,Okisuke is dead.
@@ -711,7 +711,7 @@ Dialogue: 0,0:06:01.06,0:06:02.92,Default,,0,0,0,,I will order a meteor strike.
 Dialogue: 0,0:06:02.92,0:06:09.50,Default,,0,0,0,,L-Lord Saazbaum! Count Cruhteo's Landing Castle is too close!
 Dialogue: 0,0:06:09.50,0:06:11.93,Default,,0,0,0,,Would he not view this as an act of aggression{ against him}?
 Dialogue: 0,0:06:11.93,0:06:13.56,Default,,0,0,0,,A necessary sacrifice.
-Dialogue: 0,0:06:13.56,0:06:16.32,Default,,0,0,0,,I will require several hours to adjust my orbit.
+Dialogue: 0,0:06:13.56,0:06:16.32,Default,,0,0,0,,I will require a few hours to adjust my orbit.
 Dialogue: 0,0:06:16.32,0:06:21.23,Default,,0,0,0,,Continue your observation, \Nlest the rat scurry away in the interim.
 Dialogue: 0,0:06:21.23,0:06:22.19,Default,,0,0,0,,Understood!
 Dialogue: 0,0:06:23.90,0:06:24.82,Default,,0,0,0,,What's that?
@@ -799,7 +799,7 @@ Dialogue: 0,0:10:37.57,0:10:40.64,Default,,0,0,0,,Calm's sleeping like a log, th
 Dialogue: 0,0:10:40.64,0:10:42.20,Default,,0,0,0,,Hope he doesn't catch cold.
 Dialogue: 0,0:10:44.31,0:10:45.67,Default,,0,0,0,,What?
 Dialogue: 0,0:10:45.67,0:10:47.91,Default,,0,0,0,,Seriously? You're worried about him catching cold?
-Dialogue: 0,0:10:48.55,0:10:51.95,Default,,0,0,0,,You guys might die tomorrow.
+Dialogue: 0,0:10:48.55,0:10:51.95,Default,,0,0,0,,We might die tomorrow.
 Dialogue: 0,0:10:55.27,0:10:56.68,Default,,0,0,0,,Sorry.
 Dialogue: 0,0:10:59.63,0:11:00.72,Default,,0,0,0,,It's okay.
 Dialogue: 0,0:11:01.13,0:11:03.76,Default,,0,0,0,,It's not like I don't get scared, you know.
