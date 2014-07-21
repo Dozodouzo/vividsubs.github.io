@@ -8,12 +8,12 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 PlayResX: 1280
 PlayResY: 720
-Aegisub Scroll Position: 0
-Aegisub Active Line: 0
+Aegisub Scroll Position: 542
+Aegisub Active Line: 545
 Aegisub Video Zoom Percent: 1.000000
 Video File: akame03_premux.mkv
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 52
+Aegisub Video Position: 30725
 Audio URI: akame03_premux.mkv
 Last Style Storage: Default
 Keyframes File: akame03_premux_keyframes.log
@@ -298,8 +298,8 @@ Dialogue: 0,0:05:51.01,0:05:52.33,Default,,0,0,0,,Y-Yeah.
 Dialogue: 0,0:05:52.59,0:05:55.62,Default,,0,0,0,,That's good! I've got high hopes for you.
 Dialogue: 0,0:05:58.75,0:05:59.92,Default,,0,0,0,,Thanks!
 Dialogue: 0,0:06:15.36,0:06:16.68,Default,,0,0,0,,{\i1}Assassins...
-Dialogue: 0,0:06:16.68,0:06:19.27,Default,,0,0,0,,{\i1}And the need for revolution.
-Dialogue: 0,0:06:19.27,0:06:20.71,Default,,0,0,0,,{\i1}Night Raid.
+Dialogue: 0,0:06:16.68,0:06:19.27,Default,,0,0,0,,{\i1}spearheading the revolution.
+Dialogue: 0,0:06:19.27,0:06:20.71,Default,,0,0,0,,{\i1}That is Night Raid.
 Dialogue: 0,0:06:21.46,0:06:25.04,Default,,0,0,0,,I joined a pretty amazing group.
 Dialogue: 0,0:06:35.54,0:06:38.63,Default,,0,0,0,,{\i1}Why did I just picture Bro's face?
 Dialogue: 0,0:06:44.45,0:06:46.13,Default,,0,0,0,,This is the capital, right here.
@@ -576,7 +576,7 @@ Dialogue: 0,0:21:11.95,0:21:14.81,Default,,0,0,0,,Actual masters don't call them
 Dialogue: 0,0:21:14.81,0:21:15.92,Default,,0,0,0,,What was that?!
 Dialogue: 0,0:21:15.27,0:21:15.92,DefaultAlt,,0,0,0,,You stupid idiot!
 Dialogue: 0,0:21:19.38,0:21:21.48,Default,,0,0,0,,Just like me.
-Dialogue: 0,0:21:21.48,0:21:25.34,Default,,0,0,0,,An Relic-wielder... An assassin...
+Dialogue: 0,0:21:21.48,0:21:25.34,Default,,0,0,0,,A Relic-wielder... An assassin...
 Dialogue: 0,0:21:26.40,0:21:28.43,Default,,0,0,0,,Splendid. Simply splendid.
 Dialogue: 0,0:21:28.43,0:21:30.60,Default,,0,0,0,,To think someone like her is running amok out there.
 Dialogue: 0,0:21:30.87,0:21:32.72,Default,,0,0,0,,Hey, you!
