@@ -6,15 +6,15 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-Aegisub Scroll Position: 6055
-Aegisub Active Line: 6057
+Aegisub Scroll Position: 5066
+Aegisub Active Line: 5075
 Aegisub Video Zoom Percent: 0.750000
 PlayResX: 1280
 PlayResY: 720
 Last Style Storage: a thing
 Video File: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 05 [2C623D33].mkv
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 31595
+Aegisub Video Position: 18157
 Audio URI: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 05 [2C623D33].mkv
 
 [V4+ Styles]
@@ -5108,7 +5108,7 @@ Dialogue: 10,0:12:28.79,0:12:30.35,Default,Chiya,0,0,0,,Have you managed to put 
 Dialogue: 10,0:12:30.35,0:12:31.62,Default,Rize,0,0,0,,G-Give me a bit.
 Dialogue: 10,0:12:31.62,0:12:34.62,Default,Rize,0,0,0,,I'm not used to wearing a kimono yet.
 Dialogue: 10,0:12:34.62,0:12:36.36,Default,Chiya,0,0,0,,Oh dear, that's not quite right.
-Dialogue: 10,0:12:37.29,0:12:39.68,Default,Chiya,0,0,0,,Remember, right side in front.{I learned from I think a coworker the easiest way to remember which side goes in front--the kimono's collar should look like the katakana ソ}
+Dialogue: 10,0:12:37.29,0:12:39.68,Default,Chiya,0,0,0,,Remember, left side in front.
 Dialogue: 10,0:12:39.68,0:12:41.50,Default,Rize,0,0,0,,Th-Thanks.
 Dialogue: 10,0:12:41.50,0:12:44.57,Default,Rize,0,0,0,,I should have swallowed my pride and asked for help to begin with{from the start/in the first place}.
 Dialogue: 10,0:12:45.43,0:12:46.84,Default,Chiya,0,0,0,,I know!

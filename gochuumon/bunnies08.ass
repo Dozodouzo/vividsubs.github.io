@@ -6,15 +6,15 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-Aegisub Scroll Position: 8
-Aegisub Active Line: 36
-Aegisub Video Zoom Percent: 1.000000
+Aegisub Scroll Position: 4902
+Aegisub Active Line: 4913
+Aegisub Video Zoom Percent: 0.750000
 PlayResX: 1280
 PlayResY: 720
 Last Style Storage: Default
 Video File: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 08 [66F9F271].mkv
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 2248
+Aegisub Video Position: 4786
 Audio URI: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 08 [66F9F271].mkv
 
 [V4+ Styles]
@@ -4947,7 +4947,7 @@ Dialogue: 1,0:03:02.95,0:03:05.45,Signs,,0,0,0,,{\an7\fnpencilPete FONT\fs100\c&
 Dialogue: 1,0:03:02.95,0:03:05.45,Signs,,0,0,0,,{\an7\fnpencilPete FONT\fs100\c&HFEFFFB&\b1\blur0.6\pos(450.2,506.343)}Drenched in Tears
 Dialogue: 0,0:03:09.37,0:03:14.70,Default,Cocoa,0,0,0,,{\i1}Today, we're going to a hot springs pool to unwind from work.
 Dialogue: 0,0:03:16.43,0:03:19.17,Default,Cocoa,0,0,0,,It's like a castle!
-Dialogue: 0,0:03:19.61,0:03:22.77,Default,Rize,0,0,0,,This place is a renovated historical building, and it shows.
+Dialogue: 0,0:03:19.61,0:03:22.77,Default,Rize,0,0,0,,This place is a renovated \Nhistorical building, and it shows.
 Dialogue: 0,0:03:22.77,0:03:25.82,Default,Chiya,0,0,0,,I've never been to a hot spring \Nin a swimsuit before!
 Dialogue: 0,0:03:25.82,0:03:28.02,Default,Sharo,0,0,0,,We can swim and wash at the same time.
 Dialogue: 0,0:03:28.02,0:03:29.39,Default,Sharo,0,0,0,,Two birds with one stone!

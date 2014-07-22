@@ -9,11 +9,11 @@ YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Scroll Position: 7913
+Aegisub Scroll Position: 10181
 Video File: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 07 [BBA90938].mkv
-Aegisub Video Position: 31577
+Aegisub Video Position: 33759
 Audio URI: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 07 [BBA90938].mkv
-Aegisub Active Line: 7920
+Aegisub Active Line: 10190
 Aegisub Video Zoom Percent: 0.750000
 
 [V4+ Styles]
@@ -10223,7 +10223,7 @@ Dialogue: 0,0:23:12.41,0:23:12.61,Hop - English,,0,0,0,,{\org(-154,907)\pos(-154
 Dialogue: 0,0:23:27.01,0:23:37.06,Signs,bord,0,0,0,done,{\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\move(1668.16,577.333,518.666,577.333,21,5568)}Next Time   Drenched in the Pool, Drenched in the Rain, Drenched in Tears
 Dialogue: 1,0:23:27.01,0:23:37.06,Signs,bord,0,0,0,done,{\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\move(1668.16,577.333,518.666,577.333,21,5568)}Next Time   Drenched in the Pool, Drenched in the Rain, Drenched in Tears
 Dialogue: 2,0:23:27.01,0:23:37.06,Signs,bord,0,0,0,done,{\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\move(1668.16,577.333,518.666,577.333,21,5568)}Next Time   Drenched in the Pool, Drenched in the Rain, Drenched in Tears
-Dialogue: 10,0:23:28.03,0:23:28.92,Default,Dad,0,0,0,,{\i1}Amour.
+Dialogue: 10,0:23:28.03,0:23:28.92,Default,Dad,0,0,0,,Rain.
 Dialogue: 10,0:23:28.92,0:23:30.52,Default,Dad,0,0,0,,That which makes people true to themselves.
 Dialogue: 10,0:23:30.52,0:23:32.14,Default,Tippy,0,0,0,,Perhaps I should be true to these feel—
 Dialogue: 10,0:23:32.14,0:23:34.86,Default,Dad,0,0,0,,Chino gets more emotional at sunset.
