@@ -9,18 +9,14 @@ YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
 Last Style Storage: Default
-Audio URI: aldnoah02_premux.mkv
 Aegisub Video Zoom Percent: 1.000000
-Aegisub Scroll Position: 272
-Aegisub Active Line: 273
-Video File: aldnoah02_premux.mkv
-Aegisub Video Aspect Ratio: c1.777778
+Aegisub Scroll Position: 240
+Aegisub Active Line: 241
 Scroll Position: 0
 Active Line: 2
 Video Zoom Percent: 0.625
 Video Aspect Ratio: c1.77708
 Video Position: 408
-Aegisub Video Position: 20981
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -277,7 +273,7 @@ Dialogue: 5,0:11:54.36,0:11:56.12,Default,,0,0,0,,Sky rats.
 Dialogue: 5,0:11:56.12,0:11:57.24,Default,,0,0,0,,Slaine?
 Dialogue: 5,0:11:57.24,0:11:57.86,Default,,0,0,0,,Yes, sir.
 Dialogue: 5,0:12:05.45,0:12:07.11,Default,,0,0,0,,Dear oh dear.
-Dialogue: 5,0:12:07.11,0:12:11.66,Default,,0,0,0,,Count Crutheo didn't train you nearly enough.
+Dialogue: 5,0:12:07.11,0:12:11.66,Default,,0,0,0,,Count Cruhteo didn't train you nearly enough.
 Dialogue: 5,0:12:13.08,0:12:14.50,Default,,0,0,0,,Very well.
 Dialogue: 5,0:12:14.50,0:12:20.34,Default,,0,0,0,,Then I, Trillram, shall educate you \Nin the pleasures of war!
 Dialogue: 5,0:12:22.43,0:12:24.25,Default,,0,0,0,,They've started, huh?
