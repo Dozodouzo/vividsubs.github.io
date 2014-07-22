@@ -6,15 +6,15 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-Aegisub Scroll Position: 5066
-Aegisub Active Line: 5075
+Aegisub Scroll Position: 8318
+Aegisub Active Line: 8323
 Aegisub Video Zoom Percent: 0.750000
 PlayResX: 1280
 PlayResY: 720
 Last Style Storage: a thing
 Video File: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 05 [2C623D33].mkv
 Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 18157
+Aegisub Video Position: 33711
 Audio URI: [Vivid-Taku] Gochuumon wa Usagi Desu ka - 05 [2C623D33].mkv
 
 [V4+ Styles]
@@ -8356,41 +8356,41 @@ Dialogue: 0,0:23:11.37,0:23:11.57,Hop - English,,0,0,0,,{\org(-154,907)\pos(-154
 Dialogue: 0,0:23:11.37,0:23:11.57,Hop - English,,0,0,0,,{\org(-154,907)\pos(-154,72)\frz327.66119968607\t(\frz357.66119968607)\fad(0,200)\c&HE8DDD6&\3c&HE8DDD6&\blur3}t th
 Dialogue: 0,0:23:11.37,0:23:11.57,Hop - English,,0,0,0,,{\org(-154,907)\pos(-154,72)\frz323.48624150074\t(\frz353.48624150074)\fad(0,200)\c&HE8DDD6&\3c&HE8DDD6&\blur3}is f
 Dialogue: 0,0:23:11.37,0:23:11.57,Hop - English,,0,0,0,,{\org(-154,907)\pos(-154,72)\frz319.66455725534\t(\frz349.66455725534)\fad(0,200)\c&HE8DDD6&\3c&HE8DDD6&\blur3}un?
-Dialogue: 0,0:23:26.00,0:23:35.60,Signs,,0,0,0,,{\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\move(1456.37,577.524,304.508,577.524,30,5577)}Next Time   A Tale of Telling Tales
-Dialogue: 1,0:23:26.00,0:23:35.60,Signs,,0,0,0,,{\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\move(1456.37,577.524,304.508,577.524,30,5577)}Next Time   A Tale of Telling Tales
-Dialogue: 2,0:23:26.00,0:23:35.60,Signs,,0,0,0,,{\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\move(1456.37,577.524,304.508,577.524,30,5577)}Next Time   A Tale of Telling Tales
+Dialogue: 0,0:23:26.00,0:23:35.60,Signs,,0,0,0,,{\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\move(1456.37,577.524,304.508,577.524,30,5577)}Next Time   A Tale About Talking
+Dialogue: 1,0:23:26.00,0:23:35.60,Signs,,0,0,0,,{\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\move(1456.37,577.524,304.508,577.524,30,5577)}Next Time   A Tale About Talking
+Dialogue: 2,0:23:26.00,0:23:35.60,Signs,,0,0,0,,{\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\move(1456.37,577.524,304.508,577.524,30,5577)}Next Time   A Tale About Talking
 Dialogue: 10,0:23:27.67,0:23:30.02,Default,Tippy,0,0,0,,That girl still remembers me as...
 Dialogue: 10,0:23:30.02,0:23:30.84,Default,Dad,0,0,0,,What girl?
 Dialogue: 10,0:23:30.84,0:23:33.76,Default,Tippy,0,0,0,,You know, that Ao... Aoyama Blue... Blue...
 Dialogue: 10,0:23:33.76,0:23:34.42,Default,Dad,0,0,0,,AoBlu!
 Dialogue: 10,0:23:34.42,0:23:35.60,Default,Tippy,0,0,0,,Don't abbreviate it!
-Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 596 1052 l 596 1276 1028 1274 1024 1060 )}Next Time   A Tale of Telling Tales
-Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H1C&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 596 1052 l 594 1276 1028 1276 1026 1058 m 1024 1060 l 1028 1274 596 1276 596 1052 )}Next Time   A Tale of Telling Tales
-Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H38&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1276 1026 1058 m 1026 1058 l 1028 1276 594 1276 596 1052 )}Next Time   A Tale of Telling Tales
-Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H55&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1278 1028 1056 m 1026 1058 l 1030 1276 594 1278 594 1050 )}Next Time   A Tale of Telling Tales
-Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H71&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 592 1048 l 592 1280 1032 1278 1028 1056 m 1028 1056 l 1030 1278 594 1278 594 1050 )}Next Time   A Tale of Telling Tales
-Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H8D&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 592 1046 l 592 1282 1034 1278 1028 1056 m 1028 1056 l 1032 1278 592 1280 592 1048 )}Next Time   A Tale of Telling Tales
-Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HAA&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 590 1046 l 590 1282 1034 1280 1030 1054 m 1028 1056 l 1034 1278 592 1282 592 1046 )}Next Time   A Tale of Telling Tales
-Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HC6&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 590 1044 l 590 1284 1036 1280 1030 1054 m 1030 1054 l 1034 1280 590 1282 590 1046 )}Next Time   A Tale of Telling Tales
-Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HE2&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 588 1044 l 588 1284 1036 1282 1032 1052 m 1030 1054 l 1036 1280 590 1284 590 1044 )}Next Time   A Tale of Telling Tales
-Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 596 1052 l 596 1276 1028 1274 1024 1060 )}Next Time   A Tale of Telling Tales
-Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H1C&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 596 1052 l 594 1276 1028 1276 1026 1058 m 1024 1060 l 1028 1274 596 1276 596 1052 )}Next Time   A Tale of Telling Tales
-Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H38&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1276 1026 1058 m 1026 1058 l 1028 1276 594 1276 596 1052 )}Next Time   A Tale of Telling Tales
-Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H55&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1278 1028 1056 m 1026 1058 l 1030 1276 594 1278 594 1050 )}Next Time   A Tale of Telling Tales
-Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H71&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 592 1048 l 592 1280 1032 1278 1028 1056 m 1028 1056 l 1030 1278 594 1278 594 1050 )}Next Time   A Tale of Telling Tales
-Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H8D&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 592 1046 l 592 1282 1034 1278 1028 1056 m 1028 1056 l 1032 1278 592 1280 592 1048 )}Next Time   A Tale of Telling Tales
-Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HAA&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 590 1046 l 590 1282 1034 1280 1030 1054 m 1028 1056 l 1034 1278 592 1282 592 1046 )}Next Time   A Tale of Telling Tales
-Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HC6&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 590 1044 l 590 1284 1036 1280 1030 1054 m 1030 1054 l 1034 1280 590 1282 590 1046 )}Next Time   A Tale of Telling Tales
-Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HE2&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 588 1044 l 588 1284 1036 1282 1032 1052 m 1030 1054 l 1036 1280 590 1284 590 1044 )}Next Time   A Tale of Telling Tales
-Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 596 1052 l 596 1276 1028 1274 1024 1060 )}Next Time   A Tale of Telling Tales
-Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H1C&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 596 1052 l 594 1276 1028 1276 1026 1058 m 1024 1060 l 1028 1274 596 1276 596 1052 )}Next Time   A Tale of Telling Tales
-Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H38&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1276 1026 1058 m 1026 1058 l 1028 1276 594 1276 596 1052 )}Next Time   A Tale of Telling Tales
-Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H55&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1278 1028 1056 m 1026 1058 l 1030 1276 594 1278 594 1050 )}Next Time   A Tale of Telling Tales
-Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H71&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 592 1048 l 592 1280 1032 1278 1028 1056 m 1028 1056 l 1030 1278 594 1278 594 1050 )}Next Time   A Tale of Telling Tales
-Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H8D&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 592 1046 l 592 1282 1034 1278 1028 1056 m 1028 1056 l 1032 1278 592 1280 592 1048 )}Next Time   A Tale of Telling Tales
-Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HAA&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 590 1046 l 590 1282 1034 1280 1030 1054 m 1028 1056 l 1034 1278 592 1282 592 1046 )}Next Time   A Tale of Telling Tales
-Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HC6&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 590 1044 l 590 1284 1036 1280 1030 1054 m 1030 1054 l 1034 1280 590 1282 590 1046 )}Next Time   A Tale of Telling Tales
-Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HE2&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 588 1044 l 588 1284 1036 1282 1032 1052 m 1030 1054 l 1036 1280 590 1284 590 1044 )}Next Time   A Tale of Telling Tales
+Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 596 1052 l 596 1276 1028 1274 1024 1060 )}Next Time   A Tale About Talking
+Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H1C&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 596 1052 l 594 1276 1028 1276 1026 1058 m 1024 1060 l 1028 1274 596 1276 596 1052 )}Next Time   A Tale About Talking
+Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H38&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1276 1026 1058 m 1026 1058 l 1028 1276 594 1276 596 1052 )}Next Time   A Tale About Talking
+Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H55&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1278 1028 1056 m 1026 1058 l 1030 1276 594 1278 594 1050 )}Next Time   A Tale About Talking
+Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H71&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 592 1048 l 592 1280 1032 1278 1028 1056 m 1028 1056 l 1030 1278 594 1278 594 1050 )}Next Time   A Tale About Talking
+Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H8D&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 592 1046 l 592 1282 1034 1278 1028 1056 m 1028 1056 l 1032 1278 592 1280 592 1048 )}Next Time   A Tale About Talking
+Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HAA&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 590 1046 l 590 1282 1034 1280 1030 1054 m 1028 1056 l 1034 1278 592 1282 592 1046 )}Next Time   A Tale About Talking
+Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HC6&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 590 1044 l 590 1284 1036 1280 1030 1054 m 1030 1054 l 1034 1280 590 1282 590 1046 )}Next Time   A Tale About Talking
+Dialogue: 0,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HE2&\c&H000000&\fnHigh Tower Text\blur2\fs30\bord0.6\b1\pos(304.508,577.524)\clip(2,m 588 1044 l 588 1284 1036 1282 1032 1052 m 1030 1054 l 1036 1280 590 1284 590 1044 )}Next Time   A Tale About Talking
+Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 596 1052 l 596 1276 1028 1274 1024 1060 )}Next Time   A Tale About Talking
+Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H1C&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 596 1052 l 594 1276 1028 1276 1026 1058 m 1024 1060 l 1028 1274 596 1276 596 1052 )}Next Time   A Tale About Talking
+Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H38&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1276 1026 1058 m 1026 1058 l 1028 1276 594 1276 596 1052 )}Next Time   A Tale About Talking
+Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H55&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1278 1028 1056 m 1026 1058 l 1030 1276 594 1278 594 1050 )}Next Time   A Tale About Talking
+Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H71&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 592 1048 l 592 1280 1032 1278 1028 1056 m 1028 1056 l 1030 1278 594 1278 594 1050 )}Next Time   A Tale About Talking
+Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H8D&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 592 1046 l 592 1282 1034 1278 1028 1056 m 1028 1056 l 1032 1278 592 1280 592 1048 )}Next Time   A Tale About Talking
+Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HAA&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 590 1046 l 590 1282 1034 1280 1030 1054 m 1028 1056 l 1034 1278 592 1282 592 1046 )}Next Time   A Tale About Talking
+Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HC6&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 590 1044 l 590 1284 1036 1280 1030 1054 m 1030 1054 l 1034 1280 590 1282 590 1046 )}Next Time   A Tale About Talking
+Dialogue: 1,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HE2&\c&H000000&\fnHigh Tower Text\blur0.5\fs30\bord0.5\b1\pos(304.508,577.524)\clip(2,m 588 1044 l 588 1284 1036 1282 1032 1052 m 1030 1054 l 1036 1280 590 1284 590 1044 )}Next Time   A Tale About Talking
+Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 596 1052 l 596 1276 1028 1274 1024 1060 )}Next Time   A Tale About Talking
+Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H1C&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 596 1052 l 594 1276 1028 1276 1026 1058 m 1024 1060 l 1028 1274 596 1276 596 1052 )}Next Time   A Tale About Talking
+Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H38&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1276 1026 1058 m 1026 1058 l 1028 1276 594 1276 596 1052 )}Next Time   A Tale About Talking
+Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H55&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 594 1050 l 594 1278 1030 1278 1028 1056 m 1026 1058 l 1030 1276 594 1278 594 1050 )}Next Time   A Tale About Talking
+Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H71&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 592 1048 l 592 1280 1032 1278 1028 1056 m 1028 1056 l 1030 1278 594 1278 594 1050 )}Next Time   A Tale About Talking
+Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&H8D&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 592 1046 l 592 1282 1034 1278 1028 1056 m 1028 1056 l 1032 1278 592 1280 592 1048 )}Next Time   A Tale About Talking
+Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HAA&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 590 1046 l 590 1282 1034 1280 1030 1054 m 1028 1056 l 1034 1278 592 1282 592 1046 )}Next Time   A Tale About Talking
+Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HC6&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 590 1044 l 590 1284 1036 1280 1030 1054 m 1030 1054 l 1034 1280 590 1282 590 1046 )}Next Time   A Tale About Talking
+Dialogue: 2,0:23:35.60,0:23:35.68,Signs,,0,0,0,,{\alpha&HE2&\fnHigh Tower Text\blur0.5\fs30\b1\c&HFFFFFF&\pos(304.508,577.524)\clip(2,m 588 1044 l 588 1284 1036 1282 1032 1052 m 1030 1054 l 1036 1280 590 1284 590 1044 )}Next Time   A Tale About Talking
 Dialogue: 0,0:23:36.06,0:23:40.07,Signs,,0,0,0,,{\blur2\an7\fs65\fnChinacat\b1\shad6\3c&HF3FEF6&\c&HF3FEF6&\4c&H000000&\4a&H64&\pos(760.857,31.428)}We Hope\NYou'll Visit Us Again
 Dialogue: 1,0:23:36.06,0:23:40.07,Signs,,0,0,0,,{\blur0.5\an7\fs65\fnChinacat\b1\bord2.5\3c&HF3FEF6&\c&HF3FEF6&\pos(760.857,31.428)}We Hope\NYou'll Visit Us Again
 Dialogue: 2,0:23:36.06,0:23:40.07,Signs,,0,0,0,,{\an7\fs65\fnChinacat\b1\c&HFF77FF&\blur0.5\pos(760.857,31.428)}We Hope\NYou'll Visit Us Again
