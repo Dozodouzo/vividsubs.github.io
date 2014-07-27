@@ -10,12 +10,8 @@ PlayResX: 1280
 PlayResY: 720
 Video Aspect Ratio: c1.77708
 Aegisub Video Zoom Percent: 1.000000
-Aegisub Active Line: 768
-Aegisub Scroll Position: 762
-Video File: ../../editing/aldnoah/03/aldnoah03_premux.mkv
-Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 15816
-Audio URI: ../../editing/aldnoah/03/aldnoah03_premux.mkv
+Aegisub Active Line: 617
+Aegisub Scroll Position: 600
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -650,7 +646,7 @@ Dialogue: 0,0:02:42.34,0:02:44.51,Default,,0,0,0,,You are the only survivor,
 Dialogue: 0,0:02:46.15,0:02:48.27,Default,,0,0,0,,Lieutenant Marito Kouichirou.
 Dialogue: 0,0:02:49.47,0:02:50.27,Default,,0,0,0,,Who're you?
 Dialogue: 0,0:02:51.09,0:02:52.81,Default,,0,0,0,,Darzana Magbaredge.
-Dialogue: 0,0:02:52.81,0:02:57.33,Default,,0,0,0,,Captain of the Watatsumi, an amphibious assault ship \Nattached to the Fourth Escort Fleet.
+Dialogue: 0,0:02:52.81,0:02:57.33,Default,,0,0,0,,Captain of the Wadatsumi, an amphibious assault ship \Nattached to the Fourth Escort Fleet.
 Dialogue: 0,0:02:58.27,0:03:00.91,Default,,0,0,0,,This is Mizusaki Kaoru, my XO.
 Dialogue: 0,0:03:01.47,0:03:04.26,Default,,0,0,0,,One of my subordinates is still fighting in the northern sector.
 Dialogue: 0,0:03:04.26,0:03:07.33,Default,,0,0,0,,The only reason this place isn't rubble already is because she's holding them off!
