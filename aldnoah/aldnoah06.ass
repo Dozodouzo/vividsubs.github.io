@@ -11,14 +11,13 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: ED
-Audio File: aldnoah06_premux[6B3DF073].mkv
-Video File: aldnoah06_premux[6B3DF073].mkv
-Keyframes File: aldnoah06_premux[6B3DF073]_keyframes.log
+Audio File: aldnoah06_premux.mkv
+Video File: aldnoah06_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 750
-Active Line: 752
-Video Position: 15910
+Scroll Position: 731
+Active Line: 735
+Video Position: 14117
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -767,7 +766,8 @@ Dialogue: 0,0:09:24.33,0:09:27.71,Default,,0,0,0,,Technology that was found in\N
 Dialogue: 0,0:09:27.71,0:09:33.92,Default,,0,0,0,,the planet your people call Mars. The legacy of an ancient, highly advanced civilization.
 Dialogue: 0,0:09:34.76,0:09:42.97,Default,,0,0,0,,The first Terran to make contact and awaken it \Nwas Dr. Rayregalia Vers Rayvers—
 Dialogue: 0,0:09:42.97,0:09:46.77,Default,,0,0,0,,my grandfather, and the ruling emperor of Vers.
-Dialogue: 0,0:09:48.77,0:09:56.24,Default,,0,0,0,,Aldnoah recognized my father as its rightful inheritor when it was activated after so many millennia,
+Dialogue: 0,0:09:48.77,0:09:52.09,Default,,0,0,0,,Upon being activated after so many millennia,
+Dialogue: 0,0:09:52.09,0:09:56.24,Default,,0,0,0,,Aldnoah recognized my grandfather as its rightful inheritor,
 Dialogue: 0,0:09:56.24,0:10:01.87,Default,,0,0,0,,and it wrote the activation factor for Aldnoah into his very genes.
 Dialogue: 0,0:10:01.87,0:10:03.08,Default,,0,0,0,,Which means...
 Dialogue: 0,0:10:03.08,0:10:04.29,Default,,0,0,0,,Yes.
@@ -778,7 +778,7 @@ Dialogue: 0,0:10:21.72,0:10:29.23,Default,,0,0,0,,The knights used that power to
 Dialogue: 0,0:10:32.48,0:10:40.95,Default,,0,0,0,,Having settled the barren wasteland of Mars, \Nthey next set their eyes on Earth.
 Dialogue: 0,0:10:40.95,0:10:47.12,Default,,0,0,0,,The birthplace of mankind, a land possessing water and air in such abundance
 Dialogue: 0,0:10:47.12,0:10:49.96,Default,,0,0,0,,that they refract light, \Nturning the sea and sky blue.
-Dialogue: 0,0:10:49.96,0:10:51.54,Default,,0,0,0,,That's isn't right.
+Dialogue: 0,0:10:49.96,0:10:51.54,Default,,0,0,0,,That isn't right.
 Dialogue: 0,0:10:52.50,0:10:55.00,Default,,0,0,0,,The sky isn't blue because of refraction.
 Dialogue: 0,0:10:55.00,0:10:56.76,Default,,0,0,0,,It's caused by Rayleigh scattering.
 Dialogue: 0,0:10:56.76,0:10:57.59,Default,,0,0,0,,Huh?
