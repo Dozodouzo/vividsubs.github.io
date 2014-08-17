@@ -15,8 +15,8 @@ Audio File: aldnoah06_premux.mkv
 Video File: aldnoah06_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 731
-Active Line: 735
+Scroll Position: 816
+Active Line: 856
 Video Position: 14117
 
 [V4+ Styles]
@@ -888,7 +888,7 @@ Dialogue: 0,0:17:22.14,0:17:25.52,Default,,0,0,0,,An inferior race with no Aldno
 Dialogue: 0,0:17:26.69,0:17:28.27,Default,,0,0,0,,Cower before my power,
 Dialogue: 0,0:17:28.27,0:17:29.82,Default,,0,0,0,,submit to me,
 Dialogue: 0,0:17:29.82,0:17:31.53,Default,,0,0,0,,and then die in despair!
-Dialogue: 0,0:17:35.41,0:17:37.95,Default,,0,0,0,,Fly, my brothers!{眷族}
+Dialogue: 0,0:17:35.41,0:17:37.95,Default,,0,0,0,,Fly, my children!
 Dialogue: 0,0:17:52.13,0:17:53.26,Default,,0,0,0,,Spread out!
 Dialogue: 0,0:17:53.26,0:17:54.67,Default,,0,0,0,,Clustering up makes you easier to hit!
 Dialogue: 0,0:18:00.89,0:18:01.64,Default,,0,0,0,,Damn, they're tough!
