@@ -16,7 +16,8 @@ Audio File: Nagi.05.premux.720p.mkv
 Video File: Nagi.05.premux.720p.mkv
 Keyframes File: ../../kf/Nagi.05.keyframes.txt
 Video Zoom Percent: 0.625000
-Active Line: 12
+Scroll Position: 437
+Active Line: 465
 Video Position: 221
 
 [V4+ Styles]
@@ -35,6 +36,7 @@ Style: ED-english,URWAlcuinT,43,&H00FFFFFF,&H000000FF,&H782E3B39,&H00000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 5,0:00:00.00,0:00:00.00,Default,,0,0,0,,{OP}
 Dialogue: 5,0:00:09.19,0:00:11.28,Default,,0,0,0,,G'morning, Hikari!
 Dialogue: 5,0:00:12.97,0:00:13.82,Default,,0,0,0,,You're up early.
 Dialogue: 5,0:00:14.33,0:00:17.41,Default,,0,0,0,,Yeah, I was thinking I'd go to work today.
@@ -59,7 +61,37 @@ Dialogue: 5,0:01:18.15,0:01:20.32,Default,,0,0,0,,It is not up to me.
 Dialogue: 5,0:01:20.32,0:01:22.93,Default,,0,0,0,,Akari will make her own decisions.
 Dialogue: 5,0:01:23.91,0:01:25.12,Default,,0,0,0,,Oh?
 Dialogue: 5,0:01:25.56,0:01:29.06,Default,,0,0,0,,Throughout the innumerable ages...
-Comment: 5,0:00:00.00,0:00:00.00,Default,,0,0,0,,{OP}
+Dialogue: 5,0:01:29.06,0:01:29.61,OP-romaji,,0,0,0,,{OP}
+Dialogue: 0,0:01:43.95,0:01:50.98,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}T{*\3c&HB75B08&}h{*\3c&HB65A08&}e {*\3c&HB35908&}l{*\3c&HB25808&}i{*\3c&HB15707&}g{*\3c&HAF5707&}h{*\3c&HAE5607&}t {*\3c&HAB5507&}o{*\3c&HAA5407&}c{*\3c&HA95306&}e{*\3c&HA75206&}a{*\3c&HA65206&}n {*\3c&HA35006&}b{*\3c&HA25006&}r{*\3c&HA14F05&}e{*\3c&H9F4E05&}e{*\3c&H9E4E05&}z{*\3c&H9D4D05&}e {*\3c&H9A4B05&}b{*\3c&H994B04&}l{*\3c&H974A04&}e{*\3c&H964904&}w {*\3c&H944804&}t{*\3c&H924704&}h{*\3c&H914703&}e {*\3c&H8E4503&}h{*\3c&H8D4403&}a{*\3c&H8C4403&}i{*\3c&H8A4303&}r {*\3c&H884202&}f{*\3c&H864102&}r{*\3c&H854002&}o{*\3c&H844002&}m {*\3c&H813E01&}m{*\3c&H803D01&}y {*\3c&H7D3C01&}s{*\3c&H7C3B01&}h{*\3c&H7A3B01&}o{*\3c&H793A00&}u{*\3c&H783900&}l{*\3c&H763900&}d{*\3c&H753800&}e{*\3c&H743700&}r{\3c&H733700&}s
+Dialogue: 0,0:01:43.95,0:01:50.98,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}k{*\3c&H753800&}a{*\3c&H783900&}t{*\3c&H7A3A00&}a {*\3c&H7F3D01&}w{*\3c&H823E01&}o {*\3c&H874102&}s{*\3c&H894202&}a{*\3c&H8C4403&}r{*\3c&H8E4503&}a{*\3c&H914603&}t{*\3c&H934804&}t{*\3c&H964904&}a {*\3c&H9B4C05&}a{*\3c&H9D4D05&}w{*\3c&HA04E05&}a{*\3c&HA25006&}i {*\3c&HA75206&}s{*\3c&HAA5407&}h{*\3c&HAC5507&}i{*\3c&HAF5607&}o{*\3c&HB15808&}k{*\3c&HB45908&}a{*\3c&HB65A08&}z{\3c&HB95C09&}e
+Dialogue: 0,0:01:50.98,0:01:56.55,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}S{*\3c&HB65A08&}o{*\3c&HB35908&}m{*\3c&HB15708&}e{*\3c&HAE5607&}o{*\3c&HAC5507&}n{*\3c&HA95307&}e {*\3c&HA45106&}r{*\3c&HA14F06&}a{*\3c&H9F4E05&}n {*\3c&H994B05&}a {*\3c&H944804&}d{*\3c&H924704&}i{*\3c&H8F4603&}s{*\3c&H8C4403&}t{*\3c&H8A4303&}a{*\3c&H874102&}n{*\3c&H854002&}c{*\3c&H823F02&}e {*\3c&H7D3C01&}a{*\3c&H7A3B01&}w{*\3c&H783900&}a{*\3c&H753800&}y{\3c&H733700&},
+Dialogue: 0,0:01:50.98,0:01:56.55,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}k{*\3c&H753800&}a{*\3c&H783A00&}k{*\3c&H7B3B01&}e{*\3c&H7E3D01&}r{*\3c&H813E01&}u {*\3c&H874102&}c{*\3c&H8A4303&}h{*\3c&H8D4403&}i{*\3c&H904603&}i{*\3c&H934704&}s{*\3c&H964904&}a{*\3c&H984B04&}n{*\3c&H9B4C05&}a {*\3c&HA14F06&}s{*\3c&HA45106&}e{*\3c&HA75206&}n{*\3c&HAA5407&}a{*\3c&HAD5507&}k{*\3c&HB05707&}a {*\3c&HB65A08&}w{\3c&HB95C09&}o
+Dialogue: 0,0:01:58.26,0:02:04.22,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}b{*\3c&HB75B08&}u{*\3c&HB55A08&}t {*\3c&HB25808&}a{*\3c&HB15707&}l{*\3c&HAF5607&}l {*\3c&HAC5507&}I {*\3c&HA95306&}d{*\3c&HA75206&}i{*\3c&HA55106&}d {*\3c&HA25006&}w{*\3c&HA14F05&}a{*\3c&H9F4E05&}s {*\3c&H9C4C05&}l{*\3c&H9A4C05&}o{*\3c&H994B04&}o{*\3c&H974A04&}k {*\3c&H944804&}a{*\3c&H924704&}t {*\3c&H8F4603&}t{*\3c&H8E4503&}h{*\3c&H8C4403&}e{*\3c&H8A4303&}i{*\3c&H894202&}r {*\3c&H864102&}b{*\3c&H844002&}a{*\3c&H823F02&}c{*\3c&H813E01&}k {*\3c&H7E3C01&}s{*\3c&H7C3C01&}i{*\3c&H7A3B01&}l{*\3c&H793A00&}e{*\3c&H773900&}n{*\3c&H763800&}t{*\3c&H743700&}l{\3c&H733700&}y
+Dialogue: 0,0:01:58.26,0:02:04.22,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}b{*\3c&H753800&}o{*\3c&H773900&}k{*\3c&H793A00&}u {*\3c&H7E3C01&}w{*\3c&H803E01&}a {*\3c&H854002&}d{*\3c&H874102&}a{*\3c&H894202&}m{*\3c&H8B4403&}a{*\3c&H8E4503&}t{*\3c&H904603&}t{*\3c&H924704&}e {*\3c&H974A04&}t{*\3c&H994B04&}a{*\3c&H9B4C05&}d{*\3c&H9D4D05&}a {*\3c&HA25006&}m{*\3c&HA45106&}i{*\3c&HA65206&}t{*\3c&HA95306&}s{*\3c&HAB5407&}u{*\3c&HAD5607&}m{*\3c&HAF5707&}e{*\3c&HB25808&}t{*\3c&HB45908&}e{*\3c&HB65A08&}t{\3c&HB95C09&}a
+Dialogue: 0,0:02:04.22,0:02:09.27,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,0)\blur2}f{*\3c&HB75B08&}r{*\3c&HB55A08&}o{*\3c&HB35908&}m {*\3c&HAF5707&}t{*\3c&HAD5607&}h{*\3c&HAC5507&}e {*\3c&HA85306&}i{*\3c&HA65206&}m{*\3c&HA45106&}m{*\3c&HA25006&}o{*\3c&HA14F05&}b{*\3c&H9F4E05&}i{*\3c&H9D4D05&}l{*\3c&H9B4C05&}i{*\3c&H994B04&}t{*\3c&H974A04&}y {*\3c&H944804&}o{*\3c&H924704&}f {*\3c&H8E4503&}m{*\3c&H8C4403&}y {*\3c&H894202&}v{*\3c&H874102&}a{*\3c&H854002&}n{*\3c&H833F02&}t{*\3c&H813E01&}a{*\3c&H7F3D01&}g{*\3c&H7E3C01&}e {*\3c&H7A3A00&}p{*\3c&H783900&}o{*\3c&H763800&}i{*\3c&H743700&}n{\3c&H733700&}t
+Dialogue: 0,0:02:04.22,0:02:09.27,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,0)}f{*\3c&H763800&}u{*\3c&H7A3A00&}m{*\3c&H7D3C01&}i{*\3c&H813E01&}d{*\3c&H844002&}a{*\3c&H884202&}s{*\3c&H8B4303&}e{*\3c&H8F4503&}n{*\3c&H924704&}a{*\3c&H964904&}i {*\3c&H9D4D05&}h{*\3c&HA04F05&}a{*\3c&HA45006&}z{*\3c&HA75206&}a{*\3c&HAB5407&}m{*\3c&HAE5607&}a {*\3c&HB55A08&}d{\3c&HB95C09&}e
+Dialogue: 0,0:02:12.77,0:02:20.10,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}W{*\3c&HB75B08&}a{*\3c&HB55A08&}r{*\3c&HB35908&}m {*\3c&HB05707&}s{*\3c&HAE5607&}u{*\3c&HAC5507&}n{*\3c&HAB5407&}l{*\3c&HA95306&}i{*\3c&HA75206&}g{*\3c&HA55106&}h{*\3c&HA45006&}t {*\3c&HA04F05&}s{*\3c&H9E4E05&}t{*\3c&H9D4D05&}r{*\3c&H9B4C05&}e{*\3c&H994B04&}a{*\3c&H974A04&}m{*\3c&H964904&}s {*\3c&H924704&}i{*\3c&H904603&}n{*\3c&H8F4503&}t{*\3c&H8D4403&}o {*\3c&H894302&}o{*\3c&H884202&}u{*\3c&H864102&}r {*\3c&H823F02&}c{*\3c&H813E01&}l{*\3c&H7F3D01&}a{*\3c&H7D3C01&}s{*\3c&H7B3B01&}s{*\3c&H7A3A00&}r{*\3c&H783900&}o{*\3c&H763800&}o{*\3c&H743700&}m{\3c&H733700&},
+Dialogue: 0,0:02:12.77,0:02:20.10,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}y{*\3c&H743700&}a{*\3c&H763800&}w{*\3c&H783900&}a{*\3c&H793A00&}r{*\3c&H7B3B01&}a{*\3c&H7D3C01&}k{*\3c&H7E3D01&}a{*\3c&H803E01&}i {*\3c&H833F02&}h{*\3c&H854002&}i{*\3c&H874102&}z{*\3c&H884202&}a{*\3c&H8A4303&}s{*\3c&H8C4403&}h{*\3c&H8D4503&}i {*\3c&H914603&}t{*\3c&H924704&}s{*\3c&H944804&}u{*\3c&H964904&}t{*\3c&H974A04&}s{*\3c&H994B04&}u{*\3c&H9B4C05&}m{*\3c&H9C4D05&}u {*\3c&HA04E05&}k{*\3c&HA14F06&}y{*\3c&HA35006&}o{*\3c&HA55106&}u{*\3c&HA65206&}s{*\3c&HA85306&}h{*\3c&HAA5407&}i{*\3c&HAB5407&}t{*\3c&HAD5507&}s{*\3c&HAF5607&}u {*\3c&HB25808&}n{*\3c&HB45908&}i {*\3c&HB75B08&}w{\3c&HB95C09&}a
+Dialogue: 0,0:02:20.10,0:02:27.12,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}a{*\3c&HB75B08&}n{*\3c&HB65A08&}d {*\3c&HB45908&}w{*\3c&HB35808&}e {*\3c&HB05707&}a{*\3c&HAF5707&}r{*\3c&HAE5607&}e {*\3c&HAC5507&}l{*\3c&HAB5407&}a{*\3c&HAA5407&}u{*\3c&HA85306&}g{*\3c&HA75206&}h{*\3c&HA65206&}i{*\3c&HA55106&}n{*\3c&HA45106&}g {*\3c&HA24F06&}i{*\3c&HA04F05&}n {*\3c&H9E4E05&}a{*\3c&H9D4D05&}l{*\3c&H9C4C05&}l {*\3c&H9A4B05&}t{*\3c&H984B04&}h{*\3c&H974A04&}e {*\3c&H954904&}p{*\3c&H944804&}i{*\3c&H934704&}c{*\3c&H914703&}t{*\3c&H904603&}u{*\3c&H8F4603&}r{*\3c&H8E4503&}e{*\3c&H8D4403&}s {*\3c&H8B4303&}t{*\3c&H894302&}h{*\3c&H884202&}a{*\3c&H874102&}t {*\3c&H854002&}d{*\3c&H844002&}e{*\3c&H833F02&}c{*\3c&H813E01&}o{*\3c&H803E01&}r{*\3c&H7F3D01&}a{*\3c&H7E3D01&}t{*\3c&H7D3C01&}e {*\3c&H7B3B01&}t{*\3c&H793A00&}h{*\3c&H783A00&}e {*\3c&H763800&}w{*\3c&H753800&}a{*\3c&H743700&}l{\3c&H733700&}l
+Dialogue: 0,0:02:20.10,0:02:27.12,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}k{*\3c&H753800&}a{*\3c&H773900&}z{*\3c&H793A00&}a{*\3c&H7B3B01&}t{*\3c&H7D3C01&}t{*\3c&H7F3D01&}a {*\3c&H833F02&}s{*\3c&H854002&}h{*\3c&H874102&}a{*\3c&H894202&}s{*\3c&H8B4303&}h{*\3c&H8D4403&}i{*\3c&H8F4503&}n{*\3c&H914603&}t{*\3c&H934704&}a{*\3c&H954804&}c{*\3c&H974A04&}h{*\3c&H994B04&}i {*\3c&H9D4D05&}g{*\3c&H9F4E05&}a {*\3c&HA35006&}w{*\3c&HA55106&}a{*\3c&HA75206&}r{*\3c&HA95306&}a{*\3c&HAB5407&}t{*\3c&HAD5507&}t{*\3c&HAF5607&}a {*\3c&HB35808&}m{*\3c&HB55908&}a{*\3c&HB75A08&}m{\3c&HB95C09&}a
+Dialogue: 0,0:02:28.35,0:02:35.55,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}T{*\3c&HB65A08&}h{*\3c&HB45908&}e {*\3c&HB05707&}f{*\3c&HAE5607&}u{*\3c&HAB5507&}t{*\3c&HA95307&}u{*\3c&HA75206&}r{*\3c&HA55106&}e {*\3c&HA04F05&}a{*\3c&H9E4E05&}h{*\3c&H9C4C05&}e{*\3c&H9A4B05&}a{*\3c&H984A04&}d {*\3c&H934804&}o{*\3c&H914703&}f {*\3c&H8D4403&}u{*\3c&H8B4303&}s {*\3c&H864102&}i{*\3c&H844002&}s {*\3c&H803D01&}e{*\3c&H7D3C01&}n{*\3c&H7B3B01&}d{*\3c&H793A00&}l{*\3c&H773900&}e{*\3c&H753800&}s{\3c&H733700&}s
+Dialogue: 0,0:02:28.35,0:02:35.55,OP-romaji,,0,0,0,,{\fad(150,150)\blur2\3c&H733700&}t{*\3c&H743700&}o{*\3c&H763800&}m{*\3c&H783900&}e{*\3c&H7A3A00&}d{*\3c&H7B3B01&}o {*\3c&H7F3D01&}n{*\3c&H813E01&}a{*\3c&H833F02&}i {*\3c&H864102&}a{*\3c&H884202&}s{*\3c&H8A4303&}u {*\3c&H8D4503&}n{*\3c&H8F4603&}i {*\3c&H934804&}k{*\3c&H954904&}a{*\3c&H964904&}w{*\3c&H984A04&}a{*\3c&H9A4B05&}r{*\3c&H9C4C05&}a{*\3c&H9E4D05&}n{*\3c&H9F4E05&}a{*\3c&HA14F06&}i {*\3c&HA55106&}b{*\3c&HA75206&}o{*\3c&HA85306&}k{*\3c&HAA5407&}u{*\3c&HAC5507&}t{*\3c&HAE5607&}a{*\3c&HB05707&}c{*\3c&HB15808&}h{*\3c&HB35908&}i {*\3c&HB75B08&}w{\3c&HB95C09&}a
+Dialogue: 0,0:02:35.55,0:02:39.17,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}a{*\3c&HB45908&}n{*\3c&HAF5607&}d {*\3c&HA55106&}p{*\3c&HA04E05&}r{*\3c&H9B4C05&}o{*\3c&H964904&}m{*\3c&H914603&}i{*\3c&H8C4403&}s{*\3c&H874102&}e{*\3c&H823E01&}s {*\3c&H783900&}u{\3c&H733700&}s
+Dialogue: 0,0:02:35.55,0:02:39.17,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}n{*\3c&H763900&}a{*\3c&H7A3B01&}g{*\3c&H7E3D01&}u {*\3c&H864102&}m{*\3c&H8A4303&}i{*\3c&H8E4503&}n{*\3c&H924704&}a{*\3c&H964904&}m{*\3c&H994B05&}o {*\3c&HA14F06&}n{*\3c&HA55106&}o {*\3c&HAD5507&}s{*\3c&HB15708&}a{*\3c&HB55908&}k{\3c&HB95C09&}i
+Dialogue: 0,0:02:39.17,0:02:41.80,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}c{*\3c&HB05707&}a{*\3c&HA75206&}l{*\3c&H9E4E05&}m {*\3c&H8D4403&}s{*\3c&H844002&}e{*\3c&H7B3B01&}a{\3c&H733700&}s
+Dialogue: 0,0:02:39.17,0:02:41.80,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}d{*\3c&H763800&}o{*\3c&H7A3A00&}k{*\3c&H7D3C01&}o{*\3c&H813E01&}m{*\3c&H844002&}a{*\3c&H884202&}d{*\3c&H8B4303&}e {*\3c&H924704&}m{*\3c&H964904&}o {*\3c&H9D4D05&}u{*\3c&HA04F05&}t{*\3c&HA45006&}s{*\3c&HA75206&}u{*\3c&HAB5407&}s{*\3c&HAE5607&}h{*\3c&HB25808&}i{*\3c&HB55A08&}t{\3c&HB95C09&}e
+Dialogue: 0,0:02:42.24,0:02:46.36,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}T{*\3c&HB45908&}h{*\3c&HB05707&}i{*\3c&HAC5507&}s {*\3c&HA45106&}i{*\3c&HA04E05&}s {*\3c&H984A04&}a{*\3c&H934804&}l{*\3c&H8F4603&}l {*\3c&H874102&}I {*\3c&H7F3D01&}n{*\3c&H7B3B01&}e{*\3c&H773900&}e{\3c&H733700&}d
+Dialogue: 0,0:02:42.24,0:02:46.36,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}k{*\3c&H783900&}o{*\3c&H7D3C01&}n{*\3c&H823E01&}o {*\3c&H8C4403&}m{*\3c&H914603&}a{*\3c&H964904&}m{*\3c&H9B4C05&}a {*\3c&HA55106&}d{*\3c&HAA5407&}e {*\3c&HB45908&}i{\3c&HB95C09&}i
+Dialogue: 0,0:02:46.36,0:02:53.02,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}I{*\3c&HB55908&}n {*\3c&HAD5507&}y{*\3c&HA95307&}o{*\3c&HA55106&}u{*\3c&HA14F06&}r {*\3c&H994B05&}e{*\3c&H964904&}y{*\3c&H924704&}e{*\3c&H8E4503&}s{*\3c&H8A4303&}, {*\3c&H823F02&}I {*\3c&H7A3B01&}s{*\3c&H763900&}a{\3c&H733700&}w
+Dialogue: 0,0:02:46.36,0:02:53.02,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}s{*\3c&H753800&}o{*\3c&H773900&}n{*\3c&H7A3A00&}o {*\3c&H7E3D01&}h{*\3c&H813E01&}i{*\3c&H833F02&}t{*\3c&H854002&}o{*\3c&H884202&}m{*\3c&H8A4303&}i {*\3c&H8F4503&}n{*\3c&H914703&}i {*\3c&H964904&}y{*\3c&H984A04&}u{*\3c&H9A4B05&}r{*\3c&H9D4D05&}e{*\3c&H9F4E05&}t{*\3c&HA14F06&}e{*\3c&HA45006&}t{*\3c&HA65206&}a {*\3c&HAB5407&}h{*\3c&HAD5507&}a{*\3c&HAF5707&}k{*\3c&HB25808&}a{*\3c&HB45908&}n{*\3c&HB65A08&}a{\3c&HB95C09&}i
+Dialogue: 0,0:02:53.02,0:02:55.53,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}a {*\3c&HAC5507&}f{*\3c&HA55106&}a{*\3c&H9F4E05&}i{*\3c&H994B04&}n{*\3c&H924704&}t {*\3c&H864102&}l{*\3c&H7F3D01&}o{*\3c&H793A00&}v{\3c&H733700&}e
+Dialogue: 0,0:02:53.02,0:02:55.53,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}o{*\3c&H7E3D01&}m{*\3c&H8A4303&}o{*\3c&H964904&}i {*\3c&HAD5507&}w{\3c&HB95C09&}o
+Dialogue: 0,0:02:56.06,0:02:58.55,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,350)\blur2}t{*\3c&HB65A08&}h{*\3c&HB35808&}a{*\3c&HB05707&}t {*\3c&HAA5407&}I {*\3c&HA45106&}w{*\3c&HA14F06&}i{*\3c&H9E4E05&}l{*\3c&H9B4C05&}l {*\3c&H964904&}c{*\3c&H934704&}a{*\3c&H904603&}r{*\3c&H8D4403&}r{*\3c&H8A4303&}y {*\3c&H844002&}w{*\3c&H813E01&}i{*\3c&H7E3D01&}t{*\3c&H7B3B01&}h {*\3c&H753800&}m{\3c&H733700&}e
+Dialogue: 0,0:02:56.06,0:02:58.55,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,350)}s{*\3c&H783900&}o{*\3c&H7D3C01&}t{*\3c&H833F02&}t{*\3c&H884202&}o {*\3c&H934804&}s{*\3c&H984A04&}h{*\3c&H9E4D05&}i{*\3c&HA35006&}m{*\3c&HA85306&}a{*\3c&HAE5607&}t{*\3c&HB35908&}t{\3c&HB95C09&}e
+Dialogue: 1,0:02:59.11,0:03:02.07,Nagi no Episode kara,,0,0,0,,{\blur0.5\fscx80\fscy80\c&HC8B423&\pos(1011,104)}Episode Five
+Dialogue: 0,0:02:59.11,0:03:02.07,Nagi no Episode kara,,0,0,0,,{\blur0.8\fscx80\fscy80\c&H000000&\alpha&H80&\pos(1011,104)}Episode Five
+Dialogue: 1,0:02:59.11,0:03:02.07,Nagi no Episode kara,,0,0,0,,{\an7\blur0.5\c&HC5AC28&\pos(84,558)}Hey, Sea Slug
+Dialogue: 0,0:02:59.11,0:03:02.07,Nagi no Episode kara,,0,0,0,,{\an7\blur0.8\c&H000000&\alpha&H80&\pos(84,558)}Hey, Sea Slug
 Dialogue: 5,0:03:03.59,0:03:05.45,Default,,0,0,0,,Chisaki said she's gonna be late?
 Dialogue: 5,0:03:05.45,0:03:08.55,Default,,0,0,0,,Yeah, she said she wasn't feeling well.
 Dialogue: 5,0:03:08.55,0:03:12.40,Default,,0,0,0,,She looked a little down \Non the way home yesterday, too.
@@ -122,14 +154,68 @@ Dialogue: 5,0:06:49.39,0:06:50.85,Default,,0,0,0,,Ow!
 Dialogue: 5,0:06:50.85,0:06:53.54,Default,,0,0,0,,Hey, sea girl, you're standing on my foot!
 Dialogue: 5,0:06:53.54,0:06:54.60,Default,,0,0,0,,Chii-chan...
 Dialogue: 5,0:06:56.35,0:06:58.06,Default,,0,0,0,,You're doing it again!
+Dialogue: 0,0:06:58.06,0:06:59.56,Naru Nami Shine,,0,0,0,,{\fax-0.28\blur0.8\frz15.89\fscx145\fscy145\c&H580060&\1a&H55&\pos(978,282)}Saya Mart
 Dialogue: 5,0:07:02.73,0:07:03.68,Default,,0,0,0,,Akari.
 Dialogue: 5,0:07:06.73,0:07:08.56,Default,,0,0,0,,I'd really like you to hear me out.
+Dialogue: 0,0:07:09.40,0:07:12.37,Naru Nami Shine,,0,0,0,,{\an7\bord0\blur1.5\p1\pos(544,417)\c&HCFCFD0&}m -105 -23 b -28 -34 35 -30 99 -16 b 140 -3 140 9 99 22 b 29 34 -30 33 -105 18 b -153 4 -155 -12 -105 -23
+Dialogue: 1,0:07:09.40,0:07:12.37,Abductred by Black Triangles,,0,0,0,,{\blur0.8\c&HC6C5C6&\pos(533,394)\fscx508\fscy260}—
+Dialogue: 1,0:07:09.40,0:07:12.37,Abductred by Black Triangles,,0,0,0,,{\blur0.8\c&HC6C5C6&\frz358.6\pos(536,411)\fscx268\fscy286}———
+Dialogue: 1,0:07:09.40,0:07:12.37,Abductred by Black Triangles,,0,0,0,,{\blur0.8\c&HC6C5C6&\pos(537,429)\fscx298\fscy270}—
+Dialogue: 3,0:07:09.40,0:07:12.37,Abductred by Black Triangles,,0,0,0,,{\blur0.8\c&HB65D1A&\fscx90\fscy90\frz359.1\b1\pos(538,416)}Triangle
 Dialogue: 5,0:07:13.81,0:07:17.02,Default,,0,0,0,,We should break up.
 Dialogue: 5,0:07:19.23,0:07:22.12,Default,,0,0,0,,I don't want to hurt Miuna-chan any more.
 Dialogue: 5,0:07:22.93,0:07:25.98,Default,,0,0,0,,That's what was on your mind too, right, Itaru-san?
 Dialogue: 5,0:07:25.98,0:07:27.21,Default,,0,0,0,,Well...
 Dialogue: 5,0:07:28.05,0:07:33.14,Default,,0,0,0,,I've had it wrong this whole time, \Never since Miori-san died.{mistaken in her approach}
+Dialogue: 0,0:07:33.72,0:07:33.84,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H311C37&\pos(291,616)\frz356.1}Alway{\c&H241526&}s \N{\c&H311C37&}Smiling
+Dialogue: 0,0:07:33.72,0:07:33.84,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H35213C&\frz8.191\pos(477.33,615)}Saya \NMart
+Dialogue: 0,0:07:33.84,0:07:33.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H311C37&\pos(324.68,617.32)\frz356.1}Alway{\c&H241526&}s \N{\c&H311C37&}Smiling
+Dialogue: 0,0:07:33.84,0:07:33.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H35213C&\frz8.191\pos(511.01,616.32)}Saya \NMart
+Dialogue: 0,0:07:33.97,0:07:34.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(358.45,619.19)\frz356.1\c&H321D39&}Alway{\c&H241526&}s \N{\c&H321D39&}Smiling
+Dialogue: 0,0:07:33.97,0:07:34.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(544.78,618.19)\c&H36223E&}Saya \NMart
+Dialogue: 0,0:07:34.10,0:07:34.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(427.79,623.22)\frz356.1\c&H331E3B&}Alway{\c&H241526&}s \N{\c&H331E3B&}Smiling
+Dialogue: 0,0:07:34.10,0:07:34.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(614.13,622.22)\c&H382341&}Saya \NMart
+Dialogue: 0,0:07:34.22,0:07:34.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(497.31,627.67)\frz356.1\c&H341F3D&}Alway{\c&H241526&}s \N{\c&H341F3D&}Smiling
+Dialogue: 0,0:07:34.22,0:07:34.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(683.64,626.67)\c&H392443&}Saya \NMart
+Dialogue: 0,0:07:34.35,0:07:34.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(532.03,630.66)\frz356.1\c&H35203F&}Alway{\c&H241526&}s \N{\c&H35203F&}Smiling
+Dialogue: 0,0:07:34.35,0:07:34.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(718.37,629.66)\c&H3B2546&}Saya \NMart
 Dialogue: 5,0:07:34.41,0:07:35.72,Default,,0,0,0,,{\i1}The whole time...
+Dialogue: 0,0:07:34.47,0:07:34.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H372142&\pos(566.39,634.59)\frz356.1}Alway{\c&H241526&}s \N{\c&H372142&}Smiling
+Dialogue: 0,0:07:34.47,0:07:34.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H3D2749&\frz8.191\pos(752.72,633.59)}Saya \NMart
+Dialogue: 0,0:07:34.60,0:07:34.72,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(532.05,630.67)\frz356.1\c&H362040&}Alway{\c&H241526&}s \N{\c&H362040&}Smiling
+Dialogue: 0,0:07:34.60,0:07:34.72,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(718.38,629.67)\c&H3B2646&}Saya \NMart
+Dialogue: 0,0:07:34.72,0:07:34.85,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(497.35,627.68)\frz356.1\c&H351F3E&}Alway{\c&H241526&}s \N{\c&H351F3E&}Smiling
+Dialogue: 0,0:07:34.72,0:07:34.85,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(683.69,626.68)\c&H3A2544&}Saya \NMart
+Dialogue: 0,0:07:34.85,0:07:34.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(427.81,623.16)\frz356.1\c&H341E3C&}Alway{\c&H241526&}s \N{\c&H341E3C&}Smiling
+Dialogue: 0,0:07:34.85,0:07:34.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(614.15,622.16)\c&H392442&}Saya \NMart
+Dialogue: 0,0:07:34.97,0:07:35.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(358.48,619.03)\frz356.1\c&H331D3A&}Alway{\c&H241526&}s \N{\c&H331D3A&}Smiling
+Dialogue: 0,0:07:34.97,0:07:35.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(544.82,618.03)\c&H372340&}Saya \NMart
+Dialogue: 0,0:07:35.10,0:07:35.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(324.81,617.11)\frz356.1\c&H321C38&}Alway{\c&H241526&}s \N{\c&H321C38&}Smiling
+Dialogue: 0,0:07:35.10,0:07:35.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(511.15,616.11)\c&H36223E&}Saya \NMart
+Dialogue: 0,0:07:35.22,0:07:35.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H311C37&\pos(291.11,615.81)\frz356.1}Alway{\c&H241526&}s \N{\c&H311C37&}Smiling
+Dialogue: 0,0:07:35.22,0:07:35.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H35213C&\frz8.191\pos(477.45,614.81)}Saya \NMart
+Dialogue: 0,0:07:35.35,0:07:35.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H311C37&\pos(324.83,617.12)\frz356.1}Alway{\c&H241526&}s \N{\c&H311C37&}Smiling
+Dialogue: 0,0:07:35.35,0:07:35.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(511.17,616.12)\c&H36223E&}Saya \NMart
+Dialogue: 0,0:07:35.47,0:07:35.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(358.49,619.03)\frz356.1\c&H331E3A&}Alway{\c&H241526&}s \N{\c&H331E3A&}Smiling
+Dialogue: 0,0:07:35.47,0:07:35.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(544.83,618.03)\c&H372340&}Saya \NMart
+Dialogue: 0,0:07:35.60,0:07:35.72,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(427.91,623.07)\frz356.1\c&H36213D&}Alway{\c&H241526&}s \N{\c&H36213D&}Smiling
+Dialogue: 0,0:07:35.60,0:07:35.72,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(614.24,622.07)\c&H392442&}Saya \NMart
+Dialogue: 0,0:07:35.72,0:07:35.85,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(497.42,627.57)\frz356.1\c&H392340&}Alway{\c&H241526&}s \N{\c&H392340&}Smiling
+Dialogue: 0,0:07:35.72,0:07:35.85,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(683.75,626.57)\c&H3A2544&}Saya \NMart
+Dialogue: 0,0:07:35.85,0:07:35.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(532.13,630.55)\frz356.1\c&H3C2643&}Alway{\c&H241526&}s \N{\c&H3C2643&}Smiling
+Dialogue: 0,0:07:35.85,0:07:35.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(718.46,629.55)\c&H3B2646&}Saya \NMart
+Dialogue: 0,0:07:35.97,0:07:36.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H3F2947&\pos(566.45,634.5)\frz356.1}Alway{\c&H241526&}s \N{\c&H3F2947&}Smiling
+Dialogue: 0,0:07:35.97,0:07:36.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(752.78,633.5)\c&H3B2646&}Saya \NMart
+Dialogue: 0,0:07:36.10,0:07:36.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(532.14,630.55)\frz356.1\c&H3E2846&}Alway{\c&H241526&}s \N{\c&H3E2846&}Smiling
+Dialogue: 0,0:07:36.10,0:07:36.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(718.47,629.55)\c&H3C2747&}Saya \NMart
+Dialogue: 0,0:07:36.22,0:07:36.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(497.41,627.53)\frz356.1\c&H3E2746&}Alway{\c&H241526&}s \N{\c&H3E2746&}Smiling
+Dialogue: 0,0:07:36.22,0:07:36.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(683.74,626.53)\c&H3D2748&}Saya \NMart
+Dialogue: 0,0:07:36.35,0:07:36.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(427.94,623.07)\frz356.1\c&H3E2645&}Alway{\c&H241526&}s \N{\c&H3E2645&}Smiling
+Dialogue: 0,0:07:36.35,0:07:36.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(614.27,622.07)\c&H3E2849&}Saya \NMart
+Dialogue: 0,0:07:36.47,0:07:36.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(358.55,619.01)\frz356.1\c&H3E2545&}Alway{\c&H241526&}s \N{\c&H3E2545&}Smiling
+Dialogue: 0,0:07:36.47,0:07:36.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(544.89,618.01)\c&H3F284A&}Saya \NMart
+Dialogue: 0,0:07:36.60,0:07:36.68,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H3E2545&\pos(324.94,617.1)\frz356.1}Alway{\c&H241526&}s \N{\c&H3E2545&}Smiling
+Dialogue: 0,0:07:36.60,0:07:36.68,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(511.28,616.1)\c&H40294B&}Saya \NMart
 Dialogue: 5,0:07:46.67,0:07:48.04,Default,,0,0,0,,Aka-chan!
 Dialogue: 5,0:07:48.84,0:07:50.53,Default,,0,0,0,,Miuna, you're heavy!
 Dialogue: 5,0:07:50.99,0:07:53.82,Default,,0,0,0,,Hey, what's for dinner tonight?
@@ -164,6 +250,7 @@ Dialogue: 5,0:09:26.71,0:09:28.04,Default,,0,0,0,,It's okay.
 Dialogue: 5,0:09:28.04,0:09:30.50,Default,,0,0,0,,I'll get lost.
 Dialogue: 5,0:09:31.23,0:09:33.32,Default,,0,0,0,,So you don't need to worry anymore.
 Dialogue: 5,0:09:33.32,0:09:36.68,Default,,0,0,0,,I'm sorry for putting you through so much pain.
+Dialogue: 0,0:09:41.64,0:09:44.18,How the Fuck Do I Typeset This,,0,0,0,,{\shad1\bord0\blur0.8\fsp5\fscx382\fscy298\c&HBB8B5C&\pos(669,121)\4c&H471B0F&\4a&H54&}G{\c&HBA885B&}e{\c&HC69A73&}t {\c&HC3936C&}l
 Dialogue: 5,0:09:54.39,0:09:55.90,Default,,0,0,0,,Hold your horses.
 Dialogue: 5,0:09:57.19,0:09:58.00,Default,,0,0,0,,This is the Sakishima resi—
 Dialogue: 5,0:09:58.00,0:10:02.08,Default,,0,0,0,,Go and ask {replace}Uroko-sama{Lord Uroko} if a little girl fell into the sea earlier today!
@@ -219,6 +306,7 @@ Dialogue: 5,0:12:24.28,0:12:27.88,Default,,0,0,0,,Oh, my family has an extra fut
 Dialogue: 5,0:12:27.88,0:12:29.85,Default,,0,0,0,,Miuna can't go to Shioshishio!
 Dialogue: 5,0:12:32.59,0:12:38.40,Default,,0,0,0,,Well, since it's still summer, I guess it isn't all {\i1}that{\i0} chilly.
 Dialogue: 5,0:12:39.99,0:12:41.74,Default,,0,0,0,,Miuna-chan!
+Dialogue: 0,0:12:41.74,0:12:45.70,Abductred by Black Triangles,,0,0,0,,{\blur0.6\c&H965027&\fscx101\fscy112\pos(522,218)\b1}Triangle
 Dialogue: 5,0:12:44.89,0:12:45.70,Default,,0,0,0,,Akari!
 Dialogue: 5,0:12:46.17,0:12:48.53,Default,,0,0,0,,Akari, they said they found Miuna!
 Dialogue: 5,0:12:48.53,0:12:49.37,Default,,0,0,0,,What?
@@ -271,6 +359,7 @@ Dialogue: 5,0:15:06.87,0:15:08.38,Default,,0,0,0,,And even if it doesn't,
 Dialogue: 5,0:15:09.03,0:15:12.09,Default,,0,0,0,,I guess it can make you feel a little better anyway.
 Dialogue: 5,0:15:12.63,0:15:15.30,Default,,0,0,0,,I have something like that, too.
 Dialogue: 5,0:15:15.85,0:15:19.42,Default,,0,0,0,,There's something I've been using instead of a sea slug.
+Dialogue: 0,0:15:17.39,0:15:19.81,How the Fuck Do I Typeset This,,0,0,0,,{\shad1\bord0\blur0.8\fsp5\fscx382\fscy298\pos(669,121)\4c&HF2F2F2&\4a&H54&\c&HFFFFFF&\3c&HFFFFFF&\t(0,250,1,\c&HBB8B5C&\4c&H471B0F&)}G{\c&HFFFFFF&\t(0,250,1,\c&HBA885B&)}e{\c&HFFFFFF&\t(0,250,1,\c&HC69A73&)}t {\c&HFFFFFF&\t(0,250,1,\c&HC3936C&)}l
 Dialogue: 5,0:15:19.42,0:15:19.81,Default,,0,0,0,,Huh?
 Dialogue: 5,0:15:21.21,0:15:24.34,Default,,0,0,0,,If you find a red-bellied one, what will you tell it?{PV}
 Dialogue: 5,0:15:27.36,0:15:31.36,Default,,0,0,0,,{\an8}This is my special miso soup, so eat up!
@@ -298,6 +387,7 @@ Dialogue: 5,0:16:27.84,0:16:29.82,Default,,0,0,0,,Sure there are. I mean—
 Dialogue: 5,0:16:29.82,0:16:30.72,Default,,0,0,0,,No, there aren't!
 Dialogue: 5,0:16:30.72,0:16:32.54,Default,,0,0,0,,I wish there weren't!{i wish there wasnt anybody who loves me}
 Dialogue: 5,0:16:45.99,0:16:49.14,Default,,0,0,0,,"Miuna" is written with the characters for "beautiful sea."
+Dialogue: 0,0:16:48.40,0:16:52.03,Ceremony999,,0,0,0,,{\fad(930,0)\bord0\blur1\c&HC1987B&\fscx243\fscy172\pos(618,97)}Miuna
 Dialogue: 5,0:16:49.79,0:16:52.03,Default,,0,0,0,,Mommy loves the sea.
 Dialogue: 5,0:16:52.71,0:16:56.78,Default,,0,0,0,,If you love it, \Nhow come you don't live there?{TLC I really hope this level of awareness is okay. Gonna go with it, though.}
 Dialogue: 5,0:16:56.78,0:17:00.08,Default,,0,0,0,,Because I love you way more, Miuna!
@@ -350,6 +440,7 @@ Dialogue: 5,0:19:57.42,0:19:59.59,Default,,0,0,0,,And I'm nothing like that!
 Dialogue: 5,0:20:00.17,0:20:02.24,Default,,0,0,0,,There's something I need your help with.
 Dialogue: 5,0:20:02.24,0:20:03.30,Default,,0,0,0,,Huh?
 Dialogue: 5,0:20:03.83,0:20:06.78,Default,,0,0,0,,My own sea slug...
+Dialogue: 0,0:20:07.31,0:20:13.10,Naru Nami Shine,,0,0,0,,{\fax-0.28\blur0.8\frz15.89\fscx145\fscy145\c&H2C0032&\1a&H55&\pos(978,282)}Saya Mart
 Dialogue: 5,0:20:08.81,0:20:11.04,Default,,0,0,0,,You're early, Akari-chan.
 Dialogue: 5,0:20:11.04,0:20:13.10,Default,,0,0,0,,Oh,{ well,}{Biased about this line because of Beauty and the Beast's "Oh, I couldn't put it down. Have you got anything new?"} I couldn't sleep.
 Dialogue: 5,0:20:28.01,0:20:30.06,Default,,0,0,0,,Man, my jaw hurts.
@@ -371,6 +462,7 @@ Dialogue: 5,0:21:02.05,0:21:06.02,Default,,0,0,0,,I wanna be myself and stay by 
 Dialogue: 5,0:21:06.02,0:21:07.12,Default,,0,0,0,,Right by your side!
 Dialogue: 5,0:21:07.65,0:21:10.74,Default,,0,0,0,,So, Miuna, please just stay as you are,
 Dialogue: 5,0:21:10.74,0:21:16.12,Default,,0,0,0,,and let me stay by your side forever...
+Dialogue: 0,0:21:17.00,0:21:22.51,How the Fuck Do I Typeset This,,0,0,0,,{\shad1\q2\bord0\blur0.8\fsp5\fscx382\fscy298\4c&H471B0F&\4a&H54&\c&H946650&\move(1126,124,-41,124,26,5490)}Do{\c&H9B7860&}n{\c&HE6BFA7&}'t {\c&HE5C3A6&}G{\c&HEECCB4&}et {\c&HF2D2BC&}lo{\c&HF5DAC8&}st
 Dialogue: 5,0:21:24.75,0:21:26.14,Default,,0,0,0,,Aka-chan...
 Dialogue: 5,0:21:26.89,0:21:30.98,Default,,0,0,0,,Your eyes are so blue, \Nand your tears look like waves.
 Dialogue: 5,0:21:30.98,0:21:32.10,Default,,0,0,0,,They're so pretty.
@@ -380,101 +472,6 @@ Dialogue: 5,0:21:36.45,0:21:37.56,Default,,0,0,0,,You know...
 Dialogue: 5,0:21:38.53,0:21:41.57,Default,,0,0,0,,I really love the sea.
 Dialogue: 5,0:21:50.69,0:21:52.22,Default,,0,0,0,,Good grief.
 Dialogue: 5,0:21:52.22,0:21:54.12,Default,,0,0,0,,Which one's the kid here, again?
-Dialogue: 5,0:23:31.19,0:23:33.82,Default,,0,0,0,,They really are big, Hiradaira-san.
-Dialogue: 5,0:23:33.82,0:23:36.01,Default,,0,0,0,,{Sorry, girls, but }...you're not my type.{Keep this comment: Not too much of a stretch from an "I like older girls" interpretation.}
-Dialogue: 5,0:23:36.01,0:23:38.18,Default,,0,0,0,,{was saying that }...today seemed like the \Nperfect day for Tomoebi.
-Dialogue: 5,0:23:38.18,0:23:40.01,Default,,0,0,20,,He's way too fast.
-Dialogue: 5,0:01:29.06,0:01:29.61,OP-romaji,,0,0,0,,{OP}
-Dialogue: 0,0:01:43.95,0:01:50.98,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}T{*\3c&HB75B08&}h{*\3c&HB65A08&}e {*\3c&HB35908&}l{*\3c&HB25808&}i{*\3c&HB15707&}g{*\3c&HAF5707&}h{*\3c&HAE5607&}t {*\3c&HAB5507&}o{*\3c&HAA5407&}c{*\3c&HA95306&}e{*\3c&HA75206&}a{*\3c&HA65206&}n {*\3c&HA35006&}b{*\3c&HA25006&}r{*\3c&HA14F05&}e{*\3c&H9F4E05&}e{*\3c&H9E4E05&}z{*\3c&H9D4D05&}e {*\3c&H9A4B05&}b{*\3c&H994B04&}l{*\3c&H974A04&}e{*\3c&H964904&}w {*\3c&H944804&}t{*\3c&H924704&}h{*\3c&H914703&}e {*\3c&H8E4503&}h{*\3c&H8D4403&}a{*\3c&H8C4403&}i{*\3c&H8A4303&}r {*\3c&H884202&}f{*\3c&H864102&}r{*\3c&H854002&}o{*\3c&H844002&}m {*\3c&H813E01&}m{*\3c&H803D01&}y {*\3c&H7D3C01&}s{*\3c&H7C3B01&}h{*\3c&H7A3B01&}o{*\3c&H793A00&}u{*\3c&H783900&}l{*\3c&H763900&}d{*\3c&H753800&}e{*\3c&H743700&}r{\3c&H733700&}s
-Dialogue: 0,0:01:43.95,0:01:50.98,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}k{*\3c&H753800&}a{*\3c&H783900&}t{*\3c&H7A3A00&}a {*\3c&H7F3D01&}w{*\3c&H823E01&}o {*\3c&H874102&}s{*\3c&H894202&}a{*\3c&H8C4403&}r{*\3c&H8E4503&}a{*\3c&H914603&}t{*\3c&H934804&}t{*\3c&H964904&}a {*\3c&H9B4C05&}a{*\3c&H9D4D05&}w{*\3c&HA04E05&}a{*\3c&HA25006&}i {*\3c&HA75206&}s{*\3c&HAA5407&}h{*\3c&HAC5507&}i{*\3c&HAF5607&}o{*\3c&HB15808&}k{*\3c&HB45908&}a{*\3c&HB65A08&}z{\3c&HB95C09&}e
-Dialogue: 0,0:01:50.98,0:01:56.55,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}S{*\3c&HB65A08&}o{*\3c&HB35908&}m{*\3c&HB15708&}e{*\3c&HAE5607&}o{*\3c&HAC5507&}n{*\3c&HA95307&}e {*\3c&HA45106&}r{*\3c&HA14F06&}a{*\3c&H9F4E05&}n {*\3c&H994B05&}a {*\3c&H944804&}d{*\3c&H924704&}i{*\3c&H8F4603&}s{*\3c&H8C4403&}t{*\3c&H8A4303&}a{*\3c&H874102&}n{*\3c&H854002&}c{*\3c&H823F02&}e {*\3c&H7D3C01&}a{*\3c&H7A3B01&}w{*\3c&H783900&}a{*\3c&H753800&}y{\3c&H733700&},
-Dialogue: 0,0:01:50.98,0:01:56.55,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}k{*\3c&H753800&}a{*\3c&H783A00&}k{*\3c&H7B3B01&}e{*\3c&H7E3D01&}r{*\3c&H813E01&}u {*\3c&H874102&}c{*\3c&H8A4303&}h{*\3c&H8D4403&}i{*\3c&H904603&}i{*\3c&H934704&}s{*\3c&H964904&}a{*\3c&H984B04&}n{*\3c&H9B4C05&}a {*\3c&HA14F06&}s{*\3c&HA45106&}e{*\3c&HA75206&}n{*\3c&HAA5407&}a{*\3c&HAD5507&}k{*\3c&HB05707&}a {*\3c&HB65A08&}w{\3c&HB95C09&}o
-Dialogue: 0,0:01:58.26,0:02:04.22,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}b{*\3c&HB75B08&}u{*\3c&HB55A08&}t {*\3c&HB25808&}a{*\3c&HB15707&}l{*\3c&HAF5607&}l {*\3c&HAC5507&}I {*\3c&HA95306&}d{*\3c&HA75206&}i{*\3c&HA55106&}d {*\3c&HA25006&}w{*\3c&HA14F05&}a{*\3c&H9F4E05&}s {*\3c&H9C4C05&}l{*\3c&H9A4C05&}o{*\3c&H994B04&}o{*\3c&H974A04&}k {*\3c&H944804&}a{*\3c&H924704&}t {*\3c&H8F4603&}t{*\3c&H8E4503&}h{*\3c&H8C4403&}e{*\3c&H8A4303&}i{*\3c&H894202&}r {*\3c&H864102&}b{*\3c&H844002&}a{*\3c&H823F02&}c{*\3c&H813E01&}k {*\3c&H7E3C01&}s{*\3c&H7C3C01&}i{*\3c&H7A3B01&}l{*\3c&H793A00&}e{*\3c&H773900&}n{*\3c&H763800&}t{*\3c&H743700&}l{\3c&H733700&}y
-Dialogue: 0,0:01:58.26,0:02:04.22,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}b{*\3c&H753800&}o{*\3c&H773900&}k{*\3c&H793A00&}u {*\3c&H7E3C01&}w{*\3c&H803E01&}a {*\3c&H854002&}d{*\3c&H874102&}a{*\3c&H894202&}m{*\3c&H8B4403&}a{*\3c&H8E4503&}t{*\3c&H904603&}t{*\3c&H924704&}e {*\3c&H974A04&}t{*\3c&H994B04&}a{*\3c&H9B4C05&}d{*\3c&H9D4D05&}a {*\3c&HA25006&}m{*\3c&HA45106&}i{*\3c&HA65206&}t{*\3c&HA95306&}s{*\3c&HAB5407&}u{*\3c&HAD5607&}m{*\3c&HAF5707&}e{*\3c&HB25808&}t{*\3c&HB45908&}e{*\3c&HB65A08&}t{\3c&HB95C09&}a
-Dialogue: 0,0:02:04.22,0:02:09.27,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,0)\blur2}f{*\3c&HB75B08&}r{*\3c&HB55A08&}o{*\3c&HB35908&}m {*\3c&HAF5707&}t{*\3c&HAD5607&}h{*\3c&HAC5507&}e {*\3c&HA85306&}i{*\3c&HA65206&}m{*\3c&HA45106&}m{*\3c&HA25006&}o{*\3c&HA14F05&}b{*\3c&H9F4E05&}i{*\3c&H9D4D05&}l{*\3c&H9B4C05&}i{*\3c&H994B04&}t{*\3c&H974A04&}y {*\3c&H944804&}o{*\3c&H924704&}f {*\3c&H8E4503&}m{*\3c&H8C4403&}y {*\3c&H894202&}v{*\3c&H874102&}a{*\3c&H854002&}n{*\3c&H833F02&}t{*\3c&H813E01&}a{*\3c&H7F3D01&}g{*\3c&H7E3C01&}e {*\3c&H7A3A00&}p{*\3c&H783900&}o{*\3c&H763800&}i{*\3c&H743700&}n{\3c&H733700&}t
-Dialogue: 0,0:02:04.22,0:02:09.27,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,0)}f{*\3c&H763800&}u{*\3c&H7A3A00&}m{*\3c&H7D3C01&}i{*\3c&H813E01&}d{*\3c&H844002&}a{*\3c&H884202&}s{*\3c&H8B4303&}e{*\3c&H8F4503&}n{*\3c&H924704&}a{*\3c&H964904&}i {*\3c&H9D4D05&}h{*\3c&HA04F05&}a{*\3c&HA45006&}z{*\3c&HA75206&}a{*\3c&HAB5407&}m{*\3c&HAE5607&}a {*\3c&HB55A08&}d{\3c&HB95C09&}e
-Dialogue: 0,0:02:12.77,0:02:20.10,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}W{*\3c&HB75B08&}a{*\3c&HB55A08&}r{*\3c&HB35908&}m {*\3c&HB05707&}s{*\3c&HAE5607&}u{*\3c&HAC5507&}n{*\3c&HAB5407&}l{*\3c&HA95306&}i{*\3c&HA75206&}g{*\3c&HA55106&}h{*\3c&HA45006&}t {*\3c&HA04F05&}s{*\3c&H9E4E05&}t{*\3c&H9D4D05&}r{*\3c&H9B4C05&}e{*\3c&H994B04&}a{*\3c&H974A04&}m{*\3c&H964904&}s {*\3c&H924704&}i{*\3c&H904603&}n{*\3c&H8F4503&}t{*\3c&H8D4403&}o {*\3c&H894302&}o{*\3c&H884202&}u{*\3c&H864102&}r {*\3c&H823F02&}c{*\3c&H813E01&}l{*\3c&H7F3D01&}a{*\3c&H7D3C01&}s{*\3c&H7B3B01&}s{*\3c&H7A3A00&}r{*\3c&H783900&}o{*\3c&H763800&}o{*\3c&H743700&}m{\3c&H733700&},
-Dialogue: 0,0:02:12.77,0:02:20.10,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}y{*\3c&H743700&}a{*\3c&H763800&}w{*\3c&H783900&}a{*\3c&H793A00&}r{*\3c&H7B3B01&}a{*\3c&H7D3C01&}k{*\3c&H7E3D01&}a{*\3c&H803E01&}i {*\3c&H833F02&}h{*\3c&H854002&}i{*\3c&H874102&}z{*\3c&H884202&}a{*\3c&H8A4303&}s{*\3c&H8C4403&}h{*\3c&H8D4503&}i {*\3c&H914603&}t{*\3c&H924704&}s{*\3c&H944804&}u{*\3c&H964904&}t{*\3c&H974A04&}s{*\3c&H994B04&}u{*\3c&H9B4C05&}m{*\3c&H9C4D05&}u {*\3c&HA04E05&}k{*\3c&HA14F06&}y{*\3c&HA35006&}o{*\3c&HA55106&}u{*\3c&HA65206&}s{*\3c&HA85306&}h{*\3c&HAA5407&}i{*\3c&HAB5407&}t{*\3c&HAD5507&}s{*\3c&HAF5607&}u {*\3c&HB25808&}n{*\3c&HB45908&}i {*\3c&HB75B08&}w{\3c&HB95C09&}a
-Dialogue: 0,0:02:20.10,0:02:27.12,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}a{*\3c&HB75B08&}n{*\3c&HB65A08&}d {*\3c&HB45908&}w{*\3c&HB35808&}e {*\3c&HB05707&}a{*\3c&HAF5707&}r{*\3c&HAE5607&}e {*\3c&HAC5507&}l{*\3c&HAB5407&}a{*\3c&HAA5407&}u{*\3c&HA85306&}g{*\3c&HA75206&}h{*\3c&HA65206&}i{*\3c&HA55106&}n{*\3c&HA45106&}g {*\3c&HA24F06&}i{*\3c&HA04F05&}n {*\3c&H9E4E05&}a{*\3c&H9D4D05&}l{*\3c&H9C4C05&}l {*\3c&H9A4B05&}t{*\3c&H984B04&}h{*\3c&H974A04&}e {*\3c&H954904&}p{*\3c&H944804&}i{*\3c&H934704&}c{*\3c&H914703&}t{*\3c&H904603&}u{*\3c&H8F4603&}r{*\3c&H8E4503&}e{*\3c&H8D4403&}s {*\3c&H8B4303&}t{*\3c&H894302&}h{*\3c&H884202&}a{*\3c&H874102&}t {*\3c&H854002&}d{*\3c&H844002&}e{*\3c&H833F02&}c{*\3c&H813E01&}o{*\3c&H803E01&}r{*\3c&H7F3D01&}a{*\3c&H7E3D01&}t{*\3c&H7D3C01&}e {*\3c&H7B3B01&}t{*\3c&H793A00&}h{*\3c&H783A00&}e {*\3c&H763800&}w{*\3c&H753800&}a{*\3c&H743700&}l{\3c&H733700&}l
-Dialogue: 0,0:02:20.10,0:02:27.12,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}k{*\3c&H753800&}a{*\3c&H773900&}z{*\3c&H793A00&}a{*\3c&H7B3B01&}t{*\3c&H7D3C01&}t{*\3c&H7F3D01&}a {*\3c&H833F02&}s{*\3c&H854002&}h{*\3c&H874102&}a{*\3c&H894202&}s{*\3c&H8B4303&}h{*\3c&H8D4403&}i{*\3c&H8F4503&}n{*\3c&H914603&}t{*\3c&H934704&}a{*\3c&H954804&}c{*\3c&H974A04&}h{*\3c&H994B04&}i {*\3c&H9D4D05&}g{*\3c&H9F4E05&}a {*\3c&HA35006&}w{*\3c&HA55106&}a{*\3c&HA75206&}r{*\3c&HA95306&}a{*\3c&HAB5407&}t{*\3c&HAD5507&}t{*\3c&HAF5607&}a {*\3c&HB35808&}m{*\3c&HB55908&}a{*\3c&HB75A08&}m{\3c&HB95C09&}a
-Dialogue: 0,0:02:28.35,0:02:35.55,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}T{*\3c&HB65A08&}h{*\3c&HB45908&}e {*\3c&HB05707&}f{*\3c&HAE5607&}u{*\3c&HAB5507&}t{*\3c&HA95307&}u{*\3c&HA75206&}r{*\3c&HA55106&}e {*\3c&HA04F05&}a{*\3c&H9E4E05&}h{*\3c&H9C4C05&}e{*\3c&H9A4B05&}a{*\3c&H984A04&}d {*\3c&H934804&}o{*\3c&H914703&}f {*\3c&H8D4403&}u{*\3c&H8B4303&}s {*\3c&H864102&}i{*\3c&H844002&}s {*\3c&H803D01&}e{*\3c&H7D3C01&}n{*\3c&H7B3B01&}d{*\3c&H793A00&}l{*\3c&H773900&}e{*\3c&H753800&}s{\3c&H733700&}s
-Dialogue: 0,0:02:28.35,0:02:35.55,OP-romaji,,0,0,0,,{\fad(150,150)\blur2\3c&H733700&}t{*\3c&H743700&}o{*\3c&H763800&}m{*\3c&H783900&}e{*\3c&H7A3A00&}d{*\3c&H7B3B01&}o {*\3c&H7F3D01&}n{*\3c&H813E01&}a{*\3c&H833F02&}i {*\3c&H864102&}a{*\3c&H884202&}s{*\3c&H8A4303&}u {*\3c&H8D4503&}n{*\3c&H8F4603&}i {*\3c&H934804&}k{*\3c&H954904&}a{*\3c&H964904&}w{*\3c&H984A04&}a{*\3c&H9A4B05&}r{*\3c&H9C4C05&}a{*\3c&H9E4D05&}n{*\3c&H9F4E05&}a{*\3c&HA14F06&}i {*\3c&HA55106&}b{*\3c&HA75206&}o{*\3c&HA85306&}k{*\3c&HAA5407&}u{*\3c&HAC5507&}t{*\3c&HAE5607&}a{*\3c&HB05707&}c{*\3c&HB15808&}h{*\3c&HB35908&}i {*\3c&HB75B08&}w{\3c&HB95C09&}a
-Dialogue: 0,0:02:35.55,0:02:39.17,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}a{*\3c&HB45908&}n{*\3c&HAF5607&}d {*\3c&HA55106&}p{*\3c&HA04E05&}r{*\3c&H9B4C05&}o{*\3c&H964904&}m{*\3c&H914603&}i{*\3c&H8C4403&}s{*\3c&H874102&}e{*\3c&H823E01&}s {*\3c&H783900&}u{\3c&H733700&}s
-Dialogue: 0,0:02:35.55,0:02:39.17,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}n{*\3c&H763900&}a{*\3c&H7A3B01&}g{*\3c&H7E3D01&}u {*\3c&H864102&}m{*\3c&H8A4303&}i{*\3c&H8E4503&}n{*\3c&H924704&}a{*\3c&H964904&}m{*\3c&H994B05&}o {*\3c&HA14F06&}n{*\3c&HA55106&}o {*\3c&HAD5507&}s{*\3c&HB15708&}a{*\3c&HB55908&}k{\3c&HB95C09&}i
-Dialogue: 0,0:02:39.17,0:02:41.80,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}c{*\3c&HB05707&}a{*\3c&HA75206&}l{*\3c&H9E4E05&}m {*\3c&H8D4403&}s{*\3c&H844002&}e{*\3c&H7B3B01&}a{\3c&H733700&}s
-Dialogue: 0,0:02:39.17,0:02:41.80,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}d{*\3c&H763800&}o{*\3c&H7A3A00&}k{*\3c&H7D3C01&}o{*\3c&H813E01&}m{*\3c&H844002&}a{*\3c&H884202&}d{*\3c&H8B4303&}e {*\3c&H924704&}m{*\3c&H964904&}o {*\3c&H9D4D05&}u{*\3c&HA04F05&}t{*\3c&HA45006&}s{*\3c&HA75206&}u{*\3c&HAB5407&}s{*\3c&HAE5607&}h{*\3c&HB25808&}i{*\3c&HB55A08&}t{\3c&HB95C09&}e
-Dialogue: 0,0:02:42.24,0:02:46.36,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}T{*\3c&HB45908&}h{*\3c&HB05707&}i{*\3c&HAC5507&}s {*\3c&HA45106&}i{*\3c&HA04E05&}s {*\3c&H984A04&}a{*\3c&H934804&}l{*\3c&H8F4603&}l {*\3c&H874102&}I {*\3c&H7F3D01&}n{*\3c&H7B3B01&}e{*\3c&H773900&}e{\3c&H733700&}d
-Dialogue: 0,0:02:42.24,0:02:46.36,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}k{*\3c&H783900&}o{*\3c&H7D3C01&}n{*\3c&H823E01&}o {*\3c&H8C4403&}m{*\3c&H914603&}a{*\3c&H964904&}m{*\3c&H9B4C05&}a {*\3c&HA55106&}d{*\3c&HAA5407&}e {*\3c&HB45908&}i{\3c&HB95C09&}i
-Dialogue: 0,0:02:46.36,0:02:53.02,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}I{*\3c&HB55908&}n {*\3c&HAD5507&}y{*\3c&HA95307&}o{*\3c&HA55106&}u{*\3c&HA14F06&}r {*\3c&H994B05&}e{*\3c&H964904&}y{*\3c&H924704&}e{*\3c&H8E4503&}s{*\3c&H8A4303&}, {*\3c&H823F02&}I {*\3c&H7A3B01&}s{*\3c&H763900&}a{\3c&H733700&}w
-Dialogue: 0,0:02:46.36,0:02:53.02,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}s{*\3c&H753800&}o{*\3c&H773900&}n{*\3c&H7A3A00&}o {*\3c&H7E3D01&}h{*\3c&H813E01&}i{*\3c&H833F02&}t{*\3c&H854002&}o{*\3c&H884202&}m{*\3c&H8A4303&}i {*\3c&H8F4503&}n{*\3c&H914703&}i {*\3c&H964904&}y{*\3c&H984A04&}u{*\3c&H9A4B05&}r{*\3c&H9D4D05&}e{*\3c&H9F4E05&}t{*\3c&HA14F06&}e{*\3c&HA45006&}t{*\3c&HA65206&}a {*\3c&HAB5407&}h{*\3c&HAD5507&}a{*\3c&HAF5707&}k{*\3c&HB25808&}a{*\3c&HB45908&}n{*\3c&HB65A08&}a{\3c&HB95C09&}i
-Dialogue: 0,0:02:53.02,0:02:55.53,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,150)\blur2}a {*\3c&HAC5507&}f{*\3c&HA55106&}a{*\3c&H9F4E05&}i{*\3c&H994B04&}n{*\3c&H924704&}t {*\3c&H864102&}l{*\3c&H7F3D01&}o{*\3c&H793A00&}v{\3c&H733700&}e
-Dialogue: 0,0:02:53.02,0:02:55.53,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,150)}o{*\3c&H7E3D01&}m{*\3c&H8A4303&}o{*\3c&H964904&}i {*\3c&HAD5507&}w{\3c&HB95C09&}o
-Dialogue: 0,0:02:56.06,0:02:58.55,OP-english,,0,0,0,,{\3c&HB95C09&\fad(150,350)\blur2}t{*\3c&HB65A08&}h{*\3c&HB35808&}a{*\3c&HB05707&}t {*\3c&HAA5407&}I {*\3c&HA45106&}w{*\3c&HA14F06&}i{*\3c&H9E4E05&}l{*\3c&H9B4C05&}l {*\3c&H964904&}c{*\3c&H934704&}a{*\3c&H904603&}r{*\3c&H8D4403&}r{*\3c&H8A4303&}y {*\3c&H844002&}w{*\3c&H813E01&}i{*\3c&H7E3D01&}t{*\3c&H7B3B01&}h {*\3c&H753800&}m{\3c&H733700&}e
-Dialogue: 0,0:02:56.06,0:02:58.55,OP-romaji,,0,0,0,,{\3c&H733700&\blur2\fad(150,350)}s{*\3c&H783900&}o{*\3c&H7D3C01&}t{*\3c&H833F02&}t{*\3c&H884202&}o {*\3c&H934804&}s{*\3c&H984A04&}h{*\3c&H9E4D05&}i{*\3c&HA35006&}m{*\3c&HA85306&}a{*\3c&HAE5607&}t{*\3c&HB35908&}t{\3c&HB95C09&}e
-Dialogue: 1,0:02:59.11,0:03:02.07,Nagi no Episode kara,,0,0,0,,{\blur0.5\fscx80\fscy80\c&HC8B423&\pos(1011,104)}Episode Five
-Dialogue: 0,0:02:59.11,0:03:02.07,Nagi no Episode kara,,0,0,0,,{\blur0.8\fscx80\fscy80\c&H000000&\alpha&H80&\pos(1011,104)}Episode Five
-Dialogue: 1,0:02:59.11,0:03:02.07,Nagi no Episode kara,,0,0,0,,{\an7\blur0.5\c&HC5AC28&\pos(84,558)}Hey, Sea Slug
-Dialogue: 0,0:02:59.11,0:03:02.07,Nagi no Episode kara,,0,0,0,,{\an7\blur0.8\c&H000000&\alpha&H80&\pos(84,558)}Hey, Sea Slug
-Dialogue: 0,0:06:58.06,0:06:59.56,Naru Nami Shine,,0,0,0,,{\fax-0.28\blur0.8\frz15.89\fscx145\fscy145\c&H580060&\1a&H55&\pos(978,282)}Saya Mart
-Dialogue: 0,0:07:09.40,0:07:12.37,Naru Nami Shine,,0,0,0,,{\an7\bord0\blur1.5\p1\pos(544,417)\c&HCFCFD0&}m -105 -23 b -28 -34 35 -30 99 -16 b 140 -3 140 9 99 22 b 29 34 -30 33 -105 18 b -153 4 -155 -12 -105 -23
-Dialogue: 1,0:07:09.40,0:07:12.37,Abductred by Black Triangles,,0,0,0,,{\blur0.8\c&HC6C5C6&\pos(533,394)\fscx508\fscy260}—
-Dialogue: 1,0:07:09.40,0:07:12.37,Abductred by Black Triangles,,0,0,0,,{\blur0.8\c&HC6C5C6&\frz358.6\pos(536,411)\fscx268\fscy286}———
-Dialogue: 1,0:07:09.40,0:07:12.37,Abductred by Black Triangles,,0,0,0,,{\blur0.8\c&HC6C5C6&\pos(537,429)\fscx298\fscy270}—
-Dialogue: 3,0:07:09.40,0:07:12.37,Abductred by Black Triangles,,0,0,0,,{\blur0.8\c&HB65D1A&\fscx90\fscy90\frz359.1\b1\pos(538,416)}Triangle
-Dialogue: 0,0:07:33.72,0:07:33.84,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H311C37&\pos(291,616)\frz356.1}Alway{\c&H241526&}s \N{\c&H311C37&}Smiling
-Dialogue: 0,0:07:33.84,0:07:33.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H311C37&\pos(324.68,617.32)\frz356.1}Alway{\c&H241526&}s \N{\c&H311C37&}Smiling
-Dialogue: 0,0:07:33.97,0:07:34.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(358.45,619.19)\frz356.1\c&H321D39&}Alway{\c&H241526&}s \N{\c&H321D39&}Smiling
-Dialogue: 0,0:07:34.10,0:07:34.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(427.79,623.22)\frz356.1\c&H331E3B&}Alway{\c&H241526&}s \N{\c&H331E3B&}Smiling
-Dialogue: 0,0:07:34.22,0:07:34.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(497.31,627.67)\frz356.1\c&H341F3D&}Alway{\c&H241526&}s \N{\c&H341F3D&}Smiling
-Dialogue: 0,0:07:34.35,0:07:34.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(532.03,630.66)\frz356.1\c&H35203F&}Alway{\c&H241526&}s \N{\c&H35203F&}Smiling
-Dialogue: 0,0:07:34.47,0:07:34.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H372142&\pos(566.39,634.59)\frz356.1}Alway{\c&H241526&}s \N{\c&H372142&}Smiling
-Dialogue: 0,0:07:34.60,0:07:34.72,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(532.05,630.67)\frz356.1\c&H362040&}Alway{\c&H241526&}s \N{\c&H362040&}Smiling
-Dialogue: 0,0:07:34.72,0:07:34.85,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(497.35,627.68)\frz356.1\c&H351F3E&}Alway{\c&H241526&}s \N{\c&H351F3E&}Smiling
-Dialogue: 0,0:07:34.85,0:07:34.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(427.81,623.16)\frz356.1\c&H341E3C&}Alway{\c&H241526&}s \N{\c&H341E3C&}Smiling
-Dialogue: 0,0:07:34.97,0:07:35.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(358.48,619.03)\frz356.1\c&H331D3A&}Alway{\c&H241526&}s \N{\c&H331D3A&}Smiling
-Dialogue: 0,0:07:35.10,0:07:35.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(324.81,617.11)\frz356.1\c&H321C38&}Alway{\c&H241526&}s \N{\c&H321C38&}Smiling
-Dialogue: 0,0:07:35.22,0:07:35.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H311C37&\pos(291.11,615.81)\frz356.1}Alway{\c&H241526&}s \N{\c&H311C37&}Smiling
-Dialogue: 0,0:07:35.35,0:07:35.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H311C37&\pos(324.83,617.12)\frz356.1}Alway{\c&H241526&}s \N{\c&H311C37&}Smiling
-Dialogue: 0,0:07:35.47,0:07:35.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(358.49,619.03)\frz356.1\c&H331E3A&}Alway{\c&H241526&}s \N{\c&H331E3A&}Smiling
-Dialogue: 0,0:07:35.60,0:07:35.72,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(427.91,623.07)\frz356.1\c&H36213D&}Alway{\c&H241526&}s \N{\c&H36213D&}Smiling
-Dialogue: 0,0:07:35.72,0:07:35.85,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(497.42,627.57)\frz356.1\c&H392340&}Alway{\c&H241526&}s \N{\c&H392340&}Smiling
-Dialogue: 0,0:07:35.85,0:07:35.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(532.13,630.55)\frz356.1\c&H3C2643&}Alway{\c&H241526&}s \N{\c&H3C2643&}Smiling
-Dialogue: 0,0:07:35.97,0:07:36.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H3F2947&\pos(566.45,634.5)\frz356.1}Alway{\c&H241526&}s \N{\c&H3F2947&}Smiling
-Dialogue: 0,0:07:36.10,0:07:36.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(532.14,630.55)\frz356.1\c&H3E2846&}Alway{\c&H241526&}s \N{\c&H3E2846&}Smiling
-Dialogue: 0,0:07:36.22,0:07:36.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(497.41,627.53)\frz356.1\c&H3E2746&}Alway{\c&H241526&}s \N{\c&H3E2746&}Smiling
-Dialogue: 0,0:07:36.35,0:07:36.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(427.94,623.07)\frz356.1\c&H3E2645&}Alway{\c&H241526&}s \N{\c&H3E2645&}Smiling
-Dialogue: 0,0:07:36.47,0:07:36.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\pos(358.55,619.01)\frz356.1\c&H3E2545&}Alway{\c&H241526&}s \N{\c&H3E2545&}Smiling
-Dialogue: 0,0:07:36.60,0:07:36.68,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H3E2545&\pos(324.94,617.1)\frz356.1}Alway{\c&H241526&}s \N{\c&H3E2545&}Smiling
-Dialogue: 0,0:07:33.72,0:07:33.84,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H35213C&\frz8.191\pos(477.33,615)}Saya \NMart
-Dialogue: 0,0:07:33.84,0:07:33.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H35213C&\frz8.191\pos(511.01,616.32)}Saya \NMart
-Dialogue: 0,0:07:33.97,0:07:34.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(544.78,618.19)\c&H36223E&}Saya \NMart
-Dialogue: 0,0:07:34.10,0:07:34.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(614.13,622.22)\c&H382341&}Saya \NMart
-Dialogue: 0,0:07:34.22,0:07:34.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(683.64,626.67)\c&H392443&}Saya \NMart
-Dialogue: 0,0:07:34.35,0:07:34.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(718.37,629.66)\c&H3B2546&}Saya \NMart
-Dialogue: 0,0:07:34.47,0:07:34.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H3D2749&\frz8.191\pos(752.72,633.59)}Saya \NMart
-Dialogue: 0,0:07:34.60,0:07:34.72,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(718.38,629.67)\c&H3B2646&}Saya \NMart
-Dialogue: 0,0:07:34.72,0:07:34.85,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(683.69,626.68)\c&H3A2544&}Saya \NMart
-Dialogue: 0,0:07:34.85,0:07:34.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(614.15,622.16)\c&H392442&}Saya \NMart
-Dialogue: 0,0:07:34.97,0:07:35.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(544.82,618.03)\c&H372340&}Saya \NMart
-Dialogue: 0,0:07:35.10,0:07:35.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(511.15,616.11)\c&H36223E&}Saya \NMart
-Dialogue: 0,0:07:35.22,0:07:35.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\c&H35213C&\frz8.191\pos(477.45,614.81)}Saya \NMart
-Dialogue: 0,0:07:35.35,0:07:35.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(511.17,616.12)\c&H36223E&}Saya \NMart
-Dialogue: 0,0:07:35.47,0:07:35.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(544.83,618.03)\c&H372340&}Saya \NMart
-Dialogue: 0,0:07:35.60,0:07:35.72,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(614.24,622.07)\c&H392442&}Saya \NMart
-Dialogue: 0,0:07:35.72,0:07:35.85,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(683.75,626.57)\c&H3A2544&}Saya \NMart
-Dialogue: 0,0:07:35.85,0:07:35.97,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(718.46,629.55)\c&H3B2646&}Saya \NMart
-Dialogue: 0,0:07:35.97,0:07:36.10,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(752.78,633.5)\c&H3B2646&}Saya \NMart
-Dialogue: 0,0:07:36.10,0:07:36.22,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(718.47,629.55)\c&H3C2747&}Saya \NMart
-Dialogue: 0,0:07:36.22,0:07:36.35,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(683.74,626.53)\c&H3D2748&}Saya \NMart
-Dialogue: 0,0:07:36.35,0:07:36.47,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(614.27,622.07)\c&H3E2849&}Saya \NMart
-Dialogue: 0,0:07:36.47,0:07:36.60,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(544.89,618.01)\c&H3F284A&}Saya \NMart
-Dialogue: 0,0:07:36.60,0:07:36.68,Naru Nami Shine,,0,0,0,,{\blur1.2\fscx50\fscy50\frz8.191\pos(511.28,616.1)\c&H40294B&}Saya \NMart
-Dialogue: 0,0:09:41.64,0:09:44.18,How the Fuck Do I Typeset This,,0,0,0,,{\shad1\bord0\blur0.8\fsp5\fscx382\fscy298\c&HBB8B5C&\pos(669,121)\4c&H471B0F&\4a&H54&}G{\c&HBA885B&}e{\c&HC69A73&}t {\c&HC3936C&}l
-Dialogue: 0,0:12:41.74,0:12:45.70,Abductred by Black Triangles,,0,0,0,,{\blur0.6\c&H965027&\fscx101\fscy112\pos(522,218)\b1}Triangle
-Dialogue: 0,0:15:17.39,0:15:19.81,How the Fuck Do I Typeset This,,0,0,0,,{\shad1\bord0\blur0.8\fsp5\fscx382\fscy298\pos(669,121)\4c&HF2F2F2&\4a&H54&\c&HFFFFFF&\3c&HFFFFFF&\t(0,250,1,\c&HBB8B5C&\4c&H471B0F&)}G{\c&HFFFFFF&\t(0,250,1,\c&HBA885B&)}e{\c&HFFFFFF&\t(0,250,1,\c&HC69A73&)}t {\c&HFFFFFF&\t(0,250,1,\c&HC3936C&)}l
-Dialogue: 0,0:16:48.40,0:16:52.03,Ceremony999,,0,0,0,,{\fad(930,0)\bord0\blur1\c&HC1987B&\fscx243\fscy172\pos(618,97)}Miuna
-Dialogue: 0,0:20:07.31,0:20:13.10,Naru Nami Shine,,0,0,0,,{\fax-0.28\blur0.8\frz15.89\fscx145\fscy145\c&H2C0032&\1a&H55&\pos(978,282)}Saya Mart
-Dialogue: 0,0:21:17.00,0:21:22.51,How the Fuck Do I Typeset This,,0,0,0,,{\shad1\q2\bord0\blur0.8\fsp5\fscx382\fscy298\4c&H471B0F&\4a&H54&\c&H946650&\move(1126,124,-41,124,26,5490)}Do{\c&H9B7860&}n{\c&HE6BFA7&}'t {\c&HE5C3A6&}G{\c&HEECCB4&}et {\c&HF2D2BC&}lo{\c&HF5DAC8&}st
 Dialogue: 0,0:21:59.79,0:22:07.45,ED-english,,0,0,0,,{\fad(250,450)\blur2.5}Detritus floats in the warm water
 Dialogue: 0,0:21:59.79,0:22:07.45,ED-romaji,,0,0,0,,{\fad(250,450)\blur2.5}atatakai mizu ni oyogu detritus
 Dialogue: 0,0:22:07.45,0:22:10.81,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}I take it, and spend a long time
@@ -503,6 +500,10 @@ Dialogue: 0,0:23:11.49,0:23:19.47,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}that
 Dialogue: 0,0:23:11.49,0:23:19.47,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}odayaka ni nemuru kimi no sotogawa de
 Dialogue: 0,0:23:19.47,0:23:27.98,ED-english,,0,0,0,,{\fad(250,550)\blur2.5}as you sleep peacefully
 Dialogue: 0,0:23:19.47,0:23:27.98,ED-romaji,,0,0,0,,{\fad(250,550)\blur2.5}subete no kanjou kara mamoru mayu ni naru
+Dialogue: 5,0:23:31.19,0:23:33.82,Default,,0,0,0,,They really are big, Hiradaira-san.
+Dialogue: 5,0:23:33.82,0:23:36.01,Default,,0,0,0,,Sorry, girls, but you're not my type.{Keep this comment: Not too much of a stretch from an "I like older girls" interpretation.}
+Dialogue: 5,0:23:36.01,0:23:38.18,Default,,0,0,0,,Today seemed like the \Nperfect day for Tomoebi.
+Dialogue: 5,0:23:38.18,0:23:40.01,Default,,0,0,20,,He's way too fast.
 Dialogue: 1,0:23:38.18,0:23:40.14,Nagi no Episode kara,,0,0,0,,{\blur0.5\fscx80\fscy80\c&HC8B423&\pos(1011,104)}Episode Six
 Dialogue: 0,0:23:38.18,0:23:40.14,Nagi no Episode kara,,0,0,0,,{\blur0.8\fscx80\fscy80\c&H000000&\alpha&H80&\pos(1011,104)}Episode Six
 Dialogue: 1,0:23:38.18,0:23:40.14,Nagi no Episode kara,,0,0,0,,{\an7\blur0.5\c&HC5AC28&\pos(84,558)}Beyond Tomoebi
