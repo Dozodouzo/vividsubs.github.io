@@ -17,7 +17,9 @@ Video File: hanayamata09_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Video Position: 719
+Scroll Position: 10
+Active Line: 12
+Video Position: 1778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -4931,7 +4933,6 @@ Dialogue: 0,0:02:28.23,0:02:30.12,OP-rom,,0,0,0,fx,{\an5\c&HFFEDD5&\move(1280.06
 Dialogue: 0,0:02:28.23,0:02:30.12,OP-rom,,0,0,0,fx,{\an5\c&HFFE6CB&\move(1291.665625,63,1244.28125,50,0,300)\p4\fscx117\fscy117\bord0\blur0.7\frz287\frx-327\fry-187\t(0,300,\frz151\frx0\fry0)}m 0 69 b 10 57 16 47 18 38 b 19 23 35 12 53 5 b 73 -3 89 -2 93 19 b 94 28 93 34 85 40 b 73 47 74 53 71 55 b 46 53 24 54 0 69
 Dialogue: 0,0:02:28.23,0:02:30.12,OP-rom,,0,0,0,fx,{\an5\c&HFFF5B9&\move(1284.565625,45.6,1247.28125,42,0,300)\p4\fscx128\fscy128\bord0\blur0.7\frz-34\frx422\fry-403\t(0,300,\frz309\frx0\fry0)}m 0 69 b 10 57 16 47 18 38 b 19 23 35 12 53 5 b 73 -3 89 -2 93 19 b 94 28 93 34 85 40 b 73 47 74 53 71 55 b 46 53 24 54 0 69
 Dialogue: 0,0:02:28.23,0:02:30.12,OP-rom,,0,0,0,fx,{\an5\c&HFFE5AD&\move(1259.365625,35.7,1243.28125,59,0,300)\p4\fscx123\fscy123\bord0\blur0.7\frz-154\frx459\fry401\t(0,300,\frz238\frx0\fry0)}m 10 80 b 12 69 7 58 2 49 b -3 35 6 7 29 1 b 42 -2 48 7 55 14 b 80 19 78 16 79 34 b 77 58 70 63 41 70 b 28 72 19 74 10 80
-Dialogue: 0,0:02:28.25,0:02:30.01,OP-eng,,0,0,0,,{\fad(150,150)\blur0.5}This is how I feel
 Dialogue: 0,0:02:28.53,0:02:30.32,OP-rom,,0,0,0,fx,{\an5\c&H90DAFF&\move(1175.859375,53,1122.7890625,83.5,1490,1790)\p4\fscx105\fscy105\bord0\blur0.7\frz308\t(1490,1790,\frz-276\frx467\fry-491\blur3)\fad(0,150)}m 0 29 b 9 24 14 20 19 15 b 41 -2 41 -2 65 4 b 77 6 86 19 69 35 b 56 43 34 44 27 36 b 19 29 15 27 0 29
 Dialogue: 0,0:02:28.53,0:02:30.32,OP-rom,,0,0,0,fx,{\an5\c&H84F1FF&\move(1182.859375,30,1145.2890625,50,1490,1790)\p4\fscx129\fscy129\bord0\blur0.7\frz60\t(1490,1790,\frz31\frx441\fry386\blur3)\fad(0,150)}m 10 80 b 12 69 7 58 2 49 b -3 35 6 7 29 1 b 42 -2 48 7 55 14 b 80 19 78 16 79 34 b 77 58 70 63 41 70 b 28 72 19 74 10 80
 Dialogue: 0,0:02:28.53,0:02:30.32,OP-rom,,0,0,0,fx,{\an5\c&H8CFEFF&\move(1200.859375,47,1194.2890625,71.5,1490,1790)\p4\fscx114\fscy114\bord0\blur0.7\frz263\t(1490,1790,\frz122\frx-492\fry-270\blur3)\fad(0,150)}m 0 69 b 10 57 16 47 18 38 b 19 23 35 12 53 5 b 73 -3 89 -2 93 19 b 94 28 93 34 85 40 b 73 47 74 53 71 55 b 46 53 24 54 0 69
@@ -5149,6 +5150,7 @@ Dialogue: 0,0:02:36.27,0:02:36.77,OP-rom,,0,0,0,fx,{\an5\c&HFDE9AB&\move(1110.44
 Dialogue: 0,0:02:36.27,0:02:36.77,OP-rom,,0,0,0,fx,{\an5\c&HFFFFB4&\move(1059.640625,67.9,1049.03125,63,0,300)\p4\fscx115\fscy115\bord0\blur0.7\frz-233\frx513\fry334\t(0,300,\frz191\frx0\fry0)}m 10 80 b 12 69 7 58 2 49 b -3 35 6 7 29 1 b 42 -2 48 7 55 14 b 80 19 78 16 79 34 b 77 58 70 63 41 70 b 28 72 19 74 10 80
 Dialogue: 0,0:02:36.27,0:02:36.77,OP-rom,,0,0,0,fx,{\an5\c&HFFDCBD&\move(1090.340625,60.1,1048.03125,57,0,300)\p4\fscx114\fscy114\bord0\blur0.7\frz-157\frx-365\fry-210\t(0,300,\frz217\frx0\fry0)}m 0 29 b 9 24 14 20 19 15 b 41 -2 41 -2 65 4 b 77 6 86 19 69 35 b 56 43 34 44 27 36 b 19 29 15 27 0 29
 Dialogue: 0,0:02:36.27,0:02:36.77,OP-rom,,0,0,0,fx,{\an5\c&HFFE9BD&\move(1086.040625,16.1,1057.03125,47,0,300)\p4\fscx102\fscy102\bord0\blur0.7\frz-194\frx477\fry345\t(0,300,\frz281\frx0\fry0)}m 0 29 b 9 24 14 20 19 15 b 41 -2 41 -2 65 4 b 77 6 86 19 69 35 b 56 43 34 44 27 36 b 19 29 15 27 0 29
+Dialogue: 0,0:02:36.30,0:02:38.06,OP-eng,,0,0,0,,{\fad(150,150)\blur0.5}This is how I feel
 Dialogue: 1,0:02:36.30,0:02:36.43,OP-rom,,0,0,0,fx,{\c&HAF7FF1&\pos(1030,15)}o
 Dialogue: 2,0:02:36.30,0:02:36.43,OP-rom,,0,0,0,fx,{\blur0.5\bord0\pos(1030,15)}o
 Dialogue: 1,0:02:36.30,0:02:36.57,OP-rom,,0,0,0,fx,{\c&HAF7FF1&\pos(1064,15)}to
