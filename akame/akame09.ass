@@ -18,7 +18,9 @@ Keyframes File: akame09_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 269
+Scroll Position: 736
+Active Line: 758
+Video Position: 22867
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -789,9 +791,9 @@ Dialogue: 10,0:15:38.91,0:15:42.20,Default,,0,0,0,,If you don't kill us now, we 
 Dialogue: 10,0:15:42.87,0:15:44.00,Default,,0,0,0,,Remember this.
 Dialogue: 10,0:15:44.00,0:15:47.16,Default,,0,0,0,,The weak are destined to lie \Nbeneath the boots of the strong.
 Dialogue: 10,0:15:47.16,0:15:49.38,Default,,0,0,0,,If that angers you, overcome your deficits.
-Dialogue: 10,0:15:49.38,0:15:51.00,Default,,0,0,0,,{\i1}I can't take part in this.
-Dialogue: 10,0:15:51.00,0:15:53.72,Default,,0,0,0,,{\i1}The empire may have ordered us to make an example of them,
-Dialogue: 10,0:15:53.72,0:15:56.28,Default,,0,0,0,,{\i1}but I can't throw my lot in with those who enjoy this savagery.
+Dialogue: 10,0:15:49.38,0:15:51.00,Default,,0,0,0,,{\i1}I won't stand for this.
+Dialogue: 10,0:15:51.00,0:15:53.72,Default,,0,0,0,,{\i1}Not the empire's orders to make an example of them,
+Dialogue: 10,0:15:53.72,0:15:56.28,Default,,0,0,0,,{\i1}and not those who relish in this savagery.
 Dialogue: 10,0:15:58.55,0:16:00.02,Default,,0,0,0,,So that's what happened.
 Dialogue: 10,0:16:00.02,0:16:03.82,Default,,0,0,0,,Letting the tribesmen live after all that \Nmust have been the ultimate humiliation.
 Dialogue: 10,0:16:03.82,0:16:06.02,Default,,0,0,0,,In fact, from the empire's perspective,
@@ -862,7 +864,7 @@ Dialogue: 10,0:19:45.93,0:19:46.91,Default,,0,0,0,,Yeah.
 Dialogue: 10,0:19:46.91,0:19:48.37,Default,,0,0,0,,That'll be all!
 Dialogue: 10,0:19:48.91,0:19:50.20,Default,,0,0,0,,The winner is Tatsumi!
 Dialogue: 10,0:19:54.33,0:19:56.88,Default,,0,0,0,,{\i1}Everyone is cheering for me.
-Dialogue: 10,0:19:57.81,0:19:59.10,Default,,0,0,0,,{\i1}I did it!
+Dialogue: 10,0:19:57.81,0:19:59.10,Default,,0,0,0,,I did it!
 Dialogue: 10,0:20:03.51,0:20:05.14,Default,,0,0,0,,We've found him.
 Dialogue: 10,0:20:05.14,0:20:07.10,Default,,0,0,0,,A potential Relic-wielder, I take it?
 Dialogue: 10,0:20:07.10,0:20:08.50,Default,,0,0,0,,That too.
