@@ -16,7 +16,9 @@ Video File: akame08_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.512500
-Video Position: 60
+Scroll Position: 464
+Active Line: 475
+Video Position: 30509
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -500,13 +502,13 @@ Dialogue: 6,0:20:13.24,0:20:14.40,Default,,0,0,0,,I'm sorry.
 Dialogue: 6,0:20:14.85,0:20:19.43,Default,,0,0,0,,Even in your final moments, \Nyou still had to smack me for being stupid.
 Dialogue: 6,0:20:19.96,0:20:22.39,Default,,0,0,0,,I'll become stronger.
 Dialogue: 6,0:20:22.97,0:20:26.99,Default,,0,0,0,,And I'll learn to use Incursio properly.
-Dialogue: 6,0:20:27.66,0:20:30.56,Default,,0,0,0,,S-So... 
+Dialogue: 6,0:20:27.66,0:20:30.56,Default,,0,0,0,,S-So...
 Dialogue: 6,0:20:30.56,0:20:31.96,Default,,0,0,0,,So...
 Dialogue: 6,0:20:32.54,0:20:35.58,Default,,0,0,0,,It's okay if I cry now, right...
 Dialogue: 6,0:20:36.67,0:20:37.99,Default,,0,0,0,,Bro?
 Dialogue: 6,0:21:05.30,0:21:08.49,Default,,0,0,0,,Human bodies really are fun!
-Dialogue: 6,0:21:08.93,0:21:12.45,Default,,0,0,0,,We need to thoroughly incinerate the bodies so nothing remains.
-Dialogue: 6,0:21:12.45,0:21:17.46,Default,,0,0,0,,It's a major crime to sell what we took \Nfrom them on the black market, isn't it?
+Dialogue: 6,0:21:08.93,0:21:12.45,Default,,0,0,0,,We have to extinguish the sparks of dissent before they can spread.
+Dialogue: 6,0:21:12.45,0:21:17.46,Default,,0,0,0,,Smugglers like these need to be punished severely, don't they?
 Dialogue: 6,0:21:18.73,0:21:20.48,Default,,0,0,0,,Kurome, we have a message!
 Dialogue: 6,0:21:20.48,0:21:22.82,Default,,0,0,0,,You've been summoned to an assembly in the capital.
 Dialogue: 0,0:21:21.55,0:21:23.38,Messy Jackal Felt Terror,,0,0,0,,{\blur0.6\c&H0B1829&\b1\frz326.1\fscx87\fscy87\pos(477,588)\fsp0.5}KUROME'S

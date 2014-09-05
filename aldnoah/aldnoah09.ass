@@ -17,9 +17,9 @@ Keyframes File: aldnoah09_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 852
-Active Line: 858
-Video Position: 25649
+Scroll Position: 831
+Active Line: 832
+Video Position: 23076
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -866,11 +866,11 @@ Dialogue: 5,0:15:52.33,0:15:53.30,Default,,0,0,0,,{\i1}None...
 Dialogue: 5,0:15:54.13,0:15:56.01,Default,,0,0,0,,{\i1}None at all!
 Dialogue: 5,0:15:58.77,0:16:01.49,Default,,0,0,0,,{\i1}Why did she reveal herself?
 Dialogue: 5,0:16:02.44,0:16:04.69,Default,,0,0,0,,{\i1}How can she be so calm?
-Dialogue: 5,0:16:05.94,0:16:07.11,Default,,0,0,0,,{\i1}Why?
-Dialogue: 5,0:16:07.67,0:16:08.50,Default,,0,0,0,,{\i1}Why?
-Dialogue: 5,0:16:09.58,0:16:10.28,Default,,0,0,0,,{\i1}Why?
-Dialogue: 5,0:16:13.61,0:16:16.40,Default,,0,0,0,,{\i1}Why did he have to die?
-Dialogue: 5,0:16:20.97,0:16:25.04,Default,,0,0,0,,{\i1}Why did I survive?
+Dialogue: 5,0:16:05.94,0:16:07.11,Default,,0,0,0,,{\i1}How?
+Dialogue: 5,0:16:07.67,0:16:08.50,Default,,0,0,0,,{\i1}How?
+Dialogue: 5,0:16:09.58,0:16:10.28,Default,,0,0,0,,{\i1}How?
+Dialogue: 5,0:16:13.61,0:16:16.40,Default,,0,0,0,,{\i1}How can she...
+Dialogue: 5,0:16:20.97,0:16:25.04,Default,,0,0,0,,{\i1}When I...
 Dialogue: 5,0:16:36.29,0:16:38.49,Default,,0,0,0,,What's the matter? Not hungry?
 Dialogue: 5,0:16:39.41,0:16:43.08,Default,,0,0,0,,Don't worry. I'm not trying to poison you.
 Dialogue: 5,0:16:43.08,0:16:46.27,Default,,0,0,0,,If I wanted to kill you, \Nyou would already be dead.
