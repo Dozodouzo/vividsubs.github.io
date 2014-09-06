@@ -17,9 +17,9 @@ Audio File: Nagi.02.premux.720p.mkv
 Video File: Nagi.02.premux.720p.mkv
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 434
-Active Line: 437
-Video Position: 33832
+Scroll Position: 401
+Active Line: 409
+Video Position: 31641
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -444,11 +444,11 @@ Dialogue: 5,0:21:46.21,0:21:47.64,Default,,0,0,0,,You guys leave too.
 Dialogue: 5,0:21:47.64,0:21:49.54,Default,,0,0,0,,Huh? B-But...
 Dialogue: 5,0:21:57.29,0:21:58.38,Default,,0,0,0,,Akari...
 Dialogue: 5,0:21:58.38,0:21:59.67,Default,,0,0,0,,{ED}
-Dialogue: 0,0:21:59.67,0:22:07.33,ED-english,,0,0,0,,{\fad(250,450)\blur2.5}My hand floats in warm water
-Dialogue: 0,0:21:59.67,0:22:07.33,ED-romaji,,0,0,0,,{\fad(250,450)\blur2.5}atatakai mizu ni oyogu te toridasu
-Dialogue: 0,0:22:07.33,0:22:10.69,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}I take some string, and spend a long time
+Dialogue: 0,0:21:59.67,0:22:07.33,ED-english,,0,0,0,,{\fad(250,450)\blur2.5}Detritus floats in the warm water
+Dialogue: 0,0:21:59.67,0:22:07.33,ED-romaji,,0,0,0,,{\fad(250,450)\blur2.5}atatakai mizu ni oyogu detritus
+Dialogue: 0,0:22:07.33,0:22:10.69,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}I take it, and spend a long time
 Dialogue: 0,0:22:07.33,0:22:10.69,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}nagai jikan wo kakete
-Dialogue: 0,0:22:10.69,0:22:19.84,ED-english,,0,0,0,,{\fad(250,450)\blur2.5}spinning myself into a cocoon for you
+Dialogue: 0,0:22:10.69,0:22:19.84,ED-english,,0,0,0,,{\fad(250,450)\blur2.5}spinning it into a cocoon for you
 Dialogue: 0,0:22:10.69,0:22:19.84,ED-romaji,,0,0,0,,{\fad(250,450)\blur2.5}ito wo tsumuginagara mayu ni naru
 Dialogue: 0,0:22:29.20,0:22:33.99,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}How long did we have
 Dialogue: 0,0:22:29.20,0:22:33.99,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}ittai dore kurai mabuta wo
@@ -462,13 +462,13 @@ Dialogue: 0,0:22:44.71,0:22:48.76,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}When
 Dialogue: 0,0:22:44.71,0:22:48.76,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}koko wa yuugen no suisou de
 Dialogue: 0,0:22:48.76,0:22:52.66,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}bubbles rise to foam
 Dialogue: 0,0:22:48.76,0:22:52.66,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}namae wo yobeba awa ni naru
-Dialogue: 0,0:22:55.63,0:23:03.25,ED-english,,0,0,0,,{\fad(250,250)\blur2.5.5}My hand floats in warm water
-Dialogue: 0,0:22:55.63,0:23:03.25,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5.5}atatakai mizu ni oyogu te toridasu
-Dialogue: 0,0:23:03.25,0:23:06.59,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}I take some string, and spend a long time
+Dialogue: 0,0:22:55.63,0:23:03.25,ED-english,,0,0,0,,{\fad(250,250)\blur2.5.5}Detritus floats in the warm water
+Dialogue: 0,0:22:55.63,0:23:03.25,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5.5}atatakai mizu ni oyogu detritus
+Dialogue: 0,0:23:03.25,0:23:06.59,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}I take it, and spend a long time
 Dialogue: 0,0:23:03.25,0:23:06.59,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}nagai jikan wo kakete
-Dialogue: 0,0:23:06.59,0:23:11.37,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}spinning myself for you
+Dialogue: 0,0:23:06.59,0:23:11.37,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}spinning it into a cocoon for you
 Dialogue: 0,0:23:06.59,0:23:11.37,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}ito wo tsumuginagara
-Dialogue: 0,0:23:11.37,0:23:19.35,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}into a cocoon that will shield you from emotions
+Dialogue: 0,0:23:11.37,0:23:19.35,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}that will shield you from emotions
 Dialogue: 0,0:23:11.37,0:23:19.35,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}odayaka ni nemuru kimi no sotogawa de
 Dialogue: 0,0:23:19.35,0:23:27.86,ED-english,,0,0,0,,{\fad(250,550)\blur2.5}as you sleep peacefully
 Dialogue: 0,0:23:19.35,0:23:27.86,ED-romaji,,0,0,0,,{\fad(250,550)\blur2.5}subete no kanjou kara mamoru mayu ni naru

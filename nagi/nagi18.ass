@@ -16,9 +16,9 @@ Audio File: Nagi.18.premux.720p.mkv
 Video File: Nagi.18.premux.720p.mkv
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 567
-Active Line: 574
-Video Position: 33633
+Scroll Position: 540
+Active Line: 555
+Video Position: 33015
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -586,30 +586,30 @@ Dialogue: 0,0:22:46.52,0:22:50.37,ED2-romaji,,0,0,0,j06,{\fad(200,200)\blur2\sha
 Dialogue: 1,0:22:46.52,0:22:50.37,ED2-romaji,,0,0,0,j06,{\fad(200,200)\bord0}yawai chikara de
 Dialogue: 0,0:22:46.52,0:22:50.37,ED2-english,,0,0,0,e06,{\fad(200,200)\blur2\shad0\c&H420700&}if the love of those around me
 Dialogue: 1,0:22:46.52,0:22:50.37,ED2-english,,0,0,0,e06,{\fad(200,200)\bord0}if the love of those around me
-Dialogue: 0,0:22:50.37,0:22:56.99,ED2-romaji,,0,0,0,j07,{\fad(200,200)\blur2\shad0\c&H420700&}taguriyosetekureru kana
-Dialogue: 1,0:22:50.37,0:22:56.99,ED2-romaji,,0,0,0,j07,{\fad(200,200)\bord0}taguriyosetekureru kana
+Dialogue: 0,0:22:50.37,0:22:56.99,ED2-romaji,,0,0,0,j07,{\fad(200,200)\blur2\shad0\c&H420700&}taguriyosetekureru kara
+Dialogue: 1,0:22:50.37,0:22:56.99,ED2-romaji,,0,0,0,j07,{\fad(200,200)\bord0}taguriyosetekureru kara
 Dialogue: 0,0:22:50.37,0:22:56.99,ED2-english,,0,0,0,e07,{\fad(200,200)\blur2\shad0\c&H420700&}drew me in gently
 Dialogue: 1,0:22:50.37,0:22:56.99,ED2-english,,0,0,0,e07,{\fad(200,200)\bord0}drew me in gently
 Dialogue: 0,0:22:56.99,0:22:59.01,ED2-romaji,,0,0,0,j08,{\fad(200,200)\blur2\shad0\c&H420700&}azayaka ni
 Dialogue: 1,0:22:56.99,0:22:59.01,ED2-romaji,,0,0,0,j08,{\fad(200,200)\bord0}azayaka ni
-Dialogue: 0,0:22:56.99,0:22:59.01,ED2-english,,0,0,0,e08,{\fad(200,200)\blur2\shad0\c&H420700&}and free of blemish
-Dialogue: 1,0:22:56.99,0:22:59.01,ED2-english,,0,0,0,e08,{\fad(200,200)\bord0}and free of blemish
+Dialogue: 0,0:22:56.99,0:22:59.01,ED2-english,,0,0,0,e08,{\fad(200,200)\blur2\shad0\c&H420700&}Innocently
+Dialogue: 1,0:22:56.99,0:22:59.01,ED2-english,,0,0,0,e08,{\fad(200,200)\bord0}Innocently
 Dialogue: 0,0:22:59.58,0:23:07.16,ED2-romaji,,0,0,0,j09,{\fad(200,200)\blur2\shad0\c&H420700&}musunde kono kimochigoto
 Dialogue: 1,0:22:59.58,0:23:07.16,ED2-romaji,,0,0,0,j09,{\fad(200,200)\bord0}musunde kono kimochigoto
 Dialogue: 0,0:22:59.58,0:23:07.16,ED2-english,,0,0,0,e09,{\fad(200,200)\blur2\shad0\c&H420700&}I tie my feelings into a rope
 Dialogue: 1,0:22:59.58,0:23:07.16,ED2-english,,0,0,0,e09,{\fad(200,200)\bord0}I tie my feelings into a rope
-Dialogue: 0,0:23:07.16,0:23:15.20,ED2-romaji,,0,0,0,j10,{\fad(200,200)\blur2\shad0\c&H420700&}hanarenai you ni kataku kataku aa
-Dialogue: 1,0:23:07.16,0:23:15.20,ED2-romaji,,0,0,0,j10,{\fad(200,200)\bord0}hanarenai you ni kataku kataku aa
+Dialogue: 0,0:23:07.16,0:23:15.20,ED2-romaji,,0,0,0,j10,{\fad(200,200)\blur2\shad0\c&H420700&}hanarenai you ni kataku kataku
+Dialogue: 1,0:23:07.16,0:23:15.20,ED2-romaji,,0,0,0,j10,{\fad(200,200)\bord0}hanarenai you ni kataku kataku
 Dialogue: 0,0:23:07.16,0:23:15.20,ED2-english,,0,0,0,e10,{\fad(200,200)\blur2\shad0\c&H420700&}so that we will never be apart
 Dialogue: 1,0:23:07.16,0:23:15.20,ED2-english,,0,0,0,e10,{\fad(200,200)\bord0}so that we will never be apart
 Dialogue: 0,0:23:15.20,0:23:22.77,ED2-romaji,,0,0,0,j11,{\fad(200,200)\blur2\shad0\c&H420700&}hitomusubi hito wo musunde
 Dialogue: 1,0:23:15.20,0:23:22.77,ED2-romaji,,0,0,0,j11,{\fad(200,200)\bord0}hitomusubi hito wo musunde
 Dialogue: 0,0:23:15.20,0:23:22.77,ED2-english,,0,0,0,e11,{\fad(200,200)\blur2\shad0\c&H420700&}The knots tie us together,
 Dialogue: 1,0:23:15.20,0:23:22.77,ED2-english,,0,0,0,e11,{\fad(200,200)\bord0}The knots tie us together,
-Dialogue: 0,0:23:22.77,0:23:29.59,ED2-romaji,,0,0,0,j12,{\fad(200,200)\blur2\shad0\c&H420700&}kitai no iu mama ni saki he asu he yukou
-Dialogue: 1,0:23:22.77,0:23:29.59,ED2-romaji,,0,0,0,j12,{\fad(200,200)\bord0}kitai no iu mama ni saki he asu he yukou
-Dialogue: 0,0:23:22.77,0:23:29.59,ED2-english,,0,0,0,e12,{\fad(200,200)\blur2\shad0\c&H420700&}so let us approach the days to come with hope
-Dialogue: 1,0:23:22.77,0:23:29.59,ED2-english,,0,0,0,e12,{\fad(200,200)\bord0}so let us approach the days to come with hope
+Dialogue: 0,0:23:22.77,0:23:29.59,ED2-romaji,,0,0,0,j12,{\fad(200,200)\blur2\shad0\c&H420700&}kitai no yamanai saki he asu he yukou
+Dialogue: 1,0:23:22.77,0:23:29.59,ED2-romaji,,0,0,0,j12,{\fad(200,200)\bord0}kitai no yamanai saki he asu he yukou
+Dialogue: 0,0:23:22.77,0:23:29.59,ED2-english,,0,0,0,e12,{\fad(200,200)\blur2\shad0\c&H420700&}so let us approach the future with hope in our hearts
+Dialogue: 1,0:23:22.77,0:23:29.59,ED2-english,,0,0,0,e12,{\fad(200,200)\bord0}so let us approach the future with hope in our hearts
 Dialogue: 5,0:23:30.84,0:23:35.35,Default,,0,0,0,,That day, even though I kept reaching for you, I couldn't get to you.
 Dialogue: 5,0:23:35.82,0:23:37.71,Default,,0,0,0,,But never again.
 Dialogue: 5,0:23:37.71,0:23:39.40,Default,,0,0,0,,I'm never gonna let go of you again.

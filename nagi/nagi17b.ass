@@ -16,9 +16,9 @@ Audio File: Nagi.17.premux.720p.mkv
 Video File: Nagi.17.premux.720p.mkv
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 566
-Active Line: 569
-Video Position: 33832
+Scroll Position: 12
+Active Line: 15
+Video Position: 1204
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,80 +50,80 @@ Dialogue: 5,0:00:26.17,0:00:27.46,Default,,0,0,0,,Kaname?!
 Dialogue: 5,0:00:31.39,0:00:33.26,Default,,0,0,0,,Wait up, Hika—
 Dialogue: 5,0:00:37.92,0:00:39.56,Default,,0,0,0,,Hey. Good morning.{PV}
 Dialogue: 5,0:00:40.10,0:00:40.14,OP2-romaji,,0,0,0,,{OP}
-Dialogue: 0,0:00:49.20,0:00:53.72,OP2-romaji,,0,0,0,j01,{\bord3.5\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&}furitsumoru konayuki ga mau
-Dialogue: 1,0:00:49.20,0:00:53.72,OP2-romaji,,0,0,0,j01,{\blur0.4\fad(150,150)\c&H420700&}furitsumoru konayuki ga mau
-Dialogue: 2,0:00:49.20,0:00:53.72,OP2-romaji,,0,0,0,j01,{\bord0\blur0.4\fad(150,150)}furitsumoru konayuki ga mau
-Dialogue: 0,0:00:49.20,0:00:53.72,OP2-english,,0,0,0,e01,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}Little snowflakes dance in the air
-Dialogue: 1,0:00:49.20,0:00:53.72,OP2-english,,0,0,0,e01,{\blur0.4\fad(150,150)\c&H420700&}Little snowflakes dance in the air
-Dialogue: 2,0:00:49.20,0:00:53.72,OP2-english,,0,0,0,e01,{\bord0\blur0.4\fad(150,150)}Little snowflakes dance in the air
-Dialogue: 0,0:00:53.72,0:00:58.53,OP2-romaji,,0,0,0,j02,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}akiramekaketa yume ga mata namiutsu
-Dialogue: 1,0:00:53.72,0:00:58.53,OP2-romaji,,0,0,0,j02,{\blur0.4\fad(150,150)\c&H420700&}akiramekaketa yume ga mata namiutsu
-Dialogue: 2,0:00:53.72,0:00:58.53,OP2-romaji,,0,0,0,j02,{\bord0\blur0.4\fad(150,150)}akiramekaketa yume ga mata namiutsu
-Dialogue: 0,0:00:53.72,0:00:58.53,OP2-english,,0,0,0,e02,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}I'd almost given up on my dream, but it washes in again,
-Dialogue: 1,0:00:53.72,0:00:58.53,OP2-english,,0,0,0,e02,{\blur0.4\fad(150,150)\c&H420700&}I'd almost given up on my dream, but it washes in again,
-Dialogue: 2,0:00:53.72,0:00:58.53,OP2-english,,0,0,0,e02,{\bord0\blur0.4\fad(150,150)}I'd almost given up on my dream, but it washes in again,
-Dialogue: 0,0:00:58.53,0:01:03.37,OP2-romaji,,0,0,0,j03,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}ano hi no mama de
-Dialogue: 1,0:00:58.53,0:01:03.37,OP2-romaji,,0,0,0,j03,{\blur0.4\fad(150,0)\c&H420700&}ano hi no mama de
-Dialogue: 2,0:00:58.53,0:01:03.37,OP2-romaji,,0,0,0,j03,{\bord0\blur0.4\fad(150,0)}ano hi no mama de
-Dialogue: 0,0:00:58.53,0:01:03.37,OP2-english,,0,0,0,e03,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}like it did so long ago
-Dialogue: 1,0:00:58.53,0:01:03.37,OP2-english,,0,0,0,e03,{\blur0.4\fad(150,0)\c&H420700&}like it did so long ago
-Dialogue: 2,0:00:58.53,0:01:03.37,OP2-english,,0,0,0,e03,{\bord0\blur0.4\fad(150,0)}like it did so long ago
-Dialogue: 0,0:01:07.31,0:01:11.34,OP2-romaji,,0,0,0,j04,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}kawaranai egao mitsumeta
-Dialogue: 1,0:01:07.31,0:01:11.34,OP2-romaji,,0,0,0,j04,{\blur0.4\fad(150,150)\c&H420700&}kawaranai egao mitsumeta
-Dialogue: 2,0:01:07.31,0:01:11.34,OP2-romaji,,0,0,0,j04,{\bord0\blur0.4\fad(150,150)}kawaranai egao mitsumeta
-Dialogue: 0,0:01:07.31,0:01:11.34,OP2-english,,0,0,0,e04,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}I watched your frozen smile,
-Dialogue: 1,0:01:07.31,0:01:11.34,OP2-english,,0,0,0,e04,{\blur0.4\fad(150,150)\c&H420700&}I watched your frozen smile,
-Dialogue: 2,0:01:07.31,0:01:11.34,OP2-english,,0,0,0,e04,{\bord0\blur0.4\fad(150,150)}I watched your frozen smile,
-Dialogue: 0,0:01:11.34,0:01:14.97,OP2-romaji,,0,0,0,j05,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}somaru hoho ni fureta kaze ga
-Dialogue: 1,0:01:11.34,0:01:14.97,OP2-romaji,,0,0,0,j05,{\blur0.4\fad(150,150)\c&H420700&}somaru hoho ni fureta kaze ga
-Dialogue: 2,0:01:11.34,0:01:14.97,OP2-romaji,,0,0,0,j05,{\bord0\blur0.4\fad(150,150)}somaru hoho ni fureta kaze ga
-Dialogue: 0,0:01:11.34,0:01:14.97,OP2-english,,0,0,0,e05,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}and the wind turning my cheeks red
-Dialogue: 1,0:01:11.34,0:01:14.97,OP2-english,,0,0,0,e05,{\blur0.4\fad(150,150)\c&H420700&}and the wind turning my cheeks red
-Dialogue: 2,0:01:11.34,0:01:14.97,OP2-english,,0,0,0,e05,{\bord0\blur0.4\fad(150,150)}and the wind turning my cheeks red
-Dialogue: 0,0:01:14.97,0:01:18.89,OP2-romaji,,0,0,0,j06,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}sora takaku nuketa
-Dialogue: 1,0:01:14.97,0:01:18.89,OP2-romaji,,0,0,0,j06,{\blur0.4\fad(150,0)\c&H420700&}sora takaku nuketa
-Dialogue: 2,0:01:14.97,0:01:18.89,OP2-romaji,,0,0,0,j06,{\bord0\blur0.4\fad(150,0)}sora takaku nuketa
-Dialogue: 0,0:01:14.97,0:01:18.89,OP2-english,,0,0,0,e06,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}disappeared high into the sky
-Dialogue: 1,0:01:14.97,0:01:18.89,OP2-english,,0,0,0,e06,{\blur0.4\fad(150,0)\c&H420700&}disappeared high into the sky
-Dialogue: 2,0:01:14.97,0:01:18.89,OP2-english,,0,0,0,e06,{\bord0\blur0.4\fad(150,0)}disappeared high into the sky
-Dialogue: 2,0:01:21.14,0:01:25.27,OP2-spoken,,0,0,0,,{\i1}I was always looking at you, never far away,
-Dialogue: 2,0:01:25.73,0:01:28.52,OP2-spoken,,0,0,0,,{\i1}and yet you seemed out of my reach.
-Dialogue: 0,0:01:29.38,0:01:31.65,OP2-romaji,,0,0,0,j07,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}doushite
-Dialogue: 1,0:01:29.38,0:01:31.65,OP2-romaji,,0,0,0,j07,{\blur0.4\fad(150,150)\c&H420700&}doushite
-Dialogue: 2,0:01:29.38,0:01:31.65,OP2-romaji,,0,0,0,j07,{\bord0\blur0.4\fad(150,150)}doushite
-Dialogue: 0,0:01:29.38,0:01:31.65,OP2-english,,0,0,0,e07,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}Why?
-Dialogue: 1,0:01:29.38,0:01:31.65,OP2-english,,0,0,0,e07,{\blur0.4\fad(150,150)\c&H420700&}Why?
-Dialogue: 2,0:01:29.38,0:01:31.65,OP2-english,,0,0,0,e07,{\bord0\blur0.4\fad(150,150)}Why?
-Dialogue: 0,0:01:31.65,0:01:40.66,OP2-romaji,,0,0,0,j08,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}to toikaketa koe mo yureru
-Dialogue: 1,0:01:31.65,0:01:40.66,OP2-romaji,,0,0,0,j08,{\blur0.4\fad(150,0)\c&H420700&}to toikaketa koe mo yureru
-Dialogue: 2,0:01:31.65,0:01:40.66,OP2-romaji,,0,0,0,j08,{\bord0\blur0.4\fad(150,0)}to toikaketa koe mo yureru
-Dialogue: 0,0:01:31.65,0:01:40.66,OP2-english,,0,0,0,e08,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}Even your voice is rough as it asks me
-Dialogue: 1,0:01:31.65,0:01:40.66,OP2-english,,0,0,0,e08,{\blur0.4\fad(150,0)\c&H420700&}Even your voice is rough as it asks me
-Dialogue: 2,0:01:31.65,0:01:40.66,OP2-english,,0,0,0,e08,{\bord0\blur0.4\fad(150,0)}Even your voice is rough as it asks me
-Dialogue: 0,0:01:41.23,0:01:47.54,OP2-romaji,,0,0,0,j09,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}yurayura minamo ni ukanda
-Dialogue: 1,0:01:41.23,0:01:47.54,OP2-romaji,,0,0,0,j09,{\blur0.4\fad(150,150)\c&H420700&}yurayura minamo ni ukanda
-Dialogue: 2,0:01:41.23,0:01:47.54,OP2-romaji,,0,0,0,j09,{\bord0\blur0.4\fad(150,150)}yurayura minamo ni ukanda
-Dialogue: 0,0:01:41.23,0:01:47.54,OP2-english,,0,0,0,e09,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}The moon's reflection quivered on the waters,
-Dialogue: 1,0:01:41.23,0:01:47.54,OP2-english,,0,0,0,e09,{\blur0.4\fad(150,150)\c&H420700&}The moon's reflection quivered on the waters,
-Dialogue: 2,0:01:41.23,0:01:47.54,OP2-english,,0,0,0,e09,{\bord0\blur0.4\fad(150,150)}The moon's reflection quivered on the waters,
-Dialogue: 0,0:01:47.54,0:01:54.02,OP2-romaji,,0,0,0,j10,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}tsuki wa nanimo kataranai
-Dialogue: 1,0:01:47.54,0:01:54.02,OP2-romaji,,0,0,0,j10,{\blur0.4\fad(150,150)\c&H420700&}tsuki wa nanimo kataranai
-Dialogue: 2,0:01:47.54,0:01:54.02,OP2-romaji,,0,0,0,j10,{\bord0\blur0.4\fad(150,150)}tsuki wa nanimo kataranai
-Dialogue: 0,0:01:47.54,0:01:54.02,OP2-english,,0,0,0,e10,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}and it told us nothing about the future
-Dialogue: 1,0:01:47.54,0:01:54.02,OP2-english,,0,0,0,e10,{\blur0.4\fad(150,150)\c&H420700&}and it told us nothing about the future
-Dialogue: 2,0:01:47.54,0:01:54.02,OP2-english,,0,0,0,e10,{\bord0\blur0.4\fad(150,150)}and it told us nothing about the future
-Dialogue: 0,0:01:54.02,0:01:59.36,OP2-romaji,,0,0,0,j11,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}tada no boukansha
-Dialogue: 1,0:01:54.02,0:01:59.36,OP2-romaji,,0,0,0,j11,{\blur0.4\fad(150,150)\c&H420700&}tada no boukansha
-Dialogue: 2,0:01:54.02,0:01:59.36,OP2-romaji,,0,0,0,j11,{\bord0\blur0.4\fad(150,150)}tada no boukansha
-Dialogue: 0,0:01:54.02,0:01:59.36,OP2-english,,0,0,0,e11,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}The moon merely watched us
-Dialogue: 1,0:01:54.02,0:01:59.36,OP2-english,,0,0,0,e11,{\blur0.4\fad(150,150)\c&H420700&}The moon merely watched us
-Dialogue: 2,0:01:54.02,0:01:59.36,OP2-english,,0,0,0,e11,{\bord0\blur0.4\fad(150,150)}The moon merely watched us
-Dialogue: 0,0:01:59.36,0:02:06.80,OP2-romaji,,0,0,0,j12,{\blur3\fad(150,650)\alpha&H20&\3c&HFFEBC2&\bord3.5}onaji ne nigiru te ga itai
-Dialogue: 1,0:01:59.36,0:02:06.80,OP2-romaji,,0,0,0,j12,{\blur0.4\fad(150,650)\c&H420700&}onaji ne nigiru te ga itai
-Dialogue: 2,0:01:59.36,0:02:06.80,OP2-romaji,,0,0,0,j12,{\bord0\blur0.4\fad(150,650)}onaji ne nigiru te ga itai
-Dialogue: 0,0:01:59.36,0:02:06.80,OP2-english,,0,0,0,e12,{\blur3\fad(150,650)\alpha&H20&\3c&HFFEBC2&\bord3.5}We hold hands even though it hurts
-Dialogue: 1,0:01:59.36,0:02:06.80,OP2-english,,0,0,0,e12,{\blur0.4\fad(150,650)\c&H420700&}We hold hands even though it hurts
-Dialogue: 2,0:01:59.36,0:02:06.80,OP2-english,,0,0,0,e12,{\bord0\blur0.4\fad(150,650)}We hold hands even though it hurts
+Dialogue: 0,0:00:50.20,0:00:54.72,OP2-romaji,,0,0,0,,{\bord3.5\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&}furitsumoru konayuki ga mau
+Dialogue: 1,0:00:50.20,0:00:54.72,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}furitsumoru konayuki ga mau
+Dialogue: 2,0:00:50.20,0:00:54.72,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,150)}furitsumoru konayuki ga mau
+Dialogue: 0,0:00:50.20,0:00:54.72,OP2-english,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}Little snowflakes dance in the air
+Dialogue: 1,0:00:50.20,0:00:54.72,OP2-english,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}Little snowflakes dance in the air
+Dialogue: 2,0:00:50.20,0:00:54.72,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,150)}Little snowflakes dance in the air
+Dialogue: 0,0:00:54.72,0:00:59.53,OP2-romaji,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}akiramekaketa yume ga mata namiutsu
+Dialogue: 1,0:00:54.72,0:00:59.53,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}akiramekaketa yume ga mata namiutsu
+Dialogue: 2,0:00:54.72,0:00:59.53,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,150)}akiramekaketa yume ga mata namiutsu
+Dialogue: 0,0:00:54.72,0:00:59.53,OP2-english,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}I'd almost given up on my dream, but it washes in again,
+Dialogue: 1,0:00:54.72,0:00:59.53,OP2-english,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}I'd almost given up on my dream, but it washes in again,
+Dialogue: 2,0:00:54.72,0:00:59.53,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,150)}I'd almost given up on my dream, but it washes in again,
+Dialogue: 0,0:00:59.53,0:01:04.37,OP2-romaji,,0,0,0,,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}ano hi no mama de
+Dialogue: 1,0:00:59.53,0:01:04.37,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,0)\c&H420700&}ano hi no mama de
+Dialogue: 2,0:00:59.53,0:01:04.37,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,0)}ano hi no mama de
+Dialogue: 0,0:00:59.53,0:01:04.37,OP2-english,,0,0,0,,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}like it did so long ago
+Dialogue: 1,0:00:59.53,0:01:04.37,OP2-english,,0,0,0,,{\blur0.4\fad(150,0)\c&H420700&}like it did so long ago
+Dialogue: 2,0:00:59.53,0:01:04.37,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,0)}like it did so long ago
+Dialogue: 0,0:01:08.31,0:01:12.34,OP2-romaji,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}kawaranai egao mitsumeta
+Dialogue: 1,0:01:08.31,0:01:12.34,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}kawaranai egao mitsumeta
+Dialogue: 2,0:01:08.31,0:01:12.34,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,150)}kawaranai egao mitsumeta
+Dialogue: 0,0:01:08.31,0:01:12.34,OP2-english,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}I watched your frozen smile,
+Dialogue: 1,0:01:08.31,0:01:12.34,OP2-english,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}I watched your frozen smile,
+Dialogue: 2,0:01:08.31,0:01:12.34,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,150)}I watched your frozen smile,
+Dialogue: 0,0:01:12.34,0:01:15.97,OP2-romaji,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}somaru hoho ni fureta kaze ga
+Dialogue: 1,0:01:12.34,0:01:15.97,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}somaru hoho ni fureta kaze ga
+Dialogue: 2,0:01:12.34,0:01:15.97,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,150)}somaru hoho ni fureta kaze ga
+Dialogue: 0,0:01:12.34,0:01:15.97,OP2-english,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}and the wind turning my cheeks red
+Dialogue: 1,0:01:12.34,0:01:15.97,OP2-english,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}and the wind turning my cheeks red
+Dialogue: 2,0:01:12.34,0:01:15.97,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,150)}and the wind turning my cheeks red
+Dialogue: 0,0:01:15.97,0:01:19.89,OP2-romaji,,0,0,0,,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}sora takaku nuketa
+Dialogue: 1,0:01:15.97,0:01:19.89,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,0)\c&H420700&}sora takaku nuketa
+Dialogue: 2,0:01:15.97,0:01:19.89,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,0)}sora takaku nuketa
+Dialogue: 0,0:01:15.97,0:01:19.89,OP2-english,,0,0,0,,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}disappeared high into the sky
+Dialogue: 1,0:01:15.97,0:01:19.89,OP2-english,,0,0,0,,{\blur0.4\fad(150,0)\c&H420700&}disappeared high into the sky
+Dialogue: 2,0:01:15.97,0:01:19.89,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,0)}disappeared high into the sky
+Dialogue: 2,0:01:22.14,0:01:26.27,OP2-spoken,,0,0,0,,{\i1}I was always looking at you, never far away,
+Dialogue: 2,0:01:26.73,0:01:29.52,OP2-spoken,,0,0,0,,{\i1}and yet you seemed out of my reach.
+Dialogue: 0,0:01:30.38,0:01:32.65,OP2-romaji,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}doushite
+Dialogue: 1,0:01:30.38,0:01:32.65,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}doushite
+Dialogue: 2,0:01:30.38,0:01:32.65,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,150)}doushite
+Dialogue: 0,0:01:30.38,0:01:32.65,OP2-english,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}Why?
+Dialogue: 1,0:01:30.38,0:01:32.65,OP2-english,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}Why?
+Dialogue: 2,0:01:30.38,0:01:32.65,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,150)}Why?
+Dialogue: 0,0:01:32.65,0:01:41.66,OP2-romaji,,0,0,0,,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}to toikaketa koe mo yureru
+Dialogue: 1,0:01:32.65,0:01:41.66,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,0)\c&H420700&}to toikaketa koe mo yureru
+Dialogue: 2,0:01:32.65,0:01:41.66,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,0)}to toikaketa koe mo yureru
+Dialogue: 0,0:01:32.65,0:01:41.66,OP2-english,,0,0,0,,{\blur3\fad(150,0)\alpha&H20&\3c&HFFEBC2&\bord3.5}Even your voice is rough as it asks me
+Dialogue: 1,0:01:32.65,0:01:41.66,OP2-english,,0,0,0,,{\blur0.4\fad(150,0)\c&H420700&}Even your voice is rough as it asks me
+Dialogue: 2,0:01:32.65,0:01:41.66,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,0)}Even your voice is rough as it asks me
+Dialogue: 0,0:01:42.23,0:01:48.54,OP2-romaji,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}yurayura minamo ni ukanda
+Dialogue: 1,0:01:42.23,0:01:48.54,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}yurayura minamo ni ukanda
+Dialogue: 2,0:01:42.23,0:01:48.54,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,150)}yurayura minamo ni ukanda
+Dialogue: 0,0:01:42.23,0:01:48.54,OP2-english,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}The moon's reflection quivered on the waters,
+Dialogue: 1,0:01:42.23,0:01:48.54,OP2-english,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}The moon's reflection quivered on the waters,
+Dialogue: 2,0:01:42.23,0:01:48.54,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,150)}The moon's reflection quivered on the waters,
+Dialogue: 0,0:01:48.54,0:01:55.02,OP2-romaji,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}tsuki wa nanimo kataranai
+Dialogue: 1,0:01:48.54,0:01:55.02,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}tsuki wa nanimo kataranai
+Dialogue: 2,0:01:48.54,0:01:55.02,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,150)}tsuki wa nanimo kataranai
+Dialogue: 0,0:01:48.54,0:01:55.02,OP2-english,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}and it told us nothing about the future
+Dialogue: 1,0:01:48.54,0:01:55.02,OP2-english,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}and it told us nothing about the future
+Dialogue: 2,0:01:48.54,0:01:55.02,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,150)}and it told us nothing about the future
+Dialogue: 0,0:01:55.02,0:02:00.36,OP2-romaji,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}tada no boukansha
+Dialogue: 1,0:01:55.02,0:02:00.36,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}tada no boukansha
+Dialogue: 2,0:01:55.02,0:02:00.36,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,150)}tada no boukansha
+Dialogue: 0,0:01:55.02,0:02:00.36,OP2-english,,0,0,0,,{\blur3\fad(150,150)\alpha&H20&\3c&HFFEBC2&\bord3.5}The moon merely watched us
+Dialogue: 1,0:01:55.02,0:02:00.36,OP2-english,,0,0,0,,{\blur0.4\fad(150,150)\c&H420700&}The moon merely watched us
+Dialogue: 2,0:01:55.02,0:02:00.36,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,150)}The moon merely watched us
+Dialogue: 0,0:02:00.36,0:02:07.80,OP2-romaji,,0,0,0,,{\blur3\fad(150,650)\alpha&H20&\3c&HFFEBC2&\bord3.5}onaji ne nigiru te ga itai
+Dialogue: 1,0:02:00.36,0:02:07.80,OP2-romaji,,0,0,0,,{\blur0.4\fad(150,650)\c&H420700&}onaji ne nigiru te ga itai
+Dialogue: 2,0:02:00.36,0:02:07.80,OP2-romaji,,0,0,0,,{\bord0\blur0.4\fad(150,650)}onaji ne nigiru te ga itai
+Dialogue: 0,0:02:00.36,0:02:07.80,OP2-english,,0,0,0,,{\blur3\fad(150,650)\alpha&H20&\3c&HFFEBC2&\bord3.5}We hold hands even though it hurts
+Dialogue: 1,0:02:00.36,0:02:07.80,OP2-english,,0,0,0,,{\blur0.4\fad(150,650)\c&H420700&}We hold hands even though it hurts
+Dialogue: 2,0:02:00.36,0:02:07.80,OP2-english,,0,0,0,,{\bord0\blur0.4\fad(150,650)}We hold hands even though it hurts
 Dialogue: 1,0:02:10.06,0:02:13.07,Nagi no Episode kara,,0,0,0,,{\blur0.5\fscx80\fscy80\pos(924,116)\c&HA77C1E&}Episode Seventeen
 Dialogue: 0,0:02:10.06,0:02:13.07,Nagi no Episode kara,,0,0,0,,{\blur0.6\fscx80\fscy80\c&H000000&\alpha&H30&\pos(924,116)}Episode Seventeen
 Dialogue: 1,0:02:10.06,0:02:13.07,Nagi no Episode kara,,0,0,0,,{\an5\blur0.5\pos(926,205)\c&HA77C1E&}The Sick Two
@@ -593,8 +593,8 @@ Dialogue: 0,0:22:59.58,0:23:07.16,ED2-romaji,,0,0,0,j09,{\fad(200,200)\blur2\sha
 Dialogue: 1,0:22:59.58,0:23:07.16,ED2-romaji,,0,0,0,j09,{\fad(200,200)\bord0}musunde kono kimochigoto
 Dialogue: 0,0:22:59.58,0:23:07.16,ED2-english,,0,0,0,e09,{\fad(200,200)\blur2\shad0\c&H420700&}I tie my feelings into a rope
 Dialogue: 1,0:22:59.58,0:23:07.16,ED2-english,,0,0,0,e09,{\fad(200,200)\bord0}I tie my feelings into a rope
-Dialogue: 0,0:23:07.16,0:23:15.20,ED2-romaji,,0,0,0,j10,{\fad(200,200)\blur2\shad0\c&H420700&}hanarenai you ni kataku kataku{ aa}
-Dialogue: 1,0:23:07.16,0:23:15.20,ED2-romaji,,0,0,0,j10,{\fad(200,200)\bord0}hanarenai you ni kataku kataku{ aa}
+Dialogue: 0,0:23:07.16,0:23:15.20,ED2-romaji,,0,0,0,j10,{\fad(200,200)\blur2\shad0\c&H420700&}hanarenai you ni kataku kataku
+Dialogue: 1,0:23:07.16,0:23:15.20,ED2-romaji,,0,0,0,j10,{\fad(200,200)\bord0}hanarenai you ni kataku kataku
 Dialogue: 0,0:23:07.16,0:23:15.20,ED2-english,,0,0,0,e10,{\fad(200,200)\blur2\shad0\c&H420700&}so that we will never be apart
 Dialogue: 1,0:23:07.16,0:23:15.20,ED2-english,,0,0,0,e10,{\fad(200,200)\bord0}so that we will never be apart
 Dialogue: 0,0:23:15.20,0:23:22.77,ED2-romaji,,0,0,0,j11,{\fad(200,200)\blur2\shad0\c&H420700&}hitomusubi hito wo musunde

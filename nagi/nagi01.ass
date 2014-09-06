@@ -16,8 +16,8 @@ Last Style Storage: Default
 Audio File: Nagi.01.premux.720p.mkv
 Video File: Nagi.01.premux.720p.mkv
 Video Zoom Percent: 0.625000
-Scroll Position: 1374
-Active Line: 1406
+Scroll Position: 1559
+Active Line: 1566
 Video Position: 6517
 
 [V4+ Styles]
@@ -1607,11 +1607,11 @@ Dialogue: 5,0:21:47.36,0:21:49.14,Default,,0,0,0,,{fb}It's fine if it's you!{You
 Dialogue: 5,0:21:49.87,0:21:51.74,Default,,0,0,0,,{\i1}...and she wasn't embarrassed about it,
 Dialogue: 5,0:21:51.74,0:21:53.12,Default,,0,0,0,,{\i1}even though {\i0}he{\i1} was there.
 Dialogue: 5,0:21:58.88,0:23:29.76,Default,,0,0,0,,{ED}
-Dialogue: 0,0:21:59.32,0:22:06.98,ED-english,,0,0,0,,{\fad(250,450)\blur2.5}My hand floats in warm water
-Dialogue: 0,0:21:59.32,0:22:06.98,ED-romaji,,0,0,0,,{\fad(250,450)\blur2.5}atatakai mizu ni oyogu te toridasu
-Dialogue: 0,0:22:06.98,0:22:10.34,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}I take some string, and spend a long time
+Dialogue: 0,0:21:59.32,0:22:06.98,ED-english,,0,0,0,,{\fad(250,450)\blur2.5}Detritus floats in the warm water
+Dialogue: 0,0:21:59.32,0:22:06.98,ED-romaji,,0,0,0,,{\fad(250,450)\blur2.5}atatakai mizu ni oyogu detritus
+Dialogue: 0,0:22:06.98,0:22:10.34,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}I take it, and spend a long time
 Dialogue: 0,0:22:06.98,0:22:10.34,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}nagai jikan wo kakete
-Dialogue: 0,0:22:10.34,0:22:19.49,ED-english,,0,0,0,,{\fad(250,450)\blur2.5}spinning myself into a cocoon for you
+Dialogue: 0,0:22:10.34,0:22:19.49,ED-english,,0,0,0,,{\fad(250,450)\blur2.5}spinning it into a cocoon for you
 Dialogue: 0,0:22:10.34,0:22:19.49,ED-romaji,,0,0,0,,{\fad(250,450)\blur2.5}ito wo tsumuginagara mayu ni naru
 Dialogue: 0,0:22:28.85,0:22:33.64,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}How long did we have
 Dialogue: 0,0:22:28.85,0:22:33.64,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}ittai dore kurai mabuta wo
@@ -1625,13 +1625,13 @@ Dialogue: 0,0:22:44.36,0:22:48.41,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}When
 Dialogue: 0,0:22:44.36,0:22:48.41,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}koko wa yuugen no suisou de
 Dialogue: 0,0:22:48.41,0:22:52.31,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}bubbles rise to foam
 Dialogue: 0,0:22:48.41,0:22:52.31,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}namae wo yobeba awa ni naru
-Dialogue: 0,0:22:55.28,0:23:02.90,ED-english,,0,0,0,,{\fad(250,250)\blur2.5.5}My hand floats in warm water
-Dialogue: 0,0:22:55.28,0:23:02.90,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5.5}atatakai mizu ni oyogu te toridasu
-Dialogue: 0,0:23:02.90,0:23:06.24,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}I take some string, and spend a long time
+Dialogue: 0,0:22:55.28,0:23:02.90,ED-english,,0,0,0,,{\fad(250,250)\blur2.5.5}Detritus floats in the warm water
+Dialogue: 0,0:22:55.28,0:23:02.90,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5.5}atatakai mizu ni oyogu detritus
+Dialogue: 0,0:23:02.90,0:23:06.24,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}I take it, and spend a long time
 Dialogue: 0,0:23:02.90,0:23:06.24,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}nagai jikan wo kakete
-Dialogue: 0,0:23:06.24,0:23:11.02,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}spinning myself for you
+Dialogue: 0,0:23:06.24,0:23:11.02,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}spinning it into a cocoon for you
 Dialogue: 0,0:23:06.24,0:23:11.02,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}ito wo tsumuginagara
-Dialogue: 0,0:23:11.02,0:23:19.00,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}into a cocoon that will shield you from emotions
+Dialogue: 0,0:23:11.02,0:23:19.00,ED-english,,0,0,0,,{\fad(250,250)\blur2.5}that will shield you from emotions
 Dialogue: 0,0:23:11.02,0:23:19.00,ED-romaji,,0,0,0,,{\fad(250,250)\blur2.5}odayaka ni nemuru kimi no sotogawa de
 Dialogue: 0,0:23:19.00,0:23:27.51,ED-english,,0,0,0,,{\fad(250,550)\blur2.5}as you sleep peacefully
 Dialogue: 0,0:23:19.00,0:23:27.51,ED-romaji,,0,0,0,,{\fad(250,550)\blur2.5}subete no kanjou kara mamoru mayu ni naru
