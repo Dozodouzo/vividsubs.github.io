@@ -17,9 +17,9 @@ Video File: hanayamata09_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 10
-Active Line: 12
-Video Position: 1778
+Scroll Position: 6901
+Active Line: 6905
+Video Position: 31890
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,6 +63,7 @@ Dialogue: 10,0:01:01.62,0:01:02.98,Default,,0,0,0,,We did great.
 Dialogue: 10,0:01:02.98,0:01:05.37,Default,,0,0,0,,Yeah, you don't have to...
 Dialogue: 10,0:01:05.81,0:01:07.70,Default,,0,0,0,,apologize...
 Dialogue: 10,0:01:11.81,0:01:13.14,Default,,0,0,0,,Hana-chan!{rip}
+Dialogue: 0,0:01:15.01,0:01:15.05,OP-rom,,0,0,0,,{OP white frame}
 Dialogue: 1,0:01:14.13,0:01:15.09,OP-rom,,0,0,0,fx,{\1a&HFF&\an5\pos(878,40)\blur2\frz-70\frx180\t(0,300,\frx0\frz0\blur0.5)\fad(300,0)}p
 Dialogue: 1,0:01:14.16,0:01:15.09,OP-rom,,0,0,0,fx,{\1a&HFF&\an5\pos(895,40)\blur2\frz-70\frx180\t(0,300,\frx0\frz0\blur0.5)\fad(300,0)}a
 Dialogue: 1,0:01:14.19,0:01:15.09,OP-rom,,0,0,0,fx,{\1a&HFF&\an5\pos(911,40)\blur2\frz-70\frx180\t(0,300,\frx0\frz0\blur0.5)\fad(300,0)}a
@@ -119,7 +120,6 @@ Dialogue: 0,0:01:14.89,0:01:15.76,OP-rom,,0,0,0,fx,{\an5\c&H8CF1FF&\move(891.25,
 Dialogue: 0,0:01:14.89,0:01:15.76,OP-rom,,0,0,0,fx,{\an5\c&H76F3FF&\move(919.75,42.5,911.5,45,0,300)\p4\fscx102\fscy102\bord0\blur0.7\frz-43\frx-256\fry-462\t(0,300,\frz7\frx0\fry0)}m 0 69 b 10 57 16 47 18 38 b 19 23 35 12 53 5 b 73 -3 89 -2 93 19 b 94 28 93 34 85 40 b 73 47 74 53 71 55 b 46 53 24 54 0 69
 Dialogue: 0,0:01:14.89,0:01:15.76,OP-rom,,0,0,0,fx,{\an5\c&HFFF9B7&\move(893.75,28.2,881.5,54,0,300)\p4\fscx109\fscy109\bord0\blur0.7\frz237\frx-214\fry450\t(0,300,\frz109\frx0\fry0)}m 10 80 b 12 69 7 58 2 49 b -3 35 6 7 29 1 b 42 -2 48 7 55 14 b 80 19 78 16 79 34 b 77 58 70 63 41 70 b 28 72 19 74 10 80
 Dialogue: 0,0:01:14.89,0:01:15.76,OP-rom,,0,0,0,fx,{\an5\c&H79D7FE&\move(877.55,13.1,877.5,37,0,300)\p4\fscx111\fscy111\bord0\blur0.7\frz4\frx319\fry-396\t(0,300,\frz303\frx0\fry0)}m 0 29 b 9 24 14 20 19 15 b 41 -2 41 -2 65 4 b 77 6 86 19 69 35 b 56 43 34 44 27 36 b 19 29 15 27 0 29
-Dialogue: 0,0:01:15.01,0:01:15.05,OP-rom,,0,0,0,,{OP white frame}
 Dialogue: 0,0:01:15.09,0:01:18.04,OP-eng,,0,0,0,,{\fad(150,150)\blur0.5}Let's be happy, ever happy,
 Dialogue: 1,0:01:15.09,0:01:15.19,OP-rom,,0,0,0,fx,{\c&HAF7FF1&\pos(919,15)}paa
 Dialogue: 2,0:01:15.09,0:01:15.19,OP-rom,,0,0,0,fx,{\blur0.5\bord0\pos(919,15)}paa
@@ -6935,12 +6935,8 @@ Dialogue: 0,0:22:09.51,0:22:09.55,acchi kocchi scribble,,0,0,0,,{\frz-7.9\blur0.
 Dialogue: 0,0:22:09.51,0:22:09.55,acchi kocchi scribble,,0,0,0,,{\blur0.6\c&HA25D94&\fscx73.09\fscy73.09\pos(587.47,656.42)\frz-0.48}Tami
 Dialogue: 0,0:22:09.55,0:22:09.59,acchi kocchi scribble,,0,0,0,,{\frz-11.82\blur0.8\c&HC496B3&\fscx55.86\fscy55.86\pos(666.25,102.12)\fax0.21}I want Machi-chan {\c&HBB8AA8&}and\h\N{\c&HC396B3&}Sally-sensei to {\c&HBA8AA9&}make {\c&HB583A3&}up
 Dialogue: 0,0:22:09.55,0:22:09.59,acchi kocchi scribble,,0,0,0,,{\blur0.6\c&HA25D94&\fscx68.6\fscy68.6\pos(595.9,656.58)\frz0.51}Tami
-Dialogue: 0,0:22:09.55,0:22:09.59,ED-rom,,0,0,0,fx,{\r\an5\fad(500,500)\blur1\1a&HFF&\fscx110\fscy130\t(0,500,\fscx100\fscy100)\pos(1240,30)}
-Dialogue: 1,0:22:09.55,0:22:09.59,ED-rom,,0,0,0,fx,{\r\an5\fad(500,500)\bord0\blur0.8\fscx110\fscy130\t(0,500,\fscx100\fscy100)\pos(1240,30)\c&HFFA5D2&\t(500,500,\1c&FFFFFF&\fscx110\fscy120)\t(500,500,\1c&FFFFFF&\fscx100\fscy100)}
 Dialogue: 0,0:22:09.59,0:22:09.64,acchi kocchi scribble,,0,0,0,,{\frz-11.84\blur0.8\c&HC496B3&\fscx55.87\fscy55.87\pos(666.26,103.38)\fax0.21}I want Machi-chan {\c&HBB8AA8&}and\h\N{\c&HC396B3&}Sally-sensei to {\c&HBA8AA9&}make {\c&HB583A3&}up
 Dialogue: 0,0:22:09.59,0:22:09.64,acchi kocchi scribble,,0,0,0,,{\blur0.6\c&HA25D94&\fscx68.53\fscy68.53\pos(595.97,657.81)\frz0.54}Tami
-Dialogue: 0,0:22:09.61,0:22:09.65,ED-rom,,0,0,0,fx,{\r\an5\fad(500,500)\blur1\1a&HFF&\fscx110\fscy130\t(0,500,\fscx100\fscy100)\pos(1240,30)}
-Dialogue: 1,0:22:09.61,0:22:09.65,ED-rom,,0,0,0,fx,{\r\an5\fad(500,500)\bord0\blur0.8\fscx110\fscy130\t(0,500,\fscx100\fscy100)\pos(1240,30)\c&HFEA6DD&\t(440,440,\1c&FFFFFF&\fscx110\fscy120)\t(440,440,\1c&FFFFFF&\fscx100\fscy100)}
 Dialogue: 0,0:22:09.64,0:22:09.68,acchi kocchi scribble,,0,0,0,,{\frz-11.85\blur0.8\c&HC496B3&\fscx55.88\fscy55.88\pos(666.27,104.61)\fax0.21}I want Machi-chan {\c&HBB8AA8&}and\h\N{\c&HC396B3&}Sally-sensei to {\c&HBA8AA9&}make {\c&HB583A3&}up
 Dialogue: 0,0:22:09.64,0:22:09.68,acchi kocchi scribble,,0,0,0,,{\blur0.6\c&HA25D94&\fscx68.56\fscy68.56\pos(596.05,659.02)\frz0.45}Tami
 Dialogue: 0,0:22:09.68,0:22:09.72,acchi kocchi scribble,,0,0,0,,{\frz-7.97\blur0.8\c&HC496B3&\fscx55.33\fscy55.33\pos(662.2,105.62)\fax0.14}I want Machi-chan {\c&HBB8AA8&}and\h\N{\c&HC396B3&}Sally-sensei to {\c&HBA8AA9&}make {\c&HB583A3&}up
@@ -6953,14 +6949,6 @@ Dialogue: 0,0:22:09.80,0:22:09.84,acchi kocchi scribble,,0,0,0,,{\frz-4.06\blur0
 Dialogue: 0,0:22:09.80,0:22:09.84,acchi kocchi scribble,,0,0,0,,{\blur0.6\c&HA25D94&\fscx70.58\fscy70.58\pos(579.16,669.2)\frz1.29}Tami
 Dialogue: 0,0:22:09.84,0:22:09.89,acchi kocchi scribble,,0,0,0,,{\frz-4.01\blur0.8\c&HC496B3&\fscx55.06\fscy55.06\pos(658.12,110.54)\fax0.07}I want Machi-chan {\c&HBB8AA8&}and\h\N{\c&HC396B3&}Sally-sensei to {\c&HBA8AA9&}make {\c&HB583A3&}up
 Dialogue: 0,0:22:09.84,0:22:09.89,acchi kocchi scribble,,0,0,0,,{\blur0.6\c&HA25D94&\fscx70.63\fscy70.63\pos(579.14,670.43)\frz1.28}Tami
-Dialogue: 3,0:22:09.85,0:22:11.22,ED-rom,,0,0,0,fx,{\r\fscx40\fscy40\frx265\fry154\frz205\t(\frx534\fry516\frz793)\blur0.5\an5\bord0\c&HFFA5D2&\fad(200,500)\move(1251,55,1360,72)\p1}m 0 -11 b -1 -12 -1 -13 -2 -13 b -4 -13 -9 -5 -9 0 b -9 5 -4 13 0 13 b 4 13 9 5 9 0 b 9 -5 4 -13 2 -13 b 1 -13 1 -12 0 -11
-Dialogue: 3,0:22:09.85,0:22:11.22,ED-rom,,0,0,0,fx,{\r\fscx40\fscy40\frx170\fry245\frz207\t(\frx739\fry635\frz554)\blur0.5\an5\bord0\c&HFFA5D2&\fad(200,500)\move(1250,56,1348,61)\p1}m 0 -11 b -1 -12 -1 -13 -2 -13 b -4 -13 -9 -5 -9 0 b -9 5 -4 13 0 13 b 4 13 9 5 9 0 b 9 -5 4 -13 2 -13 b 1 -13 1 -12 0 -11
-Dialogue: 3,0:22:09.85,0:22:11.46,ED-rom,,0,0,0,fx,{\r\fscx40\fscy40\frx210\fry8\frz301\t(\frx514\fry749\frz688)\blur0.5\an5\bord0\c&HFFA5D2&\fad(200,500)\move(1255,55,1337,124)\p1}m 0 -11 b -1 -12 -1 -13 -2 -13 b -4 -13 -9 -5 -9 0 b -9 5 -4 13 0 13 b 4 13 9 5 9 0 b 9 -5 4 -13 2 -13 b 1 -13 1 -12 0 -11
-Dialogue: 3,0:22:09.85,0:22:11.20,ED-rom,,0,0,0,fx,{\r\fscx40\fscy40\frx28\fry128\frz332\t(\frx507\fry703\frz724)\blur0.5\an5\bord0\c&HFFA5D2&\fad(200,500)\move(1247,53,1334,52)\p1}m 0 -11 b -1 -12 -1 -13 -2 -13 b -4 -13 -9 -5 -9 0 b -9 5 -4 13 0 13 b 4 13 9 5 9 0 b 9 -5 4 -13 2 -13 b 1 -13 1 -12 0 -11
-Dialogue: 3,0:22:09.85,0:22:11.48,ED-rom,,0,0,0,fx,{\r\fscx40\fscy40\frx276\fry251\frz234\t(\frx752\fry503\frz516)\blur0.5\an5\bord0\c&HFEA6DD&\fad(200,500)\move(1253,62,1359,129)\p1}m 0 -11 b -1 -12 -1 -13 -2 -13 b -4 -13 -9 -5 -9 0 b -9 5 -4 13 0 13 b 4 13 9 5 9 0 b 9 -5 4 -13 2 -13 b 1 -13 1 -12 0 -11
-Dialogue: 3,0:22:09.85,0:22:11.24,ED-rom,,0,0,0,fx,{\r\fscx40\fscy40\frx106\fry98\frz319\t(\frx787\fry678\frz728)\blur0.5\an5\bord0\c&HFEA6DD&\fad(200,500)\move(1231,61,1349,126)\p1}m 0 -11 b -1 -12 -1 -13 -2 -13 b -4 -13 -9 -5 -9 0 b -9 5 -4 13 0 13 b 4 13 9 5 9 0 b 9 -5 4 -13 2 -13 b 1 -13 1 -12 0 -11
-Dialogue: 3,0:22:09.85,0:22:11.42,ED-rom,,0,0,0,fx,{\r\fscx40\fscy40\frx36\fry63\frz18\t(\frx566\fry544\frz629)\blur0.5\an5\bord0\c&HFEA6DD&\fad(200,500)\move(1248,58,1355,73)\p1}m 0 -11 b -1 -12 -1 -13 -2 -13 b -4 -13 -9 -5 -9 0 b -9 5 -4 13 0 13 b 4 13 9 5 9 0 b 9 -5 4 -13 2 -13 b 1 -13 1 -12 0 -11
-Dialogue: 3,0:22:09.85,0:22:11.15,ED-rom,,0,0,0,fx,{\r\fscx40\fscy40\frx54\fry277\frz18\t(\frx741\fry707\frz543)\blur0.5\an5\bord0\c&HFEA6DD&\fad(200,500)\move(1259,75,1341,114)\p1}m 0 -11 b -1 -12 -1 -13 -2 -13 b -4 -13 -9 -5 -9 0 b -9 5 -4 13 0 13 b 4 13 9 5 9 0 b 9 -5 4 -13 2 -13 b 1 -13 1 -12 0 -11
 Dialogue: 0,0:22:09.89,0:22:09.93,acchi kocchi scribble,,0,0,0,,{\frz-4.02\blur0.8\c&HC496B3&\fscx55.06\fscy55.06\pos(658.12,111.79)\fax0.07}I want Machi-chan {\c&HBB8AA8&}and\h\N{\c&HC396B3&}Sally-sensei to {\c&HBA8AA9&}make {\c&HB583A3&}up
 Dialogue: 0,0:22:09.89,0:22:09.93,acchi kocchi scribble,,0,0,0,,{\blur0.6\c&HA25D94&\fscx70.57\fscy70.57\pos(579.18,671.7)\frz1.19}Tami
 Dialogue: 0,0:22:09.93,0:22:09.97,acchi kocchi scribble,,0,0,0,,{\frz-0.03\blur0.8\c&HC496B3&\fscx55.02\fscy55.02\pos(654.05,112.77)\fax0}I want Machi-chan {\c&HBB8AA8&}and\h\N{\c&HC396B3&}Sally-sensei to {\c&HBA8AA9&}make {\c&HB583A3&}up
@@ -6969,16 +6957,7 @@ Dialogue: 0,0:22:09.97,0:22:10.01,acchi kocchi scribble,,0,0,0,,{\frz0.01\blur0.
 Dialogue: 0,0:22:09.97,0:22:10.01,acchi kocchi scribble,,0,0,0,,{\blur0.6\c&HA25D94&\fscx69.8\fscy69.8\pos(570.97,677.41)\frz2.14}Tami
 Dialogue: 0,0:22:10.01,0:22:10.05,acchi kocchi scribble,,0,0,0,,{\frz0\blur0.8\c&HC496B3&\fscx55\fscy55\pos(654,115.4)\fax0}I want Machi-chan {\c&HBB8AA8&}and\h\N{\c&HC396B3&}Sally-sensei to {\c&HBA8AA9&}make {\c&HB583A3&}up
 Dialogue: 0,0:22:10.01,0:22:10.05,acchi kocchi scribble,,0,0,0,,{\blur0.6\c&HA25D94&\fscx70\fscy70\pos(571,678.6)\frz2.2}Tami
-Dialogue: 2,0:22:10.05,0:22:13.59,ED-rom,,0,0,0,fx,{\r\an5\bord0\c&HFFA5D2&\alpha&HFF&\t(0,0,\alpha&H20&)\t(0,3500,\fscx20\fscy280\blur10)\t(0,3500,\alpha&HFF&)\move(1240,30,1364,46,0,3500)}
-Dialogue: 2,0:22:10.05,0:22:13.59,ED-rom,,0,0,0,fx,{\r\an5\bord0\c&HFFA5D2&\alpha&HFF&\t(0,0,\alpha&H20&)\t(0,3500,\fscx20\fscy280\blur10)\t(0,3500,\alpha&HFF&)\move(1240,30,1358,51,0,3500)}
-Dialogue: 2,0:22:10.05,0:22:13.59,ED-rom,,0,0,0,fx,{\r\an5\bord0\c&HFFA5D2&\alpha&HFF&\t(0,0,\alpha&H20&)\t(0,3500,\fscx20\fscy280\blur10)\t(0,3500,\alpha&HFF&)\move(1240,30,1342,43,0,3500)}
-Dialogue: 2,0:22:10.05,0:22:13.59,ED-rom,,0,0,0,fx,{\r\an5\bord0\c&HFEA6DD&\alpha&HFF&\t(0,0,\alpha&H20&)\t(0,3500,\fscx20\fscy280\blur10)\t(0,3500,\alpha&HFF&)\move(1240,30,1355,45,0,3500)}
-Dialogue: 2,0:22:10.05,0:22:13.59,ED-rom,,0,0,0,fx,{\r\an5\bord0\c&HFEA6DD&\alpha&HFF&\t(0,0,\alpha&H20&)\t(0,3500,\fscx20\fscy280\blur10)\t(0,3500,\alpha&HFF&)\move(1240,30,1355,59,0,3500)}
-Dialogue: 2,0:22:10.05,0:22:13.59,ED-rom,,0,0,0,fx,{\r\an5\bord0\c&HFEA6DD&\alpha&HFF&\t(0,0,\alpha&H20&)\t(0,3500,\fscx20\fscy280\blur10)\t(0,3500,\alpha&HFF&)\move(1240,30,1344,13,0,3500)}
-Dialogue: 0,0:22:22.88,0:22:25.55,ED-rom,,0,0,0,fx,{\r\an5\fad(500,500)\blur1\1a&HFF&\fscx110\fscy130\t(0,500,\fscx100\fscy100)\pos(946.453125,30)}
-Dialogue: 1,0:22:22.88,0:22:25.55,ED-rom,,0,0,0,fx,{\r\an5\fad(500,500)\bord0\blur0.8\fscx110\fscy130\t(0,500,\fscx100\fscy100)\pos(946.453125,30)\c&HFFA5D2&\t(500,500,\1c&FFFFFF&\fscx110\fscy120)\t(500,500,\1c&FFFFFF&\fscx100\fscy100)}
-Dialogue: 0,0:22:22.94,0:22:25.61,ED-rom,,0,0,0,fx,{\r\an5\fad(500,500)\blur1\1a&HFF&\fscx110\fscy130\t(0,500,\fscx100\fscy100)\pos(946.453125,30)}
-Dialogue: 1,0:22:22.94,0:22:25.61,ED-rom,,0,0,0,fx,{\r\an5\fad(500,500)\bord0\blur0.8\fscx110\fscy130\t(0,500,\fscx100\fscy100)\pos(946.453125,30)\c&HFEA6DD&\t(440,440,\1c&FFFFFF&\fscx110\fscy120)\t(440,450,\1c&FFFFFF&\fscx100\fscy100)}
+Dialogue: 0,0:22:10.05,0:22:10.10,ED-rom,,0,0,0,,{ED first frame}
 Dialogue: 0,0:22:23.00,0:22:25.67,ED-rom,,0,0,0,fx,{\r\an5\fad(500,500)\blur1\1a&HFF&\fscx110\fscy130\t(0,500,\fscx100\fscy100)\pos(962.875,30)}sa
 Dialogue: 1,0:22:23.00,0:22:25.67,ED-rom,,0,0,0,fx,{\r\an5\fad(500,500)\bord0\blur0.8\fscx110\fscy130\t(0,500,\fscx100\fscy100)\pos(962.875,30)\c&HF9ABE8&\t(390,390,\1c&FFFFFF&\fscx110\fscy120)\t(390,740,\1c&FFFFFF&\fscx100\fscy100)}sa
 Dialogue: 0,0:22:23.06,0:22:25.73,ED-rom,,0,0,0,fx,{\r\an5\fad(500,500)\blur1\1a&HFF&\fscx110\fscy130\t(0,500,\fscx100\fscy100)\pos(997.5390625,30)}ku
