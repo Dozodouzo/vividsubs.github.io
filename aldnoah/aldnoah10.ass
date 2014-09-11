@@ -17,7 +17,9 @@ Keyframes File: aldnoah10_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Video Position: 488
+Scroll Position: 892
+Active Line: 899
+Video Position: 28999
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -932,7 +934,7 @@ Dialogue: 0,0:19:51.85,0:19:52.38,Default,,0,0,0,,Of course.
 Dialogue: 0,0:19:53.67,0:19:55.88,Default,,0,0,0,,Then let us be off, Eddelrittuo.
 Dialogue: 0,0:19:57.92,0:19:58.84,Default,,0,0,0,,Please excuse us.
 Dialogue: 0,0:20:06.01,0:20:08.60,Default,,0,0,0,,My name is Asseylum Vers Allusia,
-Dialogue: 0,0:20:09.50,0:20:15.73,Default,,0,0,0,,first princess of Vers and daughter of Emperor Rayregalia Vers Rayvers.
+Dialogue: 0,0:20:09.50,0:20:15.73,Default,,0,0,0,,first princess of Vers and granddaughter of Emperor Rayregalia Vers Rayvers.
 Dialogue: 0,0:20:16.40,0:20:18.48,Default,,0,0,0,,I speak now to the people of Vers.
 Dialogue: 0,0:20:18.80,0:20:22.11,Default,,0,0,0,,I ask you to cease this meaningless war immediately.
 Dialogue: 0,0:20:22.38,0:20:24.87,Default,,0,0,0,,I am alive and unharmed.
