@@ -17,8 +17,8 @@ Audio File: Nagi.02.premux.720p.mkv
 Video File: Nagi.02.premux.720p.mkv
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 398
-Active Line: 409
+Scroll Position: 435
+Active Line: 445
 Video Position: 31641
 
 [V4+ Styles]
@@ -479,6 +479,6 @@ Dialogue: 5,0:23:35.16,0:23:36.64,Default,,0,0,0,,Did {replace}Uroko-sama{Lord U
 Dialogue: 5,0:23:36.64,0:23:38.64,Default,,0,0,0,,Akari's crying because of you!
 Dialogue: 1,0:23:38.18,0:23:40.14,Nagi no Episode kara,,0,0,0,,{\blur0.5\fscx80\fscy80\pos(890,135)}Episode Three
 Dialogue: 0,0:23:38.18,0:23:40.14,Nagi no Episode kara,,0,0,0,,{\blur0.8\fscx80\fscy80\c&H000000&\alpha&H80&\pos(890,135)}Episode Three
-Dialogue: 1,0:23:38.18,0:23:40.14,Nagi no Episode kara,,0,0,0,,{\an7\blur0.5\pos(70,388)}The \NLegend \Nof the Sea
-Dialogue: 0,0:23:38.18,0:23:40.14,Nagi no Episode kara,,0,0,0,,{\an7\blur0.8\c&H000000&\alpha&H80&\pos(70,388)}The \NLegend \Nof the Sea
+Dialogue: 1,0:23:38.18,0:23:40.14,Nagi no Episode kara,,0,0,0,,{\an7\blur0.5\pos(70,388)}The \NTradition \Nof the Sea
+Dialogue: 0,0:23:38.18,0:23:40.14,Nagi no Episode kara,,0,0,0,,{\an7\blur0.8\c&H000000&\alpha&H80&\pos(70,388)}The \NTradition \Nof the Sea
 Dialogue: 5,0:23:38.64,0:23:39.96,Default,,0,0,0,,This one's a storm.
