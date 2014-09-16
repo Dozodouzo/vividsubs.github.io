@@ -12,12 +12,14 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: akame11_premux_v2.mkv
-Video File: akame11_premux_v2.mkv
+Audio File: akame11_premux.mkv
+Video File: akame11_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 166
+Scroll Position: 274
+Active Line: 292
+Video Position: 11819
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -264,7 +266,7 @@ Dialogue: 10,0:03:48.58,0:03:50.58,Default,,0,0,0,,More of them?
 Dialogue: 10,0:03:53.00,0:03:54.60,Default,,0,0,0,,Okay, then.
 Dialogue: 10,0:03:55.11,0:03:58.27,Default,,0,0,0,,M-My apologies.
 Dialogue: 10,0:03:58.27,0:04:00.26,Default,,0,0,0,,We don't have room for a lot of people, so...
-Dialogue: 10,0:04:05.47,0:04:06.26,Default,,0,0,0,,They're fast!
+Dialogue: 10,0:04:05.47,0:04:06.26,Default,,0,0,0,,Whoa, scary!
 Dialogue: 10,0:04:09.67,0:04:11.00,Default,,0,0,0,,Get behind me.
 Dialogue: 10,0:04:11.00,0:04:11.85,Default,,0,0,0,,Akame!
 Dialogue: 10,0:04:20.45,0:04:21.69,Default,,0,0,0,,Nicely executed.
@@ -286,7 +288,7 @@ Dialogue: 10,0:05:30.62,0:05:32.96,Default,,0,0,0,,It's the Absolute Bisector, E
 Dialogue: 10,0:05:32.96,0:05:35.10,Default,,0,0,0,,A delightful little Relic of mine.
 Dialogue: 10,0:05:35.52,0:05:38.94,Default,,0,0,0,,That doesn't belong to you!
 Dialogue: 10,0:05:46.41,0:05:49.82,Default,,0,0,0,,Cut through flesh, and rend it from bone!
-Dialogue: 10,0:05:52.03,0:05:55.41,Default,,0,0,0,,That's what I like to hear.\NThought I had you for a minute.
+Dialogue: 10,0:05:52.03,0:05:55.41,Default,,0,0,0,,Nice reflexes. I thought I got you there.
 Dialogue: 10,0:05:57.17,0:05:59.90,Default,,0,0,0,,So much for that thick armor of yours.
 Dialogue: 10,0:05:59.90,0:06:01.29,Default,,0,0,0,,I hate to break it to you,
 Dialogue: 10,0:06:01.69,0:06:05.42,Default,,0,0,0,,but this Imperial Relic can cut through anything in creation.
@@ -325,7 +327,7 @@ Dialogue: 10,0:07:49.32,0:07:54.36,Default,,0,0,0,,{\i1}You fool. My augmented b
 Dialogue: 10,0:07:54.36,0:07:56.33,Default,,0,0,0,,{\i1}I can take a gunshot on the chin.
 Dialogue: 10,0:08:05.08,0:08:06.66,Default,,0,0,0,,{\i1}It's too powerful!
 Dialogue: 10,0:08:12.93,0:08:15.26,Default,,0,0,0,,The more danger I'm in, the more damage I do.
-Dialogue: 10,0:08:16.83,0:08:19.02,Default,,0,0,0,,Your overconfidence was your downfall.
+Dialogue: 10,0:08:16.83,0:08:19.02,Default,,0,0,0,,You underestimated my ability.
 Dialogue: 10,0:08:43.07,0:08:45.56,Default,,0,0,0,,{\i1}Welcome home, Sheele.
 Dialogue: 10,0:08:50.71,0:08:52.50,Default,,0,0,0,,Kakusan is down.
 Dialogue: 10,0:08:53.01,0:08:55.50,Default,,0,0,0,,And most of our foot soldiers have been wiped out.
