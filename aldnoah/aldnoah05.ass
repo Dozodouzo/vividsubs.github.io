@@ -15,9 +15,10 @@ Audio File: aldnoah05_premux.mkv
 Video File: aldnoah05_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 750
-Active Line: 753
-Video Position: 17035
+Video Zoom Percent: 1.000000
+Scroll Position: 905
+Active Line: 908
+Video Position: 32276
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -936,22 +937,22 @@ Dialogue: 0,0:22:21.57,0:22:26.16,ED-rom,,0,0,0,edjap06,{\fad(500,500)\blur1.2\c
 Dialogue: 1,0:22:21.57,0:22:26.16,ED-rom,,0,0,0,edjap06,{\fad(500,500)\blur0.6\bord0\shad0\c&HF29265&}kazasu no wo yameta ano toki
 Dialogue: 0,0:22:21.57,0:22:26.16,ED-eng,,0,0,0,edeng06,{\fad(500,500)\blur3\bord2.5\c&HE5A9CA&\3c&HE5A9CA&}that I would stop fooling myself and others,
 Dialogue: 1,0:22:21.57,0:22:26.16,ED-eng,,0,0,0,edeng06,{\fad(500,500)\blur0.5\bord0}that I would stop fooling myself and others,
-Dialogue: 0,0:22:26.16,0:22:27.78,ED-rom,,0,0,0,edjap07,{\fad(500,0)\blur1.2\c&HFFFFFF&}LP no saizu no awanai uso bakari narabete
-Dialogue: 1,0:22:26.16,0:22:27.78,ED-rom,,0,0,0,edjap07,{\fad(500,0)\blur0.6\bord0\shad0\c&HDA8D7D&}LP no saizu no awanai uso bakari narabete
-Dialogue: 0,0:22:26.16,0:22:27.78,ED-eng,,0,0,0,edeng07,{\fad(500,0)\blur3\bord2.5\c&HE995C9&\3c&HE995C9&}all I did was pile lie upon lie,
-Dialogue: 1,0:22:26.16,0:22:27.78,ED-eng,,0,0,0,edeng07,{\fad(500,0)\blur0.5\bord0}all I did was pile lie upon lie,
-Dialogue: 0,0:22:27.78,0:22:35.21,ED-rom,,0,0,0,edjap07,{\fad(0,500)\blur1.2\c&HFFFFFF&}LP no saizu no awanai uso bakari narabete
-Dialogue: 1,0:22:27.78,0:22:35.21,ED-rom,,0,0,0,edjap07,{\fad(0,500)\blur0.6\bord0\shad0\c&HE49AAE&}LP no saizu no awanai uso bakari narabete
-Dialogue: 0,0:22:27.78,0:22:35.21,ED-eng,,0,0,0,edeng07,{\fad(0,500)\blur3\bord2.5\c&HD381B4&\3c&HD381B4&}all I did was pile lie upon lie,
-Dialogue: 1,0:22:27.78,0:22:35.21,ED-eng,,0,0,0,edeng07,{\fad(0,500)\blur0.5\bord0}all I did was pile lie upon lie,
+Dialogue: 0,0:22:26.16,0:22:27.66,ED-rom,,0,0,0,edjap07,{\fad(500,0)\blur1.2\c&HFFFFFF&}ALD noah saizu no awanai uso bakari narabete
+Dialogue: 1,0:22:26.16,0:22:27.66,ED-rom,,0,0,0,edjap07,{\fad(500,0)\blur0.6\bord0\shad0\c&HDA8D7D&}ALD noah saizu no awanai uso bakari narabete
+Dialogue: 0,0:22:26.16,0:22:27.66,ED-eng,,0,0,0,edeng07,{\fad(500,0)\blur3\bord2.5\c&HE995C9&\3c&HE995C9&}all I did was pile lie upon lie,
+Dialogue: 1,0:22:26.16,0:22:27.66,ED-eng,,0,0,0,edeng07,{\fad(500,0)\blur0.5\bord0}all I did was pile lie upon lie,
+Dialogue: 0,0:22:27.66,0:22:35.21,ED-rom,,0,0,0,edjap07,{\fad(0,500)\blur1.2\c&HFFFFFF&}ALD noah saizu no awanai uso bakari narabete
+Dialogue: 1,0:22:27.66,0:22:35.21,ED-rom,,0,0,0,edjap07,{\fad(0,500)\blur0.6\bord0\shad0\c&HE49AAE&}ALD noah saizu no awanai uso bakari narabete
+Dialogue: 0,0:22:27.66,0:22:35.21,ED-eng,,0,0,0,edeng07,{\fad(0,500)\blur3\bord2.5\c&HD381B4&\3c&HD381B4&}all I did was pile lie upon lie,
+Dialogue: 1,0:22:27.66,0:22:35.21,ED-eng,,0,0,0,edeng07,{\fad(0,500)\blur0.5\bord0}all I did was pile lie upon lie,
 Dialogue: 0,0:22:35.21,0:22:43.47,ED-rom,,0,0,0,edjap08,{\fad(500,500)\blur1.2\c&HFFFFFF&}miushinai mizukara subete ni tsumazuita
 Dialogue: 1,0:22:35.21,0:22:43.47,ED-rom,,0,0,0,edjap08,{\fad(500,500)\blur0.6\bord0\shad0\c&HE59EBE&}miushinai mizukara subete ni tsumazuita
 Dialogue: 0,0:22:35.21,0:22:43.47,ED-eng,,0,0,0,edeng08,{\fad(500,500)\blur3\bord2.5\c&HE58FBE&\3c&HE58FBE&}with no chance to be comfortable with myself
 Dialogue: 1,0:22:35.21,0:22:43.47,ED-eng,,0,0,0,edeng08,{\fad(500,500)\blur0.5\bord0}with no chance to be comfortable with myself
-Dialogue: 0,0:22:44.97,0:22:50.72,ED-rom,,0,0,0,edjap09,{\fad(500,500)\blur1.2\c&HFFFFFF&}earth terasu a to a
-Dialogue: 1,0:22:44.97,0:22:50.72,ED-rom,,0,0,0,edjap09,{\fad(500,500)\blur0.6\bord0\shad0\c&HE5A341&}earth terasu a to a
-Dialogue: 0,0:22:44.97,0:22:50.72,ED-eng,,0,0,0,edeng09,{\fad(500,500)\blur3\bord2.5\c&HE5A9C9&\3c&HE5A9C9&}Shine on Earth
-Dialogue: 1,0:22:44.97,0:22:50.72,ED-eng,,0,0,0,edeng09,{\fad(500,500)\blur0.5\bord0}Shine on Earth
+Dialogue: 0,0:22:44.97,0:22:50.72,ED-rom,,0,0,0,edjap09,{\fad(500,500)\blur1.2\c&HFFFFFF&}AS terasu ei to ei
+Dialogue: 1,0:22:44.97,0:22:50.72,ED-rom,,0,0,0,edjap09,{\fad(500,500)\blur0.6\bord0\shad0\c&HE5A341&}AS terasu ei to ei
+Dialogue: 0,0:22:44.97,0:22:50.72,ED-eng,,0,0,0,edeng09,{\fad(500,500)\blur3\bord2.5\c&HE5A9C9&\3c&HE5A9C9&}Shadows and glory shine on us
+Dialogue: 1,0:22:44.97,0:22:50.72,ED-eng,,0,0,0,edeng09,{\fad(500,500)\blur0.5\bord0}Shadows and glory shine on us
 Dialogue: 0,0:22:52.31,0:22:55.06,ED-rom,,0,0,0,edjap10,{\fad(500,500)\blur1.2\c&HFFFFFF&}kurikaesu count
 Dialogue: 1,0:22:52.31,0:22:55.06,ED-rom,,0,0,0,edjap10,{\fad(500,500)\blur0.6\bord0\shad0\c&HD17C7F&}kurikaesu count
 Dialogue: 0,0:22:52.31,0:22:55.06,ED-eng,,0,0,0,edeng10,{\fad(500,500)\blur3\bord2.5\c&HFBE6AA&\3c&HFBE6AA&}Count again
@@ -960,38 +961,38 @@ Dialogue: 0,0:22:55.06,0:22:59.07,ED-rom,,0,0,0,edjap11,{\fad(500,500)\blur1.2\c
 Dialogue: 1,0:22:55.06,0:22:59.07,ED-rom,,0,0,0,edjap11,{\fad(500,500)\blur0.6\bord0\shad0\c&HCB6B7E&}asu no reiji no sign
 Dialogue: 0,0:22:55.06,0:22:59.07,ED-eng,,0,0,0,edeng11,{\fad(500,500)\blur3\bord2.5\c&HFBE0AB&\3c&HFBE0AB&}The sign of twelve in the morning
 Dialogue: 1,0:22:55.06,0:22:59.07,ED-eng,,0,0,0,edeng11,{\fad(500,500)\blur0.5\bord0}The sign of twelve in the morning
-Dialogue: 0,0:22:59.86,0:23:01.40,ED-rom,,0,0,0,edjap12,{\fad(300,400)\blur1.2\c&HFFFFFF&}lie mo die
-Dialogue: 1,0:22:59.86,0:23:01.40,ED-rom,,0,0,0,edjap12,{\fad(300,400)\blur0.6\bord0\shad0\c&H78D0E0&}lie mo die
-Dialogue: 0,0:22:59.86,0:23:01.40,ED-eng,,0,0,0,edeng12,{\fad(300,400)\blur3\bord2.5\c&HEBD6D3&\3c&HEBD6D3&}Lie and die
-Dialogue: 1,0:22:59.86,0:23:01.40,ED-eng,,0,0,0,edeng12,{\fad(300,400)\blur0.5\bord0}Lie and die
+Dialogue: 0,0:22:59.86,0:23:01.40,ED-rom,,0,0,0,edjap12,{\fad(300,400)\blur1.2\c&HFFFFFF&}LIVE or DIE
+Dialogue: 1,0:22:59.86,0:23:01.40,ED-rom,,0,0,0,edjap12,{\fad(300,400)\blur0.6\bord0\shad0\c&H78D0E0&}LIVE or DIE
+Dialogue: 0,0:22:59.86,0:23:01.40,ED-eng,,0,0,0,edeng12,{\fad(300,400)\blur3\bord2.5\c&HEBD6D3&\3c&HEBD6D3&}Live or die
+Dialogue: 1,0:22:59.86,0:23:01.40,ED-eng,,0,0,0,edeng12,{\fad(300,400)\blur0.5\bord0}Live or die
 Dialogue: 0,0:23:01.40,0:23:05.45,ED-rom,,0,0,0,edjap13,{\fad(500,500)\blur1.2\c&HFFFFFF&}mienai hikari no sen
 Dialogue: 1,0:23:01.40,0:23:05.45,ED-rom,,0,0,0,edjap13,{\fad(500,500)\blur0.6\bord0\shad0\c&HD58C31&}mienai hikari no sen
-Dialogue: 0,0:23:01.40,0:23:05.45,ED-eng,,0,0,0,edeng13,{\fad(500,500)\blur3\bord2.5\c&HEC99D6&\3c&HEC99D6&}Under the sunlight,
-Dialogue: 1,0:23:01.40,0:23:05.45,ED-eng,,0,0,0,edeng13,{\fad(500,500)\blur0.5\bord0}Under the sunlight,
-Dialogue: 0,0:23:05.45,0:23:07.16,ED-rom,,0,0,0,edjap14,{\fad(300,400)\blur1.2\c&HFFFFFF&}ochiru dake de
-Dialogue: 1,0:23:05.45,0:23:07.16,ED-rom,,0,0,0,edjap14,{\fad(300,400)\blur0.6\bord0\shad0\c&HD57131&}ochiru dake de
-Dialogue: 0,0:23:05.45,0:23:07.16,ED-eng,,0,0,0,edeng14,{\fad(300,400)\blur3\bord2.5\c&HE09EBA&\3c&HE09EBA&}just from that,
-Dialogue: 1,0:23:05.45,0:23:07.16,ED-eng,,0,0,0,edeng14,{\fad(300,400)\blur0.5\bord0}just from that,
-Dialogue: 0,0:23:07.16,0:23:10.12,ED-rom,,0,0,0,edjap15,{\fad(500,500)\blur1.2\c&HFFFFFF&}kuruu basho subete
-Dialogue: 1,0:23:07.16,0:23:10.12,ED-rom,,0,0,0,edjap15,{\fad(500,500)\blur0.6\bord0\shad0\c&HE26C76&}kuruu basho subete
-Dialogue: 0,0:23:07.16,0:23:10.12,ED-eng,,0,0,0,edeng15,{\fad(500,500)\blur3\bord2.5\c&HCA9A9E&\3c&HCA9A9E&}everything goes mad
-Dialogue: 1,0:23:07.16,0:23:10.12,ED-eng,,0,0,0,edeng15,{\fad(500,500)\blur0.5\bord0}everything goes mad
-Dialogue: 0,0:23:10.12,0:23:13.91,ED-rom,,0,0,0,edjap16,{\fad(500,500)\blur1.2\c&HFFFFFF&}namae mo nai soko ni
-Dialogue: 1,0:23:10.12,0:23:13.91,ED-rom,,0,0,0,edjap16,{\fad(500,500)\blur0.6\bord0\shad0\c&HED70A6&}namae mo nai soko ni
+Dialogue: 0,0:23:01.40,0:23:05.45,ED-eng,,0,0,0,edeng13,{\fad(500,500)\blur3\bord2.5\c&HEC99D6&\3c&HEC99D6&}I can't see the light
+Dialogue: 1,0:23:01.40,0:23:05.45,ED-eng,,0,0,0,edeng13,{\fad(500,500)\blur0.5\bord0}I can't see the light
+Dialogue: 0,0:23:05.45,0:23:07.16,ED-rom,,0,0,0,edjap14,{\fad(300,400)\blur1.2\c&HFFFFFF&}moji dake de
+Dialogue: 1,0:23:05.45,0:23:07.16,ED-rom,,0,0,0,edjap14,{\fad(300,400)\blur0.6\bord0\shad0\c&HD57131&}moji dake de
+Dialogue: 0,0:23:05.45,0:23:07.16,ED-eng,,0,0,0,edeng14,{\fad(300,400)\blur3\bord2.5\c&HE09EBA&\3c&HE09EBA&}I will leave this place
+Dialogue: 1,0:23:05.45,0:23:07.16,ED-eng,,0,0,0,edeng14,{\fad(300,400)\blur0.5\bord0}I will leave this place
+Dialogue: 0,0:23:07.16,0:23:10.12,ED-rom,,0,0,0,edjap15,{\fad(500,500)\blur1.2\c&HFFFFFF&}i-kill basho sutete
+Dialogue: 1,0:23:07.16,0:23:10.12,ED-rom,,0,0,0,edjap15,{\fad(500,500)\blur0.6\bord0\shad0\c&HE26C76&}i-kill basho sutete
+Dialogue: 0,0:23:07.16,0:23:10.12,ED-eng,,0,0,0,edeng15,{\fad(500,500)\blur3\bord2.5\c&HCA9A9E&\3c&HCA9A9E&}where words kill to protect lives
+Dialogue: 1,0:23:07.16,0:23:10.12,ED-eng,,0,0,0,edeng15,{\fad(500,500)\blur0.5\bord0}where words kill to protect lives
+Dialogue: 0,0:23:10.12,0:23:13.91,ED-rom,,0,0,0,edjap16,{\fad(500,500)\blur1.2\c&HFFFFFF&}namae mo inai soko ni
+Dialogue: 1,0:23:10.12,0:23:13.91,ED-rom,,0,0,0,edjap16,{\fad(500,500)\blur0.6\bord0\shad0\c&HED70A6&}namae mo inai soko ni
 Dialogue: 0,0:23:10.12,0:23:13.91,ED-eng,,0,0,0,edeng16,{\fad(500,500)\blur3\bord2.5\c&HEFAF95&\3c&HEFAF95&}Even though I vainly seek answers
 Dialogue: 1,0:23:10.12,0:23:13.91,ED-eng,,0,0,0,edeng16,{\fad(500,500)\blur0.5\bord0}Even though I vainly seek answers
 Dialogue: 0,0:23:13.91,0:23:18.13,ED-rom,,0,0,0,edjap17,{\fad(500,500)\blur1.2\c&HFFFFFF&}kotae wo motometetemo
 Dialogue: 1,0:23:13.91,0:23:18.13,ED-rom,,0,0,0,edjap17,{\fad(500,500)\blur0.6\bord0\shad0\c&HF187A1&}kotae wo motometetemo
 Dialogue: 0,0:23:13.91,0:23:18.13,ED-eng,,0,0,0,edeng17,{\fad(500,500)\blur3\bord2.5\c&HF0A4B7&\3c&HF0A4B7&}from that kind of nameless place,
 Dialogue: 1,0:23:13.91,0:23:18.13,ED-eng,,0,0,0,edeng17,{\fad(500,500)\blur0.5\bord0}from that kind of nameless place,
-Dialogue: 0,0:23:18.13,0:23:22.63,ED-rom,,0,0,0,edjap18,{\fad(500,500)\blur1.2\c&HFFFFFF&}kaze ni tokashita inochi no rei
-Dialogue: 1,0:23:18.13,0:23:22.63,ED-rom,,0,0,0,edjap18,{\fad(500,500)\blur0.6\bord0\shad0\c&HF6B55C&}kaze ni tokashita inochi no rei
-Dialogue: 0,0:23:18.13,0:23:22.63,ED-eng,,0,0,0,edeng18,{\fad(500,500)\blur3\bord2.5\c&HF2C07D&\3c&HF2C07D&}I won't throw away my soul
-Dialogue: 1,0:23:18.13,0:23:22.63,ED-eng,,0,0,0,edeng18,{\fad(500,500)\blur0.5\bord0}I won't throw away my soul
+Dialogue: 0,0:23:18.13,0:23:22.63,ED-rom,,0,0,0,edjap18,{\fad(500,500)\blur1.2\c&HFFFFFF&}kaze ni tokashita inochi no Rain
+Dialogue: 1,0:23:18.13,0:23:22.63,ED-rom,,0,0,0,edjap18,{\fad(500,500)\blur0.6\bord0\shad0\c&HF6B55C&}kaze ni tokashita inochi no Rain
+Dialogue: 0,0:23:18.13,0:23:22.63,ED-eng,,0,0,0,edeng18,{\fad(500,500)\blur3\bord2.5\c&HF2C07D&\3c&HF2C07D&}I won't throw away my soul,
+Dialogue: 1,0:23:18.13,0:23:22.63,ED-eng,,0,0,0,edeng18,{\fad(500,500)\blur0.5\bord0}I won't throw away my soul,
 Dialogue: 0,0:23:22.63,0:23:24.84,ED-rom,,0,0,0,edjap19,{\fad(500,500)\blur1.2\c&HFFFFFF&}nagesutenai
 Dialogue: 1,0:23:22.63,0:23:24.84,ED-rom,,0,0,0,edjap19,{\fad(500,500)\blur0.6\bord0\shad0\c&HFBDF3A&}nagesutenai
-Dialogue: 0,0:23:22.63,0:23:24.84,ED-eng,,0,0,0,edeng19,{\fad(500,500)\blur3\bord2.5\c&HE9B79D&\3c&HE9B79D&}as it is carried on the wind
-Dialogue: 1,0:23:22.63,0:23:24.84,ED-eng,,0,0,0,edeng19,{\fad(500,500)\blur0.5\bord0}as it is carried on the wind
+Dialogue: 0,0:23:22.63,0:23:24.84,ED-eng,,0,0,0,edeng19,{\fad(500,500)\blur3\bord2.5\c&HE9B79D&\3c&HE9B79D&}the rain carried on the wind
+Dialogue: 1,0:23:22.63,0:23:24.84,ED-eng,,0,0,0,edeng19,{\fad(500,500)\blur0.5\bord0}the rain carried on the wind
 Dialogue: 0,0:23:24.84,0:23:27.55,ED-rom,,0,0,0,edjap20,{\fad(500,500)\blur1.2\c&HFFFFFF&}kakedashi no namida
 Dialogue: 1,0:23:24.84,0:23:27.55,ED-rom,,0,0,0,edjap20,{\fad(500,500)\blur0.6\bord0\shad0\c&HF19463&}kakedashi no namida
 Dialogue: 0,0:23:24.84,0:23:27.55,ED-eng,,0,0,0,edeng20,{\fad(500,500)\blur3\bord2.5\c&HEFAB91&\3c&HEFAB91&}These are my first tears
@@ -1004,8 +1005,8 @@ Dialogue: 0,0:23:32.14,0:23:34.93,ED-rom,,0,0,0,edjap22,{\fad(500,500)\blur1.2\c
 Dialogue: 1,0:23:32.14,0:23:34.93,ED-rom,,0,0,0,edjap22,{\fad(500,500)\blur0.6\bord0\shad0\c&HEE5678&}zero ni nareba
 Dialogue: 0,0:23:32.14,0:23:34.93,ED-eng,,0,0,0,edeng22,{\fad(500,500)\blur3\bord2.5\c&HE9CA92&\3c&HE9CA92&}When all goes back to zero,
 Dialogue: 1,0:23:32.14,0:23:34.93,ED-eng,,0,0,0,edeng22,{\fad(500,500)\blur0.5\bord0}When all goes back to zero,
-Dialogue: 0,0:23:34.93,0:23:38.15,ED-rom,,0,0,0,edjap23,{\fad(500,800)\blur1.2\c&HFFFFFF&}hadashi no brave one
-Dialogue: 1,0:23:34.93,0:23:38.15,ED-rom,,0,0,0,edjap23,{\fad(500,800)\blur0.6\bord0\shad0\c&HC8576B&}hadashi no brave one
-Dialogue: 0,0:23:34.93,0:23:38.15,ED-eng,,0,0,0,edeng23,{\fad(500,800)\blur3\bord2.5\c&HFEECBA&\3c&HFEECBA&}I walk barefoot, and with courage
-Dialogue: 1,0:23:34.93,0:23:38.15,ED-eng,,0,0,0,edeng23,{\fad(500,800)\blur0.5\bord0}I walk barefoot, and with courage
+Dialogue: 0,0:23:34.93,0:23:38.15,ED-rom,,0,0,0,edjap23,{\fad(500,800)\blur1.2\c&HFFFFFF&}hadashi no phrase-1
+Dialogue: 1,0:23:34.93,0:23:38.15,ED-rom,,0,0,0,edjap23,{\fad(500,800)\blur0.6\bord0\shad0\c&HC8576B&}hadashi no phrase-1
+Dialogue: 0,0:23:34.93,0:23:38.15,ED-eng,,0,0,0,edeng23,{\fad(500,800)\blur3\bord2.5\c&HFEECBA&\3c&HFEECBA&}I walk barefoot with the first phrase
+Dialogue: 1,0:23:34.93,0:23:38.15,ED-eng,,0,0,0,edeng23,{\fad(500,800)\blur0.5\bord0}I walk barefoot with the first phrase
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
