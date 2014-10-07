@@ -18,7 +18,9 @@ Video File: amagi01_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Video Position: 435
+Scroll Position: 655
+Active Line: 658
+Video Position: 9217
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -708,7 +710,7 @@ Dialogue: 5,0:06:12.50,0:06:13.43,Default,,0,0,0,,Indeed.
 Dialogue: 5,0:06:15.50,0:06:21.69,Default,,0,0,0,,Welcome to Tiramie's Flower Adventure. {this is not creepy at all. AT ALL.}
 Dialogue: 5,0:06:23.44,0:06:24.40,Default,,0,0,0,,What's this?
 Dialogue: 5,0:06:24.40,0:06:27.57,Default,,0,0,0,,Tiramie's supposed to wave to us here,
-Dialogue: 5,0:06:27.57,0:06:29.42,Default,,0,0,0,,but she's not around today either.
+Dialogue: 5,0:06:27.57,0:06:29.42,Default,,0,0,0,,but he's not around today either.
 Dialogue: 5,0:06:29.42,0:06:30.46,Default,,0,0,0,,"Either"?
 Dialogue: 5,0:06:30.46,0:06:33.70,Default,,0,0,0,,How many times have you come here, Sento Isuzu?
 Dialogue: 5,0:06:35.58,0:06:36.86,Default,,0,0,0,,How'd you like it?
@@ -778,7 +780,7 @@ Dialogue: 5,0:07:18.38,0:07:20.54,Default,,0,0,0,,A shooting game, huh?
 Dialogue: 5,0:07:20.54,0:07:22.34,Default,,0,0,0,,I just have to shoot them with this, right?
 Dialogue: 5,0:07:22.34,0:07:23.17,Default,,0,0,0,,Right.
 Dialogue: 5,0:07:23.68,0:07:25.64,Default,,0,0,0,,I rule at these games.
-Dialogue: 5,0:07:25.64,0:07:28.08,Default,,0,0,0,,My reflexes will rock your thigh-high socks off.
+Dialogue: 5,0:07:25.64,0:07:28.08,Default,,0,0,0,,My reflexes will knock your thigh-high socks off.
 Dialogue: 5,0:07:28.08,0:07:29.52,Default,,0,0,0,,Let the battle begin!
 Dialogue: 5,0:07:29.52,0:07:30.63,Default,,0,0,0,,Battle?
 Dialogue: 5,0:07:40.30,0:07:40.81,Default,,0,0,0,,They're fast!
