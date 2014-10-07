@@ -18,9 +18,9 @@ Video File: amagi01_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 655
-Active Line: 658
-Video Position: 9217
+Scroll Position: 1010
+Active Line: 1016
+Video Position: 20559
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -903,7 +903,7 @@ Dialogue: 5,0:08:57.50,0:08:59.70,Default,,0,0,0,,The lead mascot of this park.
 Dialogue: 5,0:08:59.70,0:09:00.68,Default,,0,0,0,,Oh?
 Dialogue: 5,0:09:03.43,0:09:04.80,Default,,0,0,0,,What's wrong?
 Dialogue: 5,0:09:04.80,0:09:05.52,Default,,0,0,0,,Nothing.
-Dialogue: 5,0:09:06.04,0:09:08.02,Default,,0,0,0,,Why is he getting on my nerves?
+Dialogue: 5,0:09:06.04,0:09:08.02,Default,,0,0,0,,{\i1}Why is he getting on my nerves?
 Dialogue: 5,0:09:08.52,0:09:10.08,Default,,0,0,0,,We want to take a picture.
 Dialogue: 5,0:09:10.08,0:09:10.95,Default,,0,0,0,,Is that okay?
 Dialogue: 5,0:09:12.90,0:09:14.82,Default,,0,0,0,,Wait, why aren't you in the picture with us?
@@ -958,8 +958,8 @@ Dialogue: 5,0:10:54.82,0:10:56.52,Default,,0,0,0,,That it's a real fairy.
 Dialogue: 5,0:10:56.52,0:10:58.32,Default,,0,0,0,,Talk about clichéd.
 Dialogue: 5,0:10:58.32,0:10:59.32,Default,,0,0,0,,That's not it.
 Dialogue: 5,0:10:59.32,0:11:00.93,Default,,0,0,0,,There really is nobody inside.
-Dialogue: 5,0:11:00.93,0:11:03.76,Default,,0,0,0,,He came here from the land of magic.
-Dialogue: 5,0:11:03.76,0:11:05.82,Default,,0,0,0,,The land of magic, eh?
+Dialogue: 5,0:11:00.93,0:11:03.76,Default,,0,0,0,,He came here from the realm of magic.
+Dialogue: 5,0:11:03.76,0:11:05.82,Default,,0,0,0,,The realm of magic, eh?
 Dialogue: 5,0:11:05.82,0:11:07.32,Default,,0,0,0,,Okay, okay.
 Dialogue: 5,0:11:07.32,0:11:09.14,Default,,0,0,0,,I'll leave it at that.
 Dialogue: 0,0:11:09.14,0:11:12.10,Hill of Horrid Wizardry,,0,0,0,,{\bord0\blur2\c&H72C980&\fsp35\pos(666,408)\fscx59\fscy45\alpha&HC0&}Ele{\c&HC4794A&}men{\c&H6161DD&}ta{\c&HDBE08F&}rio
@@ -1034,7 +1034,7 @@ Dialogue: 1,0:12:41.99,0:12:42.03,Tiramie's Deflower Adventure,,0,0,0,,{\bord0\b
 Dialogue: 0,0:12:42.03,0:12:43.45,Tiramie's Deflower Adventure,,0,0,0,,{\bord4.5\blur1\3c&H344985&\c&H344985&\frz8.736\pos(642,361)\b1\fscx110\fscy110}Coffee \NCup
 Dialogue: 1,0:12:42.03,0:12:43.45,Tiramie's Deflower Adventure,,0,0,0,,{\bord0\blur0.6\c&H6E5FC0&\frz8.736\pos(642,361)\4a&HFF&\b1\fscx110\fscy110}Coffee \NCup
 Dialogue: 5,0:12:42.30,0:12:43.45,Default,,0,0,0,,Coffee Cup.
-Dialogue: 5,0:12:43.45,0:12:45.90,Default,,0,0,0,,Amaburi prides itself on its speed and thrills.
+Dialogue: 5,0:12:43.45,0:12:45.90,Default,,0,0,0,,Amaburi's is known for its speed and thrills.
 Dialogue: 5,0:12:45.90,0:12:47.37,Default,,0,0,0,,I'm about to thrill up my lunch!
 Dialogue: 5,0:12:47.83,0:12:48.78,Default,,0,0,0,,That was beyond awful!
 Dialogue: 5,0:12:48.78,0:12:50.12,Default,,0,0,0,,You seem upset.
@@ -1066,7 +1066,7 @@ Dialogue: 5,0:14:06.49,0:14:07.57,Default,,0,0,0,,How strange.
 Dialogue: 5,0:14:10.62,0:14:11.95,Default,,0,0,0,,Kanie Seiya.
 Dialogue: 5,0:14:11.95,0:14:13.74,Default,,0,0,0,,Amagi High, Class 2-4.
 Dialogue: 5,0:14:13.74,0:14:14.79,Default,,0,0,0,,Sixteen years old.
-Dialogue: 5,0:14:15.54,0:14:17.46,Default,,0,0,0,,You live with one older female relative.
+Dialogue: 5,0:14:15.54,0:14:17.46,Default,,0,0,0,,Lives with one older female relative.
 Dialogue: 5,0:14:17.46,0:14:18.62,Default,,0,0,0,,Where's this coming from?
 Dialogue: 5,0:14:18.62,0:14:21.92,Default,,0,0,0,,Handsome, smart, and athletic.
 Dialogue: 5,0:14:21.92,0:14:23.50,Default,,0,0,0,,Right. What about it?
