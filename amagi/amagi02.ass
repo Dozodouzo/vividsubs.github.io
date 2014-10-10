@@ -18,7 +18,9 @@ Video File: amagi02_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Video Position: 24
+Scroll Position: 2652
+Active Line: 2658
+Video Position: 20790
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2442,8 +2444,8 @@ Dialogue: 0,0:05:55.12,0:05:56.21,Simple Enough,,0,0,0,staff entreance,{\an7\bor
 Dialogue: 1,0:05:55.12,0:05:56.21,Simple Enough,,0,0,0,staff entreance,{\an7\bord0\blur0.6\b1\pos(285,572)\c&H262320&\fscx44\fscy44}4{*\c&H272421&}) {*\c&H292622&}U{*\c&H292623&}s{*\c&H2A2724&}e {*\c&H2C2926&}o{*\c&H2D2A27&}f {*\c&H2F2B28&}t{*\c&H302C29&}h{*\c&H302D2A&}e {*\c&H322F2C&}p{*\c&H33302C&}a{*\c&H34312D&}r{*\c&H35312E&}k{*\c&H36322F&}i{*\c&H363330&}n{*\c&H373430&}g {*\c&H393632&}l{*\c&H3A3633&}o{*\c&H3B3734&}t {*\c&H3D3935&}i{*\c&H3D3A36&}s {*\c&H3F3B38&}a{*\c&H403C39&}t {*\c&H423E3A&}y{*\c&H433F3B&}o{*\c&H43403C&}u{*\c&H44413D&}r {*\c&H46423E&}o{*\c&H47433F&}w{*\c&H484440&}n {*\c&H4A4642&}r{*\c&H4A4643&}i{*\c&H4B4743&}s{\c&H4D4945&}k
 Dialogue: 0,0:05:55.12,0:05:56.21,Simple Enough,,0,0,0,staff entreance,{\an5\bord0\blur2\b1\fscx31\fscy31\pos(831,594)\c&H22211E&\alpha&HC0&}Amagi Brilliant Park Management
 Dialogue: 1,0:05:55.12,0:05:56.21,Simple Enough,,0,0,0,staff entreance,{\an5\bord0\blur0.6\b1\fscx31\fscy31\pos(831,594)\c&H22211E&}Amagi Brilliant Park Management
-Dialogue: 5,0:05:56.21,0:05:58.42,Default,,0,0,0,,Good morning, Isuzu-san.
-Dialogue: 5,0:05:58.42,0:05:59.47,Default,,0,0,0,,Morning.
+Dialogue: 5,0:05:56.21,0:05:58.42,Default,,0,0,0,,Hello, Isuzu-san.
+Dialogue: 5,0:05:58.42,0:05:59.47,Default,,0,0,0,,Hello.
 Dialogue: 5,0:06:00.96,0:06:03.04,Default,,0,0,0,,Is he a Maple Lander too?
 Dialogue: 5,0:06:03.04,0:06:03.92,Default,,0,0,0,,No.
 Dialogue: 5,0:06:03.92,0:06:05.74,Default,,0,0,0,,He's an ordinary human.
@@ -2710,7 +2712,7 @@ Dialogue: 5,0:14:10.82,0:14:14.54,Default,,0,0,0,,I'm gonna end up having to han
 Dialogue: 5,0:14:14.54,0:14:18.53,Default,,0,0,0,,Soon people will forget me, and I'll disappear!
 Dialogue: 5,0:14:21.04,0:14:23.17,Default,,0,0,0,,We vanish if we lose all popularity on Earth!
 Dialogue: 5,0:14:23.50,0:14:26.15,Default,,0,0,0,,What're you gonna do about this?
-Dialogue: 5,0:14:27.08,0:14:29.36,Default,,0,0,0,,Shut up, Sharky{shark0week0}.
+Dialogue: 5,0:14:27.08,0:14:29.36,Default,,0,0,0,,Shut up, Crocky.
 Dialogue: 5,0:14:29.36,0:14:30.51,Default,,0,0,0,,Moffle?
 Dialogue: 5,0:14:30.51,0:14:33.36,Default,,0,0,0,,How many years has it been since you came here?
 Dialogue: 5,0:14:33.36,0:14:34.89,Default,,0,0,0,,Twelve.
