@@ -18,9 +18,9 @@ Video File: amagi02_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 2652
-Active Line: 2658
-Video Position: 20790
+Scroll Position: 1071
+Active Line: 1074
+Video Position: 5718
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1128,10 +1128,10 @@ Dialogue: 5,0:03:51.16,0:03:52.70,Default,,0,0,0,,Settle down.
 Dialogue: 5,0:03:52.70,0:03:56.13,Default,,0,0,0,,You won't last in this business if you keep seeing red at every little thing.
 Dialogue: 5,0:03:56.13,0:03:57.97,Default,,0,0,0,,Well, how do {\i1}you{\i0} like this?!
 Dialogue: 5,0:03:57.97,0:03:59.49,Default,,0,0,0,,Huh?!
-Dialogue: 5,0:04:00.62,0:04:02.18,Default,,0,0,0,,Cut it out!
-Dialogue: 5,0:04:02.18,0:04:03.28,Default,,0,0,0,,Get yer filthy hands off me!{overlap}
-Dialogue: 5,0:04:03.14,0:04:05.44,DefaultAlt,,0,0,0,,Put yourself in my shoes!{overlap}
-Dialogue: 5,0:04:03.28,0:04:05.44,Default,,0,0,0,,It's too early to be brawling, you two.
+Dialogue: 5,0:03:58.48,0:03:59.49,DefaultAlt,,0,0,0,,Cut it out!
+Dialogue: 5,0:04:00.62,0:04:02.18,Default,,0,0,0,,Get yer filthy hands off me!
+Dialogue: 5,0:04:02.18,0:04:05.44,DefaultAlt,,0,0,0,,Put yourself in my shoes!
+Dialogue: 5,0:04:03.24,0:04:05.44,Default,,0,0,0,,It's too early to be brawling, you two.
 Dialogue: 5,0:04:05.44,0:04:06.80,Default,,0,0,0,,Oh, hey, Moffle.
 Dialogue: 5,0:04:06.80,0:04:07.89,Default,,0,0,0,,Morning!
 Dialogue: 5,0:04:09.27,0:04:11.86,Default,,0,0,0,,Why the long face?
@@ -2770,7 +2770,7 @@ Dialogue: 5,0:17:06.26,0:17:08.84,Default,,0,0,0,,He said that only fools would 
 Dialogue: 5,0:17:10.27,0:17:11.69,Default,,0,0,0,,And I have to agree.
 Dialogue: 5,0:17:11.69,0:17:18.08,Default,,0,0,0,,Who in their right mind would come to this sad excuse for a park? It's beyond a joke!
 Dialogue: 5,0:17:18.08,0:17:20.87,Default,,0,0,0,,I could hardly bring myself to argue.
-Dialogue: 5,0:17:20.87,0:17:23.68,Default,,0,0,0,,And what I do see when I come here?
+Dialogue: 5,0:17:20.87,0:17:23.68,Default,,0,0,0,,And what do I see when I come here?
 Dialogue: 5,0:17:23.68,0:17:26.86,Default,,0,0,0,,A pity party filled with cowards licking their wounds!
 Dialogue: 5,0:17:26.86,0:17:27.78,Default,,0,0,0,,It all makes sense.
 Dialogue: 5,0:17:27.78,0:17:30.86,Default,,0,0,0,,Yeah, only fools would spend any money on you lot!
