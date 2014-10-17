@@ -18,6 +18,8 @@ Video File: amagi03_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
+Scroll Position: 2482
+Active Line: 2526
 Video Position: 310
 
 [V4+ Styles]
@@ -2580,7 +2582,7 @@ Dialogue: 5,0:18:04.48,0:18:06.72,Default,,0,0,0,,The uploader was me, Seiya!{sa
 Dialogue: 5,0:18:06.72,0:18:07.69,Default,,0,0,0,,Toriken!
 Dialogue: 5,0:18:07.69,0:18:08.85,Default,,0,0,0,,At your service!
 Dialogue: 5,0:18:09.41,0:18:11.66,Default,,0,0,0,,That video was recorded by Salama-san
-Dialogue: 5,0:18:11.66,0:18:15.00,Default,,0,0,0,,and edited by the Manager and I.
+Dialogue: 5,0:18:11.66,0:18:15.00,Default,,0,0,0,,and edited by the Manager and me.
 Dialogue: 5,0:18:15.00,0:18:16.61,Default,,0,0,0,,And there you have it.
 Dialogue: 5,0:18:16.92,0:18:18.54,Default,,0,0,0,,Star mascot?
 Dialogue: 5,0:18:19.05,0:18:23.91,Default,,0,0,0,,If we hadn't uploaded it, nobody would've ever laid eyes on that video.
