@@ -18,6 +18,8 @@ Video File: amagi05_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
+Scroll Position: 1509
+Active Line: 1552
 Video Position: 369
 
 [V4+ Styles]
@@ -1608,7 +1610,7 @@ Dialogue: 10,0:08:26.01,0:08:29.24,DefaultTop,,0,0,0,,The gap keeps growing wide
 Dialogue: 0,0:08:26.31,0:08:27.77,Metro,,0,0,0,,{\shad1\blur0.8\c&H1A1F11&\4c&H1A1F11&\b1\fscx142\fscy117\pos(1045,260)}Isuzu
 Dialogue: 0,0:08:26.31,0:08:27.77,Metro,,0,0,0,,{\blur1\c&H161D4C&\b1\fscx188\fscy168\pos(636,447)}Gonna die!
 Dialogue: 10,0:08:27.77,0:08:30.59,Default,,0,0,0,,Seriously, what is with these emoticons?
-Dialogue: 10,0:08:30.59,0:08:32.36,Default,,0,0,0,,Sledge!
+Dialogue: 10,0:08:30.59,0:08:32.36,Default,,0,0,0,,Luge!
 Dialogue: 10,0:08:44.04,0:08:44.83,Default,,0,0,0,,Kanie-kun!
 Dialogue: 10,0:08:54.33,0:08:55.34,Default,,0,0,0,,Sento!
 Dialogue: 10,0:09:02.26,0:09:03.98,Default,,0,0,0,,Sento! {holy shit hahahaha}{LEL}
