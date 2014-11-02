@@ -16,7 +16,9 @@ Video File: akame17_premux.mkv
 Keyframes File: akame17_wr_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Position: 43
+Scroll Position: 596
+Active Line: 597
+Video Position: 33906
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -628,6 +630,7 @@ Dialogue: 2,0:23:14.04,0:23:21.42,AkameED2-Rom,,0,0,0,,{\bord0\blur0.4\fad(150,1
 Dialogue: 0,0:23:14.04,0:23:21.42,AkameED2-Eng,,0,0,0,,{\blur2\fad(150,150)\alpha&H60&\1a&HFF&\3c&HFFFFFF&\t(6274,6316,\3c&H62F4FE&\alpha&H30&\bord3\blur3.5)\bord2\t(105,150,\1a&H00&)\t(7230,7275,\1a&HFF&)}and guides me towards the promised land
 Dialogue: 1,0:23:14.04,0:23:21.42,AkameED2-Eng,,0,0,0,,{\blur0.4\fad(150,150)\c&HFFFFFF&\1a&HFF&\alpha&H30&\t(105,150,\1a&H00&)\t(7230,7275,\1a&HFF&)}and guides me towards the promised land
 Dialogue: 2,0:23:14.04,0:23:21.42,AkameED2-Eng,,0,0,0,,{\bord0\blur0.4\fad(150,150)}and guides me towards the promised land
-Dialogue: 0,0:23:34.14,0:23:40.77,shit show title,,0,0,0,endtitle ga kill,{\fad(500,0)\blur0.5\c&HFFFFFF&\pos(642,270)}Kill   the   Demon
-Dialogue: 1,0:23:34.14,0:23:40.77,shit show title,,0,0,0,endtitle ga kill,{\fad(500,0)\bord0\blur0.45\clip(0,211,1280,276)\pos(642,270)}Kill   the   Demon
-Dialogue: 1,0:23:34.14,0:23:40.77,shit show title,,0,0,0,endtitle ga kill,{\fad(500,0)\bord0\blur0.45\clip(0,276,1280,346)\c&H000000&\pos(642,270)}Kill   the   Demon
+Dialogue: 0,0:23:34.14,0:23:40.77,shit show title,,0,0,0,endtitle ga kill,{\fad(500,0)\blur0.5\c&HFFFFFF&\pos(642,270)}Kill   the   Demons
+Dialogue: 1,0:23:34.14,0:23:40.77,shit show title,,0,0,0,endtitle ga kill,{\fad(500,0)\bord0\blur0.45\clip(0,211,1280,276)\pos(642,270)}Kill   the   Demons
+Dialogue: 1,0:23:34.14,0:23:40.77,shit show title,,0,0,0,endtitle ga kill,{\fad(500,0)\bord0\blur0.45\clip(0,276,1280,346)\c&H000000&\pos(642,270)}Kill   the   Demons
+Dialogue: 0,0:23:40.77,0:23:42.77,shit show title,,0,0,0,,
