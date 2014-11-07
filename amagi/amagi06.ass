@@ -18,6 +18,8 @@ Video File: amagi06_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
+Scroll Position: 1488
+Active Line: 1515
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1570,7 +1572,7 @@ Dialogue: 10,0:17:14.45,0:17:16.01,Default,,0,0,0,,That's the last of it.
 Dialogue: 10,0:17:27.88,0:17:28.68,Default,,0,0,0,,What's up?
 Dialogue: 10,0:17:29.43,0:17:31.00,Default,,0,0,0,,About what you said earlier...
 Dialogue: 10,0:17:31.00,0:17:31.69,Default,,0,0,0,,Huh?
-Dialogue: 10,0:17:32.20,0:17:34.58,Default,,0,0,0,,Macaron gave me a earful this morning too.
+Dialogue: 10,0:17:32.20,0:17:34.58,Default,,0,0,0,,Macaron gave me an earful this morning too.
 Dialogue: 10,0:17:34.58,0:17:37.07,Default,,0,0,0,,About how I get tongue-tied \Nbecause I overthink things.
 Dialogue: 10,0:17:40.69,0:17:44.14,Default,,0,0,0,,I never know how to act when \Nface to face with people.
 Dialogue: 10,0:17:44.14,0:17:45.40,Default,,0,0,0,,So you turn to your gun.
@@ -2111,7 +2113,7 @@ Dialogue: 10,0:20:41.39,0:20:45.66,Default,,0,0,0,,We'll train you worthless bei
 Dialogue: 10,0:20:45.66,0:20:50.19,Default,,0,0,0,,And we'll take utmost delight in weeding out the non-hackers who are not fit to serve our beloved park!
 Dialogue: 10,0:20:50.19,0:20:51.80,Default,,0,0,0,,From now on you will speak \Nonly when spoken to,
 Dialogue: 10,0:20:51.80,0:20:54.17,Default,,0,0,0,,and the first and last words \Nout of your filthy sewers will be "Sir"!
-Dialogue: 10,0:20:54.17,0:20:55.15,Default,,0,0,0,,Do you maggots understand? 
+Dialogue: 10,0:20:54.17,0:20:55.15,Default,,0,0,0,,Do you maggots understand?
 Dialogue: 10,0:20:55.15,0:20:56.91,Default,,0,0,0,,Sir...
 Dialogue: 10,0:20:56.91,0:20:57.90,Default,,0,0,0,,Yes, sir.
 Dialogue: 10,0:20:58.63,0:20:59.65,Default,,0,0,0,,Bullshit! I can't hear you!
