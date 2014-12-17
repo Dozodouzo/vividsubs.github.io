@@ -15,11 +15,12 @@ Aegisub Video Aspect Ratio: c1.777778
 Last Style Storage: Default
 Audio File: akame01_premux.mkv
 Video File: akame01_premux.mkv
+Keyframes File: akame01_premux_keyframes.log
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 174
-Active Line: 182
-Video Position: 31787
+Scroll Position: 691
+Active Line: 698
+Video Position: 32569
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,18 +39,18 @@ Dialogue: 0,0:00:08.94,0:00:10.32,Default,,0,0,0,,Whoa!
 Dialogue: 0,0:00:10.32,0:00:13.53,Default,,0,0,0,,I-It's an earth dragon!
 Dialogue: 0,0:00:23.01,0:00:25.25,Default,,0,0,0,,The earth dragon. A first-class Danger Beast.
 Dialogue: 0,0:00:25.63,0:00:27.58,Default,,0,0,0,,A worthy opponent indeed.
-Dialogue: 0,0:00:33.41,0:00:34.38,Default,,0,0,0,,You sound upset.
+Dialogue: 0,0:00:33.41,0:00:34.34,Default,,0,0,0,,You sound upset.
 Dialogue: 0,0:00:36.55,0:00:37.55,Default,,0,0,0,,It's over.
-Dialogue: 0,0:00:53.39,0:00:54.95,Default,,0,0,0,,That was amazing!
-Dialogue: 0,0:00:54.95,0:00:58.40,Default,,0,0,0,,You single-handedly took down a Danger Beast!
+Dialogue: 0,0:00:53.39,0:00:54.99,Default,,0,0,0,,That was amazing!
+Dialogue: 0,0:00:54.99,0:00:58.40,Default,,0,0,0,,You single-handedly took down a Danger Beast!
 Dialogue: 0,0:00:59.69,0:01:01.17,Default,,0,0,0,,Of course!
 Dialogue: 0,0:01:01.17,0:01:04.25,Default,,0,0,0,,That thing was no match for me. It was child's play!
 Dialogue: 0,0:01:04.25,0:01:06.60,Default,,0,0,0,,By the way, I'm Tatsumi.
-Dialogue: 0,0:01:06.60,0:01:10.63,Default,,0,0,0,,One day, everyone in the imperial capital's gonna know my name, so you'd better remember it.
-Dialogue: 0,0:01:10.63,0:01:14.32,Default,,0,0,0,,You're saying you want to make it big in the capital?
+Dialogue: 0,0:01:06.60,0:01:10.67,Default,,0,0,0,,One day, everyone in the imperial capital's gonna know my name, so you'd better remember it.
+Dialogue: 0,0:01:10.67,0:01:14.32,Default,,0,0,0,,You're saying you want to make it big in the capital?
 Dialogue: 0,0:01:14.32,0:01:15.32,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:01:15.32,0:01:18.39,Default,,0,0,0,,Every country boy dreams of winning success and fame in the big city!
-Dialogue: 0,0:01:18.39,0:01:22.10,Default,,0,0,0,,The imperial capital isn't the place of hopes and dreams that you think it is.
+Dialogue: 0,0:01:15.32,0:01:18.43,Default,,0,0,0,,Every country boy dreams of winning success and fame in the big city!
+Dialogue: 0,0:01:18.43,0:01:22.14,Default,,0,0,0,,The imperial capital isn't the place of hopes and dreams that you think it is.
 Dialogue: 0,0:01:22.49,0:01:24.08,Default,,0,0,0,,It's definitely lively,
 Dialogue: 0,0:01:24.08,0:01:27.38,Default,,0,0,0,,but it's home to monsters even worse than that earth dragon.
 Dialogue: 0,0:01:27.38,0:01:28.40,Default,,0,0,0,,What?
@@ -58,9 +59,9 @@ Dialogue: 0,0:01:30.57,0:01:32.06,Default,,0,0,0,,I mean the people.
 Dialogue: 0,0:01:32.06,0:01:33.94,Default,,0,0,0,,They may be humans, \Nbut their hearts are monstrous.
 Dialogue: 0,0:01:34.39,0:01:36.52,Default,,0,0,0,,The capital's crawling with them.
 Dialogue: 0,0:01:37.61,0:01:39.37,Default,,0,0,0,,I appreciate your advice,
-Dialogue: 0,0:01:39.37,0:01:41.95,Default,,0,0,0,,but I can't turn back now.{xythar to vivid after picking up akame ga kill}
+Dialogue: 0,0:01:39.37,0:01:41.99,Default,,0,0,0,,but I can't turn back now.{xythar to vivid after picking up akame ga kill}
 Dialogue: 0,0:01:42.37,0:01:43.14,Default,,0,0,0,,I...
-Dialogue: 0,0:01:43.14,0:01:43.95,Default,,0,0,0,,No, we...
+Dialogue: 0,0:01:43.14,0:01:44.00,Default,,0,0,0,,No, we...
 Dialogue: 0,0:01:44.53,0:01:47.68,Default,,0,0,0,,{\fad(1,821)}We're gonna make it in the imperial capital \Nand save our village!
 Dialogue: 0,0:01:50.73,0:01:53.46,Default,,0,0,0,,{\i1}Just as humans eventually rot away,
 Dialogue: 0,0:01:53.46,0:01:55.51,Default,,0,0,0,,{\i1}nations also decay and collapse.
@@ -68,9 +69,9 @@ Dialogue: 0,0:01:56.57,0:01:59.20,Default,,0,0,0,,{\i1}Even the imperial capital
 Dialogue: 0,0:01:59.20,0:02:02.12,Default,,0,0,0,,{\i1}is now a living hell of corruption.
 Dialogue: 0,0:02:02.12,0:02:04.80,Default,,0,0,0,,{\i1}Wicked spirits in human form run amok,
 Dialogue: 0,0:02:04.80,0:02:07.14,Default,,0,0,0,,{\i1}claiming everything as their own.
-Dialogue: 0,0:02:09.06,0:02:11.86,Default,,0,0,0,,{\i1}And those evils which heaven cannot judge
-Dialogue: 0,0:02:11.86,0:02:13.94,Default,,0,0,0,,{\i1}will be dealt with in the shadows.{you could say they're... judged in darkness}
-Dialogue: 0,0:02:15.19,0:02:17.12,Default,,0,0,0,,{\i1}By us:
+Dialogue: 0,0:02:09.06,0:02:11.90,Default,,0,0,0,,{\i1}And those evils which heaven cannot judge
+Dialogue: 0,0:02:11.90,0:02:13.94,Default,,0,0,0,,{\i1}will be dealt with in the shadows.{you could say they're... judged in darkness}
+Dialogue: 0,0:02:15.07,0:02:17.12,Default,,0,0,0,,{\i1}By us:
 Dialogue: 0,0:02:17.12,0:02:18.44,Default,,0,0,0,,{\i1}the assassins.
 Dialogue: 0,0:02:31.58,0:02:31.75,AkameOP-Rom,,0,0,0,,{\fad(100,0)\bord4\be4\move(450,25,640,25,0,100)\clip(1,54,1278,100)}kokoro ni kakushiteta omoi
 Dialogue: 0,0:02:31.58,0:02:31.75,AkameOP-Rom,,0,0,0,,{\fad(100,0)\bord4\be4\move(850,25,640,25,0,100)\clip(1,2,1278,54)}kokoro ni kakushiteta omoi
@@ -271,21 +272,21 @@ Dialogue: 0,0:03:55.06,0:03:56.68,Default,,0,0,0,,Awesome!
 Dialogue: 0,0:03:56.68,0:03:58.80,Default,,0,0,0,,So this is the imperial capital!
 Dialogue: 0,0:03:59.12,0:04:02.14,Default,,0,0,0,,If I make good money here, \NI could buy the entire village!
 Dialogue: 0,0:04:02.14,0:04:04.26,Default,,0,0,0,,I should head for the barracks.
-Dialogue: 0,0:04:06.30,0:04:07.56,Default,,0,0,0,,Oh...
+Dialogue: 0,0:04:06.35,0:04:07.56,Default,,0,0,0,,Oh...
 Dialogue: 0,0:04:07.56,0:04:09.66,Default,,0,0,0,,You're an applicant too, huh?
 Dialogue: 0,0:04:09.66,0:04:12.31,Default,,0,0,0,,Fill out this form, and bring it back to me.
 Dialogue: 0,0:04:12.31,0:04:13.68,Default,,0,0,0,,This means...
 Dialogue: 0,0:04:14.21,0:04:16.74,Default,,0,0,0,,I'll be starting out as a grunt?
 Dialogue: 0,0:04:16.74,0:04:17.57,Default,,0,0,0,,Obviously.
-Dialogue: 0,0:04:17.57,0:04:19.82,Default,,0,0,0,,Who has time for that?!
-Dialogue: 0,0:04:19.82,0:04:21.82,Default,,0,0,0,,Just look at my technique.
-Dialogue: 0,0:04:21.82,0:04:24.99,Default,,0,0,0,,If I show promise, will you start me out as a commanding officer?
-Dialogue: 0,0:04:24.99,0:04:26.16,Default,,0,0,0,,Get out!
+Dialogue: 0,0:04:17.57,0:04:19.86,Default,,0,0,0,,Who has time for that?!
+Dialogue: 0,0:04:19.86,0:04:21.82,Default,,0,0,0,,Just look at my technique.
+Dialogue: 0,0:04:21.82,0:04:25.03,Default,,0,0,0,,If I show promise, will you start me out as a commanding officer?
+Dialogue: 0,0:04:25.03,0:04:26.16,Default,,0,0,0,,Get out!
 Dialogue: 0,0:04:27.49,0:04:28.48,Default,,0,0,0,,What the hell?
-Dialogue: 0,0:04:28.48,0:04:29.66,Default,,0,0,0,,At least give me a chance!
-Dialogue: 0,0:04:29.66,0:04:30.70,Default,,0,0,0,,Don't be ridiculous!
+Dialogue: 0,0:04:28.48,0:04:29.70,Default,,0,0,0,,At least give me a chance!
+Dialogue: 0,0:04:29.70,0:04:30.70,Default,,0,0,0,,Don't be ridiculous!
 Dialogue: 0,0:04:30.70,0:04:32.75,Default,,0,0,0,,We've had no end of applicants in this recession!
-Dialogue: 0,0:04:32.75,0:04:35.60,Default,,0,0,0,,You think we can hire anyone who strolls through the door?!
+Dialogue: 0,0:04:32.75,0:04:35.60,Default,,0,0,0,,You think we can hire anyone \Nwho strolls through the door?!
 Dialogue: 0,0:04:35.60,0:04:36.92,Default,,0,0,0,,Oh, really?
 Dialogue: 0,0:04:36.92,0:04:39.42,Default,,0,0,0,,Got it? Then scram, you damned brat!
 Dialogue: 0,0:04:43.59,0:04:46.64,Default,,0,0,0,,{\i1}Do I cause a scene and make a name for myself?
@@ -303,27 +304,27 @@ Dialogue: 0,0:05:12.72,0:05:15.34,Default,,0,0,0,,Anyone who's lived here long e
 Dialogue: 0,0:05:15.34,0:05:15.79,Default,,0,0,0,,Anyway...
 Dialogue: 0,0:05:16.47,0:05:19.84,Default,,0,0,0,,I know a much quicker way to get government work.
 Dialogue: 0,0:05:19.84,0:05:20.70,Default,,0,0,0,,Seriously?
-Dialogue: 0,0:05:20.70,0:05:21.71,Default,,0,0,0,,Wanna know how?
-Dialogue: 0,0:05:21.71,0:05:22.96,Default,,0,0,0,,Mm-hm!
-Dialogue: 0,0:05:23.35,0:05:25.88,Default,,0,0,0,,Then you can treat me to lunch!
+Dialogue: 0,0:05:20.70,0:05:21.75,Default,,0,0,0,,Wanna know how?
+Dialogue: 0,0:05:21.75,0:05:22.96,Default,,0,0,0,,Mm-hm!
+Dialogue: 0,0:05:23.35,0:05:25.93,Default,,0,0,0,,Then you can treat me to lunch!
 Dialogue: 0,0:05:29.65,0:05:33.52,Default,,0,0,0,,Nothing beats an afternoon drink!
 Dialogue: 0,0:05:34.03,0:05:35.46,Default,,0,0,0,,How 'bout a glass, young man?
 Dialogue: 0,0:05:35.46,0:05:36.28,Default,,0,0,0,,Let's have some fun!
 Dialogue: 0,0:05:36.28,0:05:38.81,Default,,0,0,0,,Just tell me how to get hired by the government!
-Dialogue: 0,0:05:39.15,0:05:41.52,Default,,0,0,0,,Right. In short, you need two things.
-Dialogue: 0,0:05:42.97,0:05:44.74,Default,,0,0,0,,Connections and money.
-Dialogue: 0,0:05:44.74,0:05:46.78,Default,,0,0,0,,M-Money?
+Dialogue: 0,0:05:39.15,0:05:41.57,Default,,0,0,0,,Right. In short, you need two things.
+Dialogue: 0,0:05:42.97,0:05:44.78,Default,,0,0,0,,Connections and money.
+Dialogue: 0,0:05:44.78,0:05:46.78,Default,,0,0,0,,M-Money?
 Dialogue: 0,0:05:46.78,0:05:49.28,Default,,0,0,0,,There's a guy I know in the military.
 Dialogue: 0,0:05:49.28,0:05:52.08,Default,,0,0,0,,If I grease his palm with some cash, \Nyou'll be hired right away!
 Dialogue: 0,0:05:53.35,0:05:54.77,Default,,0,0,0,,I get it.
 Dialogue: 0,0:05:54.77,0:05:55.75,Default,,0,0,0,,Then...
 Dialogue: 0,0:05:55.75,0:05:57.22,Default,,0,0,0,,Would this be enough?
 Dialogue: 0,0:05:57.22,0:05:58.96,Default,,0,0,0,,Oh, absolutely!
-Dialogue: 0,0:05:58.96,0:06:02.42,Default,,0,0,0,,On my way here, I collected some rewards \Nfor slaying Danger Beasts.
+Dialogue: 0,0:05:58.96,0:06:02.46,Default,,0,0,0,,On my way here, I collected some rewards \Nfor slaying Danger Beasts.
 Dialogue: 0,0:06:03.65,0:06:04.92,Default,,0,0,0,,So you're strong.
 Dialogue: 0,0:06:05.37,0:06:07.26,Default,,0,0,0,,You'll be a commanding officer in no time!
 Dialogue: 0,0:06:07.26,0:06:08.89,Default,,0,0,0,,Sounds great! I'll leave it to you!
-Dialogue: 0,0:06:10.85,0:06:14.64,Default,,0,0,0,,I'm glad we were able to meet. I know you'll learn a lot from the experience.{heh}
+Dialogue: 0,0:06:10.85,0:06:14.64,Default,,0,0,0,,I'm glad we were able to meet. \NI know you'll learn a lot from the experience.{heh}
 Dialogue: 0,0:06:14.64,0:06:17.94,Default,,0,0,0,,Just sit tight while I take care of everything, okay?
 Dialogue: 0,0:06:17.94,0:06:19.86,Default,,0,0,0,,Okay!
 Dialogue: 0,0:06:31.25,0:06:33.76,Default,,0,0,0,,Sir, it's almost closing time.
@@ -343,13 +344,13 @@ Dialogue: 0,0:06:59.56,0:07:01.68,Default,,0,0,0,,I mean, damn that woman!
 Dialogue: 0,0:07:01.68,0:07:04.07,Default,,0,0,0,,Is this what you meant by \Nlearning from the experience?
 Dialogue: 0,0:07:05.65,0:07:06.90,Default,,0,0,0,,Damn it.
 Dialogue: 0,0:07:06.90,0:07:09.78,Default,,0,0,0,,No one out in the country would lie like that.
-Dialogue: 0,0:07:11.49,0:07:12.74,Default,,0,0,0,,Oh well.
+Dialogue: 0,0:07:11.53,0:07:12.74,Default,,0,0,0,,Oh well.
 Dialogue: 0,0:07:13.12,0:07:14.66,Default,,0,0,0,,Guess I'm spending the night outside.
 Dialogue: 0,0:07:14.66,0:07:16.12,Default,,0,0,0,,I can sleep anywhere.
 Dialogue: 0,0:07:16.87,0:07:17.62,Default,,0,0,0,,Stop.
 Dialogue: 0,0:07:21.46,0:07:23.33,Default,,0,0,0,,Again, my lady?
 Dialogue: 0,0:07:23.33,0:07:24.59,Default,,0,0,0,,You know I can't help it.
-Dialogue: 0,0:07:24.79,0:07:26.30,Default,,0,0,0,,It's my nature.
+Dialogue: 0,0:07:24.59,0:07:26.30,Default,,0,0,0,,It's my nature.
 Dialogue: 0,0:07:29.05,0:07:32.51,Default,,0,0,0,,If you have nowhere to sleep, \Nwould you like to stay at my home?
 Dialogue: 0,0:07:32.68,0:07:32.89,shit show shaky hand,,0,0,0,,{\3c&H000000&\c&H000000&\an7\blur1\bord2\shad0\fscx100\fscy100\pos(212,81)\p1\alpha&HFF&\t(\alpha&H88&)}m -166 -60 l -166 -48 -167 -40 -164 -30 -166 -20 -165 -6 -171 8 -165 17 -167 34 -163 47 -167 56 -165 69 -168 79 -154 77 -141 78 -128 82 -125 76 -108 78 -104 76 -85 77 -76 74 -65 79 -50 78 -37 73 -20 76 -3 73 8 78 19 76 37 75 49 78 63 77 67 76 72 83 72 91 72 98 59 97 47 97 53 101 69 110 79 114 81 120 100 127 114 136 118 126 118 116 125 111 126 101 131 95 117 94 105 97 103 86 95 76 110 74 125 77 141 74 156 77 169 75 172 62 167 51 168 38 170 28 167 15 170 4 169 -8 171 -19 170 -31 166 -43 169 -58 154 -59 133 -57 118 -60 101 -57 84 -57 74 -62 55 -58 40 -62 17 -61 5 -60 -16 -63 -34 -58 -52 -58 -67 -63 -85 -60 -108 -63 -119 -60 -140 -57 -151 -62
 Dialogue: 1,0:07:32.68,0:07:32.89,shit show shaky hand,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(212,81)\p1\c&HFFFFFF&\alpha&HFF&\t(\alpha&H88&)}m -166 -60 l -166 -48 -167 -40 -164 -30 -166 -20 -165 -6 -171 8 -165 17 -167 34 -163 47 -167 56 -165 69 -168 79 -154 77 -141 78 -128 82 -125 76 -108 78 -104 76 -85 77 -76 74 -65 79 -50 78 -37 73 -20 76 -3 73 8 78 19 76 37 75 49 78 63 77 67 76 72 83 72 91 72 98 59 97 47 97 53 101 69 110 79 114 81 120 100 127 114 136 118 126 118 116 125 111 126 101 131 95 117 94 105 97 103 86 95 76 110 74 125 77 141 74 156 77 169 75 172 62 167 51 168 38 170 28 167 15 170 4 169 -8 171 -19 170 -31 166 -43 169 -58 154 -59 133 -57 118 -60 101 -57 84 -57 74 -62 55 -58 40 -62 17 -61 5 -60 -16 -63 -34 -58 -52 -58 -67 -63 -85 -60 -108 -63 -119 -60 -140 -57 -151 -62
@@ -380,24 +381,24 @@ Dialogue: 0,0:07:53.16,0:07:53.91,Default,,0,0,0,,Oh...
 Dialogue: 0,0:07:53.91,0:07:56.12,Default,,0,0,0,,Aria's brought someone home again.
 Dialogue: 0,0:07:56.12,0:07:56.74,Default,,0,0,0,,My...
 Dialogue: 0,0:07:56.74,0:07:57.99,Default,,0,0,0,,It's a real habit of hers.
-Dialogue: 0,0:07:57.99,0:07:59.04,Default,,0,0,0,,I wonder how many this makes.
+Dialogue: 0,0:07:57.99,0:07:59.08,Default,,0,0,0,,I wonder how many this makes.
 Dialogue: 0,0:07:59.37,0:08:00.71,Default,,0,0,0,,Mother!
 Dialogue: 0,0:08:00.71,0:08:03.33,Default,,0,0,0,,Th-Thank you.
-Dialogue: 0,0:08:04.00,0:08:07.00,Default,,0,0,0,,{\i1}Those guards look really strong.
+Dialogue: 0,0:08:04.04,0:08:07.00,Default,,0,0,0,,{\i1}Those guards look really strong.
 Dialogue: 0,0:08:04.96,0:08:06.54,Default,,0,0,0,,{\an8}There's no need to be nervous.
 Dialogue: 0,0:08:07.00,0:08:08.71,Default,,0,0,0,,{\i1}Maybe that's why the people here
 Dialogue: 0,0:08:07.00,0:08:08.71,Default,,0,0,0,,{\an8}I bet you're hungry.
 Dialogue: 0,0:08:08.71,0:08:11.76,Default,,0,0,0,,{\i1}can show kindness to a stranger without feeling threatened.
 Dialogue: 0,0:08:13.09,0:08:17.72,Default,,0,0,0,,{\i1}It's nice to know that even the capital \Nstill has people with goodness in their hearts.
 Dialogue: 0,0:08:17.72,0:08:20.18,Default,,0,0,0,,Thank you very much for taking me in!
-Dialogue: 0,0:08:26.81,0:08:28.02,Default,,0,0,0,,I see.
+Dialogue: 0,0:08:26.81,0:08:28.07,Default,,0,0,0,,I see.
 Dialogue: 0,0:08:28.32,0:08:31.57,Default,,0,0,0,,You seek a successful military career so you can save your village.
 Dialogue: 0,0:08:31.57,0:08:32.28,Default,,0,0,0,,Yes, sir.
 Dialogue: 0,0:08:32.95,0:08:33.99,Default,,0,0,0,,However...
 Dialogue: 0,0:08:34.41,0:08:36.74,Default,,0,0,0,,It's peaceful here within the capital,
 Dialogue: 0,0:08:36.74,0:08:40.54,Default,,0,0,0,,but the homelands of three other races surround this country.
 Dialogue: 0,0:08:40.54,0:08:44.71,Default,,0,0,0,,You could be sent to fight on the borders.
-Dialogue: 0,0:08:45.37,0:08:46.71,Default,,0,0,0,,I'm fully prepared for that.
+Dialogue: 0,0:08:45.37,0:08:46.75,Default,,0,0,0,,I'm fully prepared for that.
 Dialogue: 0,0:08:46.96,0:08:48.21,Default,,0,0,0,,I see.
 Dialogue: 0,0:08:48.21,0:08:49.63,Default,,0,0,0,,Your determination is impressive.
 Dialogue: 0,0:08:49.63,0:08:51.80,Default,,0,0,0,,A splendid example of youth.
@@ -427,22 +428,22 @@ Dialogue: 0,0:09:40.60,0:09:42.56,Default,,0,0,0,,Keep it close to you,
 Dialogue: 0,0:09:43.02,0:09:45.43,Default,,0,0,0,,and God will surely help you.
 Dialogue: 0,0:09:46.39,0:09:47.27,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:09:47.27,0:09:48.98,Default,,0,0,0,,Thank you, Chief!
-Dialogue: 0,0:09:50.19,0:09:52.82,Default,,0,0,0,,And so, we left in high spirits.
+Dialogue: 0,0:09:50.19,0:09:52.86,Default,,0,0,0,,And so, we left in high spirits.
 Dialogue: 0,0:09:53.40,0:09:55.11,Default,,0,0,0,,But soon after, we got attacked by bandits,
 Dialogue: 0,0:09:55.11,0:09:56.86,Default,,0,0,0,,and we've been separated ever since.
 Dialogue: 0,0:09:56.86,0:09:57.74,Default,,0,0,0,,Oh dear.
 Dialogue: 0,0:09:58.11,0:10:01.70,Default,,0,0,0,,Those two are strong fighters, \Nso I'm not necessarily worried, but...
-Dialogue: 0,0:10:01.70,0:10:04.87,Default,,0,0,0,,Ieyasu has absolutely no sense of direction.
-Dialogue: 0,0:10:04.87,0:10:06.12,Default,,0,0,0,,What was that?!
+Dialogue: 0,0:10:01.70,0:10:04.75,Default,,0,0,0,,Ieyasu has absolutely no sense of direction.
+Dialogue: 0,0:10:04.75,0:10:06.12,Default,,0,0,0,,What was that?!
 Dialogue: 0,0:10:06.12,0:10:09.71,Default,,0,0,0,,I wonder if he'll even be able to make it to our meeting place.
 Dialogue: 0,0:10:09.71,0:10:10.71,Default,,0,0,0,,Very well, then.
-Dialogue: 0,0:10:10.71,0:10:11.29,Default,,0,0,0,,Huh?
-Dialogue: 0,0:10:11.29,0:10:13.67,Default,,0,0,0,,I'll put in a good word with a \Nmilitary acquaintance of mine.
+Dialogue: 0,0:10:10.71,0:10:11.34,Default,,0,0,0,,Huh?
+Dialogue: 0,0:10:11.34,0:10:13.71,Default,,0,0,0,,I'll put in a good word with a \Nmilitary acquaintance of mine.
 Dialogue: 0,0:10:14.38,0:10:16.80,Default,,0,0,0,,And I'll request a search for those two, as well.
-Dialogue: 0,0:10:17.55,0:10:18.47,Default,,0,0,0,,Really?
-Dialogue: 0,0:10:19.43,0:10:20.80,Default,,0,0,0,,Thank you so much!
-Dialogue: 0,0:10:20.80,0:10:23.60,Default,,0,0,0,,They say my intuition is rather accurate.
-Dialogue: 0,0:10:23.60,0:10:26.43,Default,,0,0,0,,I daresay you'll see the two of them soon.{lol}
+Dialogue: 0,0:10:17.55,0:10:18.51,Default,,0,0,0,,Really?
+Dialogue: 0,0:10:19.43,0:10:20.85,Default,,0,0,0,,Thank you so much!
+Dialogue: 0,0:10:20.85,0:10:23.60,Default,,0,0,0,,They say my intuition is rather accurate.
+Dialogue: 0,0:10:23.60,0:10:26.48,Default,,0,0,0,,I daresay you'll see the two of them soon.{lol}
 Dialogue: 0,0:10:26.68,0:10:28.02,Default,,0,0,0,,Miss Aria...
 Dialogue: 0,0:10:32.61,0:10:33.77,Default,,0,0,0,,{\i1}I was lucky.
 Dialogue: 0,0:10:33.77,0:10:36.65,Default,,0,0,0,,{\i1}In the end, I was saved by good people.
@@ -452,16 +453,16 @@ Dialogue: 0,0:10:46.66,0:10:48.75,Default,,0,0,0,,Next, let's visit the store ac
 Dialogue: 0,0:10:48.75,0:10:49.87,Default,,0,0,0,,Please wait, my lady!
 Dialogue: 0,0:10:51.75,0:10:54.46,Default,,0,0,0,,Her shopping trips aren't for the faint of heart, I see.
 Dialogue: 0,0:10:55.25,0:10:58.17,Default,,0,0,0,,The sheer volume is getting ridiculous.
-Dialogue: 0,0:10:58.72,0:11:00.43,Default,,0,0,0,,It's not just the young lady.
-Dialogue: 0,0:11:00.43,0:11:02.34,Default,,0,0,0,,All women are like this.
+Dialogue: 0,0:10:58.76,0:11:00.43,Default,,0,0,0,,It's not just the young lady.
+Dialogue: 0,0:11:00.43,0:11:02.39,Default,,0,0,0,,All women are like this.
 Dialogue: 0,0:11:02.72,0:11:04.01,Default,,0,0,0,,Really?
 Dialogue: 0,0:11:04.01,0:11:07.14,Default,,0,0,0,,The ones I know have no trouble choosing clothes.
-Dialogue: 0,0:11:07.14,0:11:08.48,Default,,0,0,0,,It's not like I have anything else!
-Dialogue: 0,0:11:08.48,0:11:09.81,Default,,0,0,0,,But anyway, Tatsumi.
+Dialogue: 0,0:11:07.14,0:11:08.52,Default,,0,0,0,,It's not like I have anything else!
+Dialogue: 0,0:11:08.52,0:11:09.81,Default,,0,0,0,,But anyway, Tatsumi.
 Dialogue: 0,0:11:09.81,0:11:10.39,Default,,0,0,0,,Yes?
 Dialogue: 0,0:11:10.39,0:11:11.44,Default,,0,0,0,,Take a look at that.
-Dialogue: 0,0:11:11.44,0:11:12.19,Default,,0,0,0,,Huh?
-Dialogue: 0,0:11:12.19,0:11:16.48,Default,,0,0,0,,That building in the distance is the imperial palace. \NThe heart of the capital.
+Dialogue: 0,0:11:11.44,0:11:12.23,Default,,0,0,0,,Huh?
+Dialogue: 0,0:11:12.23,0:11:16.48,Default,,0,0,0,,That building in the distance is the imperial palace. \NThe heart of the capital.
 Dialogue: 0,0:11:16.48,0:11:18.19,Default,,0,0,0,,It's huge!
 Dialogue: 0,0:11:18.40,0:11:22.16,Default,,0,0,0,,Is that where the great emperor is? \NThe one who holds the fate of nations in his hand?
 Dialogue: 0,0:11:22.16,0:11:22.99,Default,,0,0,0,,Not quite.
@@ -478,7 +479,7 @@ Dialogue: 0,0:11:45.26,0:11:46.64,Default,,0,0,0,,A mere fact of life in the cap
 Dialogue: 0,0:11:50.39,0:11:52.52,Default,,0,0,0,,But there are also people like those.
 Dialogue: 0,0:11:55.65,0:11:56.94,Default,,0,0,0,,"Night Raid"?
 Dialogue: 0,0:11:56.94,0:12:00.65,Default,,0,0,0,,They're a group of assassins that have been terrorizing the imperial capital.
-Dialogue: 0,0:12:00.65,0:12:04.41,Default,,0,0,0,,As the name suggests, they attack their victims at night.
+Dialogue: 0,0:12:00.65,0:12:04.41,Default,,0,0,0,,As the name suggests, they attack \Ntheir victims under cover of night.
 Dialogue: 0,0:12:04.41,0:12:08.41,Default,,0,0,0,,They mainly target high-ranking executives and the capital's upper class.
 Dialogue: 0,0:12:08.79,0:12:10.54,Default,,0,0,0,,Prepare yourself, just in case.
 Dialogue: 0,0:12:10.54,0:12:11.58,Default,,0,0,0,,Yes, sir.
@@ -489,9 +490,9 @@ Dialogue: 0,0:12:24.76,0:12:25.84,Default,,0,0,0,,Now, then...
 Dialogue: 0,0:12:25.84,0:12:28.43,Default,,0,0,0,,Maybe I'll make another entry in my diary tonight.
 Dialogue: 0,0:12:28.43,0:12:30.68,Default,,0,0,0,,I just can't give up this hobby.
 Dialogue: 0,0:12:33.23,0:12:34.06,Default,,0,0,0,,Eh?
-Dialogue: 0,0:12:46.07,0:12:47.57,Default,,0,0,0,,My apologies.
-Dialogue: 0,0:12:49.12,0:12:50.08,Default,,0,0,0,,What's going on?
-Dialogue: 0,0:12:50.74,0:12:51.83,Default,,0,0,0,,Murderous intent?
+Dialogue: 0,0:12:46.12,0:12:47.57,Default,,0,0,0,,My apologies.
+Dialogue: 0,0:12:49.12,0:12:50.12,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:12:50.74,0:12:51.87,Default,,0,0,0,,Murderous intent?
 Dialogue: 0,0:12:54.29,0:12:55.29,Default,,0,0,0,,{\i1}It can't be.
 Dialogue: 0,0:13:01.05,0:13:02.17,Default,,0,0,0,,{\i1}That's...
 Dialogue: 0,0:13:15.31,0:13:16.77,Default,,0,0,0,,{\i1}Night Raid!
@@ -514,11 +515,11 @@ Dialogue: 0,0:14:20.54,0:14:22.71,Default,,0,0,0,,{\i1}At the very least, I must
 Dialogue: 0,0:14:24.21,0:14:26.01,Default,,0,0,0,,H-Help!
 Dialogue: 0,0:14:26.01,0:14:28.26,Default,,0,0,0,,I have a daughter!
 Dialogue: 0,0:14:28.26,0:14:29.72,Default,,0,0,0,,Calm down.
-Dialogue: 0,0:14:29.72,0:14:31.22,Default,,0,0,0,,You'll see her soon in the next world.
-Dialogue: 0,0:14:31.22,0:14:33.06,Default,,0,0,0,,You'd murder even my daughter?
-Dialogue: 0,0:14:33.06,0:14:34.47,Default,,0,0,0,,Have you no mercy?
-Dialogue: 0,0:14:34.47,0:14:35.60,Default,,0,0,0,,Mercy?
-Dialogue: 0,0:14:36.56,0:14:37.81,Default,,0,0,0,,What's that?
+Dialogue: 0,0:14:29.72,0:14:31.18,Default,,0,0,0,,You'll see her soon in the next world.
+Dialogue: 0,0:14:31.18,0:14:33.06,Default,,0,0,0,,You'd murder even my daughter?
+Dialogue: 0,0:14:33.06,0:14:34.43,Default,,0,0,0,,Have you no mercy?
+Dialogue: 0,0:14:34.43,0:14:35.60,Default,,0,0,0,,Mercy?
+Dialogue: 0,0:14:36.56,0:14:37.77,Default,,0,0,0,,What's that?
 Dialogue: 0,0:14:41.94,0:14:44.27,Default,,0,0,0,,Hurry, my lady! This way!
 Dialogue: 0,0:14:44.27,0:14:45.28,Default,,0,0,0,,What's going on?
 Dialogue: 0,0:14:45.28,0:14:46.90,Default,,0,0,0,,We need to get to the storehouse!
@@ -529,10 +530,10 @@ Dialogue: 0,0:14:54.54,0:14:56.20,Default,,0,0,0,,You came at a good time.
 Dialogue: 0,0:14:56.20,0:14:59.12,Default,,0,0,0,,We will take shelter within the storehouse until the authorities arrive.
 Dialogue: 0,0:14:59.12,0:15:00.79,Default,,0,0,0,,You fend them off until then.
 Dialogue: 0,0:15:01.42,0:15:02.63,Default,,0,0,0,,That's impossible—
-Dialogue: 0,0:15:06.46,0:15:08.09,Default,,0,0,0,,I guess I have no choice!
+Dialogue: 0,0:15:06.42,0:15:08.05,Default,,0,0,0,,I guess I have no choice!
 Dialogue: 0,0:15:10.72,0:15:11.89,Default,,0,0,0,,Not a target.
 Dialogue: 0,0:15:15.72,0:15:16.68,Default,,0,0,0,,Damn!
-Dialogue: 0,0:15:17.72,0:15:18.85,Default,,0,0,0,,Target.
+Dialogue: 0,0:15:17.68,0:15:18.85,Default,,0,0,0,,Target.
 Dialogue: 0,0:15:24.36,0:15:25.36,Default,,0,0,0,,{\i1}Eliminate.
 Dialogue: 0,0:15:39.91,0:15:40.87,Default,,0,0,0,,Eliminate.
 Dialogue: 0,0:15:40.87,0:15:42.17,Default,,0,0,0,,Hold it!
@@ -541,20 +542,20 @@ Dialogue: 0,0:15:46.21,0:15:47.50,Default,,0,0,0,,There is no need to kill you.
 Dialogue: 0,0:15:47.50,0:15:50.01,Default,,0,0,0,,But you intend to kill this girl, don't you?
 Dialogue: 0,0:15:50.01,0:15:50.63,Default,,0,0,0,,Yep.
 Dialogue: 0,0:15:50.63,0:15:51.84,Default,,0,0,0,,"Yep"?!
-Dialogue: 0,0:15:52.05,0:15:53.51,Default,,0,0,0,,If you get in my way, I'll kill you.
+Dialogue: 0,0:15:51.84,0:15:53.51,Default,,0,0,0,,If you get in my way, I'll kill you.
 Dialogue: 0,0:15:53.51,0:15:55.43,Default,,0,0,0,,That doesn't mean I can just leave her!
 Dialogue: 0,0:15:55.43,0:15:56.39,Default,,0,0,0,,Is that so?
 Dialogue: 0,0:15:56.76,0:15:57.85,Default,,0,0,0,,Then I shall eliminate you.
-Dialogue: 0,0:15:58.85,0:16:01.02,Default,,0,0,0,,Ugh, what a mess.
+Dialogue: 0,0:15:58.81,0:16:01.02,Default,,0,0,0,,Ugh, what a mess.
 Dialogue: 0,0:16:02.77,0:16:06.90,Default,,0,0,0,,{\i1}That's odd. Akame hasn't finished them off yet?
-Dialogue: 0,0:16:06.90,0:16:07.98,Default,,0,0,0,,Huh? Wait!
-Dialogue: 0,0:16:07.98,0:16:09.32,Default,,0,0,0,,Oh, man.
+Dialogue: 0,0:16:06.90,0:16:07.94,Default,,0,0,0,,Huh? Wait!
+Dialogue: 0,0:16:07.94,0:16:09.32,Default,,0,0,0,,Oh, man.
 Dialogue: 0,0:16:09.69,0:16:12.61,Default,,0,0,0,,How unlucky can one guy be?
 Dialogue: 0,0:16:14.07,0:16:17.83,Default,,0,0,0,,{\i1}This isn't someone I can defeat in my current state.
 Dialogue: 0,0:16:17.83,0:16:20.79,Default,,0,0,0,,{\i1}But I can't worry about that now.
 Dialogue: 0,0:16:21.04,0:16:23.54,Default,,0,0,0,,{\i1}If I can't even save this one girl,
 Dialogue: 0,0:16:23.54,0:16:25.29,Default,,0,0,0,,{\i1}then how will I save an entire village?
-Dialogue: 0,0:16:33.22,0:16:33.88,Default,,0,0,0,,Oh, crap!
+Dialogue: 0,0:16:33.22,0:16:33.84,Default,,0,0,0,,Oh, crap!
 Dialogue: 0,0:16:37.72,0:16:38.81,Default,,0,0,0,,Tatsumi!
 Dialogue: 0,0:16:46.73,0:16:49.78,Default,,0,0,0,,I figured you'd take me for dead and come closer, but no.
 Dialogue: 0,0:16:49.78,0:16:51.99,Default,,0,0,0,,It didn't feel like I struck flesh.
@@ -563,16 +564,16 @@ Dialogue: 0,0:16:57.49,0:17:00.91,Default,,0,0,0,,{\i1}He took a hit from Akame,
 Dialogue: 0,0:17:00.91,0:17:02.54,Default,,0,0,0,,{\i1}That kid's pretty good.
 Dialogue: 0,0:17:04.25,0:17:05.25,Default,,0,0,0,,Eliminate.
 Dialogue: 0,0:17:06.17,0:17:07.33,Default,,0,0,0,,Wait a second!
-Dialogue: 0,0:17:07.33,0:17:08.92,Default,,0,0,0,,Aren't you guys just here for their money?
-Dialogue: 0,0:17:08.92,0:17:10.46,Default,,0,0,0,,Let her go!
+Dialogue: 0,0:17:07.33,0:17:08.88,Default,,0,0,0,,Aren't you guys just here for their money?
+Dialogue: 0,0:17:08.88,0:17:10.46,Default,,0,0,0,,Let her go!
 Dialogue: 0,0:17:10.46,0:17:11.80,Default,,0,0,0,,This is no war!
 Dialogue: 0,0:17:11.80,0:17:14.05,Default,,0,0,0,,Why would you kill an innocent girl?
 Dialogue: 0,0:17:14.51,0:17:16.89,Default,,0,0,0,,{\i1}It's no use. She isn't listening to anything I say!
-Dialogue: 0,0:17:19.60,0:17:20.56,Default,,0,0,0,,Hold it.
+Dialogue: 0,0:17:19.60,0:17:20.51,Default,,0,0,0,,Hold it.
 Dialogue: 0,0:17:22.31,0:17:23.35,Default,,0,0,0,,What are you doing?
 Dialogue: 0,0:17:23.35,0:17:25.27,Default,,0,0,0,,We still have time, right?
 Dialogue: 0,0:17:25.27,0:17:27.60,Default,,0,0,0,,I kinda owe this kid a favor.
-Dialogue: 0,0:17:27.60,0:17:29.48,Default,,0,0,0,,Might as well repay it.
+Dialogue: 0,0:17:27.60,0:17:29.44,Default,,0,0,0,,Might as well repay it.
 Dialogue: 0,0:17:31.78,0:17:33.49,Default,,0,0,0,,You're those boobs from earlier!
 Dialogue: 0,0:17:33.49,0:17:35.61,Default,,0,0,0,,That's right! The beautiful lady!
 Dialogue: 0,0:17:36.03,0:17:37.07,Default,,0,0,0,,Young man.
@@ -587,17 +588,17 @@ Dialogue: 0,0:18:10.02,0:18:11.19,Default,,0,0,0,,Sayo...
 Dialogue: 0,0:18:11.73,0:18:14.03,Default,,0,0,0,,Hey, Sayo.
 Dialogue: 0,0:18:14.03,0:18:15.19,Default,,0,0,0,,Is that you, Sayo?
 Dialogue: 0,0:18:15.19,0:18:16.99,Default,,0,0,0,,Was that someone you knew?
-Dialogue: 0,0:18:18.66,0:18:19.66,Default,,0,0,0,,Hold on.
+Dialogue: 0,0:18:18.66,0:18:19.70,Default,,0,0,0,,Hold on.
 Dialogue: 0,0:18:20.41,0:18:23.37,Default,,0,0,0,,I don't think you deserve to walk away after this, missy.
 Dialogue: 0,0:18:23.37,0:18:25.29,Default,,0,0,0,,The people of this household did this?
 Dialogue: 0,0:18:25.29,0:18:26.66,Default,,0,0,0,,That's right.
 Dialogue: 0,0:18:26.66,0:18:29.04,Default,,0,0,0,,And since the guards kept quiet, \Nthey were just as guilty.
 Dialogue: 0,0:18:29.04,0:18:29.92,Default,,0,0,0,,That's a lie!
-Dialogue: 0,0:18:29.92,0:18:32.04,Default,,0,0,0,,I didn't even know this place existed!
+Dialogue: 0,0:18:29.92,0:18:32.00,Default,,0,0,0,,I didn't even know this place existed!
 Dialogue: 0,0:18:32.38,0:18:36.17,Default,,0,0,0,,Who will you believe? Your savior or these murderers?
 Dialogue: 0,0:18:37.13,0:18:38.59,Default,,0,0,0,,Tatsumi...
 Dialogue: 0,0:18:39.38,0:18:41.89,Default,,0,0,0,,It's you, right, Tatsumi?
-Dialogue: 0,0:18:42.22,0:18:43.22,Default,,0,0,0,,It's me.
+Dialogue: 0,0:18:42.22,0:18:43.31,Default,,0,0,0,,It's me.
 Dialogue: 0,0:18:44.35,0:18:46.60,Default,,0,0,0,,I-Ieyasu?
 Dialogue: 0,0:18:46.60,0:18:50.19,Default,,0,0,0,,That girl invited Sayo and me to her home.
 Dialogue: 0,0:18:50.19,0:18:52.65,Default,,0,0,0,,But after eating dinner, we lost consciousness.
@@ -610,7 +611,7 @@ Dialogue: 0,0:19:10.17,0:19:12.58,Default,,0,0,0,,I should be free to do whateve
 Dialogue: 0,0:19:12.96,0:19:14.04,Default,,0,0,0,,Not to mention, that woman...
 Dialogue: 0,0:19:14.04,0:19:16.55,Default,,0,0,0,,How dare that cow have the \Nsilky-smooth hair I'd always dreamed of,
 Dialogue: 0,0:19:16.55,0:19:18.47,Default,,0,0,0,,while I struggle with mine every day?!
-Dialogue: 0,0:19:18.88,0:19:21.26,Default,,0,0,0,,That's why I made sure she suffered as much as possible!
+Dialogue: 0,0:19:18.80,0:19:21.26,Default,,0,0,0,,That's why I made sure she suffered as much as possible!
 Dialogue: 0,0:19:21.26,0:19:24.22,Default,,0,0,0,,She should be grateful anyone paid that much attention to her!
 Dialogue: 0,0:19:24.22,0:19:27.27,Default,,0,0,0,,A family of sadists, disguised as good Samaritans.
 Dialogue: 0,0:19:28.31,0:19:30.10,Default,,0,0,0,,Sorry to hold you up.
@@ -626,21 +627,21 @@ Dialogue: 0,0:20:00.38,0:20:02.18,Default,,0,0,0,,Nice one, Tatsumi!
 Dialogue: 0,0:20:02.18,0:20:03.51,Default,,0,0,0,,That's a load off my mind!
 Dialogue: 0,0:20:05.05,0:20:06.14,Default,,0,0,0,,Ieyasu!
 Dialogue: 0,0:20:08.35,0:20:09.31,Default,,0,0,0,,Ieyasu...
-Dialogue: 0,0:20:09.31,0:20:11.14,Default,,0,0,0,,It's the final stages of Lubora.
+Dialogue: 0,0:20:09.31,0:20:11.10,Default,,0,0,0,,It's the final stages of Lubora.
 Dialogue: 0,0:20:11.56,0:20:14.27,Default,,0,0,0,,The lady of the house enjoyed drugging her victims.
 Dialogue: 0,0:20:14.27,0:20:17.48,Default,,0,0,0,,She wrote about it in detail in her diary.
 Dialogue: 0,0:20:17.82,0:20:19.78,Default,,0,0,0,,He cannot be saved.
 Dialogue: 0,0:20:20.61,0:20:22.20,Default,,0,0,0,,Tatsumi...
-Dialogue: 0,0:20:22.20,0:20:22.95,Default,,0,0,0,,Ieyasu!
+Dialogue: 0,0:20:22.20,0:20:22.90,Default,,0,0,0,,Ieyasu!
 Dialogue: 0,0:20:23.20,0:20:26.41,Default,,0,0,0,,Sayo... She never gave in to that bitch.
 Dialogue: 0,0:20:26.41,0:20:28.16,Default,,0,0,0,,She was so cool,
-Dialogue: 0,0:20:28.91,0:20:30.45,Default,,0,0,0,,even at the very end.
+Dialogue: 0,0:20:28.91,0:20:30.41,Default,,0,0,0,,even at the very end.
 Dialogue: 0,0:20:30.91,0:20:33.58,Default,,0,0,0,,That's why I, the great Ieyasu...
 Dialogue: 0,0:20:33.58,0:20:36.54,Default,,0,0,0,,will settle for no less...
 Dialogue: 0,0:20:38.92,0:20:41.88,Default,,0,0,0,,It seems he kept himself alive by willpower alone.
 Dialogue: 0,0:20:43.47,0:20:45.14,Default,,0,0,0,,What's wrong with this city?
 Dialogue: 0,0:20:46.85,0:20:47.39,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:20:47.39,0:20:48.51,Default,,0,0,0,,Hey...
+Dialogue: 0,0:20:47.70,0:20:48.51,Default,,0,0,0,,Hey...
 Dialogue: 0,0:20:49.10,0:20:50.77,Default,,0,0,0,,Why don't we bring the kid with us?
 Dialogue: 0,0:20:53.64,0:20:56.10,Default,,0,0,0,,We can always use an extra hand at our hideout.
 Dialogue: 0,0:20:54.19,0:20:56.44,Default,,0,0,0,,{\an8}What are you doing? Lemme go!
@@ -651,10 +652,10 @@ Dialogue: 0,0:21:02.65,0:21:03.49,Default,,0,0,0,,so don't worry!
 Dialogue: 0,0:21:03.49,0:21:04.15,Default,,0,0,0,,Huh?
 Dialogue: 0,0:21:04.15,0:21:05.07,Default,,0,0,0,,Let go of me!
 Dialogue: 0,0:21:05.07,0:21:05.82,Default,,0,0,0,,You're late!
-Dialogue: 0,0:21:06.11,0:21:07.62,Default,,0,0,0,,What were you doing?
-Dialogue: 0,0:21:07.62,0:21:09.28,Default,,0,0,0,,And what is that thing?
-Dialogue: 0,0:21:09.28,0:21:10.12,Default,,0,0,0,,Our new friend!
-Dialogue: 0,0:21:10.12,0:21:10.99,Default,,0,0,0,,Huh?
+Dialogue: 0,0:21:06.11,0:21:07.57,Default,,0,0,0,,What were you doing?
+Dialogue: 0,0:21:07.57,0:21:09.28,Default,,0,0,0,,And what is that thing?
+Dialogue: 0,0:21:09.28,0:21:10.08,Default,,0,0,0,,Our new friend!
+Dialogue: 0,0:21:10.08,0:21:10.99,Default,,0,0,0,,Huh?
 Dialogue: 0,0:21:10.99,0:21:13.04,Default,,0,0,0,,Oh? Didn't I tell you?
 Dialogue: 0,0:21:13.91,0:21:16.63,Default,,0,0,0,,From now on, you're one of us.
 Dialogue: 0,0:21:17.13,0:21:19.59,Default,,0,0,0,,Welcome to Night Raid!

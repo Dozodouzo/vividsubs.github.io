@@ -17,9 +17,8 @@ Video File: akame03_premux.mkv
 Keyframes File: akame03_premux_keyframes.log
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 549
-Active Line: 554
-Video Position: 31789
+Active Line: 2
+Video Position: 189
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,9 +34,9 @@ Style: shitshoukenji,A&S Harliquin,45,&H00BFD6D2,&H000000FF,&H004F8178,&H8C00000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.16,0:00:04.40,Default,,0,0,0,,How many intruders, and where are they?
-Dialogue: 0,0:00:04.40,0:00:07.77,Default,,0,0,0,,From what I can detect, around eight of them.{he's using the wires from his imperial relic, but they haven't been brought up yet, so best to keep it vague like the jp}
+Dialogue: 0,0:00:04.40,0:00:07.86,Default,,0,0,0,,From what I can detect, around eight of them.{he's using the wires from his imperial relic, but they haven't been brought up yet, so best to keep it vague like the jp}
 Dialogue: 0,0:00:07.86,0:00:10.36,Default,,0,0,0,,They're all in the vicinity of our base.
-Dialogue: 0,0:00:10.52,0:00:13.23,Default,,0,0,0,,I have to commend them for sniffing this place out.
+Dialogue: 0,0:00:10.36,0:00:13.23,Default,,0,0,0,,I have to commend them for sniffing this place out.
 Dialogue: 0,0:00:13.23,0:00:15.20,Default,,0,0,0,,They're probably assassins from outside the empire.
 Dialogue: 0,0:00:15.62,0:00:18.41,Default,,0,0,0,,Move out. Let none escape.
 Dialogue: 0,0:00:22.81,0:00:25.20,Default,,0,0,0,,You're still not used to group combat.

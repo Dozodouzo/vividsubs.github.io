@@ -69,7 +69,7 @@ Dialogue: 10,0:01:43.29,0:01:45.25,Default,,0,0,0,,Yeah, of course.
 Dialogue: 10,0:01:46.63,0:01:47.54,Default,,0,0,0,,Very well.
 Dialogue: 10,0:01:47.97,0:01:49.79,Default,,0,0,0,,This is Night Raid's final mission.
 Dialogue: 10,0:01:50.21,0:01:52.19,Default,,0,0,0,,Eradicate the corruption at its source.
-Dialogue: 10,0:01:52.19,0:01:54.28,Default,,0,0,0,,Take down Prime Minister Onest.
+Dialogue: 10,0:01:52.19,0:01:54.28,Default,,0,0,0,,Take down Prime Minister Honest.
 Dialogue: 10,0:01:58.84,0:02:00.68,Default,,0,0,0,,You'd better come back alive.
 Dialogue: 10,0:02:00.68,0:02:03.08,Default,,0,0,0,,Yeah. I promise.
 Dialogue: 0,0:02:03.93,0:02:03.97,AkameOP2-Eng,,0,0,0,,{first frame of OP}
@@ -233,7 +233,7 @@ Dialogue: 10,0:08:28.94,0:08:30.38,Default,,0,0,0,,A rebel!
 Dialogue: 10,0:08:31.65,0:08:33.57,Default,,0,0,0,,Night Raid...
 Dialogue: 10,0:08:33.57,0:08:36.31,Default,,0,0,0,,What were the palace guards doing?
 Dialogue: 10,0:08:40.49,0:08:42.58,Default,,0,0,0,,No further bodyguards of note.
-Dialogue: 10,0:08:44.00,0:08:46.52,Default,,0,0,0,,The target is Prime Minister Onest.
+Dialogue: 10,0:08:44.00,0:08:46.52,Default,,0,0,0,,The target is Prime Minister Honest.
 Dialogue: 10,0:08:47.02,0:08:47.75,Default,,0,0,0,,Eliminate!
 Dialogue: 10,0:08:55.59,0:08:59.29,Default,,0,0,0,,The ultimate Imperial Relic \Nhas already been activated!
 Dialogue: 10,0:08:59.29,0:09:00.08,Default,,0,0,0,,Take this—
@@ -248,7 +248,7 @@ Dialogue: 10,0:09:22.57,0:09:24.50,Default,,0,0,0,,They... They all died!
 Dialogue: 10,0:09:25.96,0:09:29.16,Default,,0,0,0,,A nation this cruel needs to change!
 Dialogue: 10,0:09:29.16,0:09:30.09,Default,,0,0,0,,Your Majesty,
 Dialogue: 10,0:09:30.09,0:09:33.97,Default,,0,0,0,,you mustn't be deceived by these words.
-Dialogue: 10,0:09:33.97,0:09:35.37,Default,,0,0,0,,Prime Minister Onest.
+Dialogue: 10,0:09:33.97,0:09:35.37,Default,,0,0,0,,Prime Minister Honest.
 Dialogue: 10,0:09:35.37,0:09:38.30,Default,,0,0,0,,It is {\i1}your{\i0} words that have been deceiving him!
 Dialogue: 10,0:09:38.30,0:09:39.79,Default,,0,0,0,,Oh?
 Dialogue: 10,0:09:39.79,0:09:43.72,Default,,0,0,0,,I don't appreciate these false accusations \Nin front of the emperor.

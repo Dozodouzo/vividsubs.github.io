@@ -17,9 +17,9 @@ Video File: akame02_premux.mkv
 Keyframes File: akame02_premux_keyframes.log
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 627
-Active Line: 632
-Video Position: 31775
+Scroll Position: 606
+Active Line: 610
+Video Position: 30048
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,13 +40,13 @@ Dialogue: 5,0:00:06.04,0:00:08.15,Default,,0,0,0,,We'll succeed in the capital a
 Dialogue: 5,0:00:08.15,0:00:10.86,Default,,0,0,0,,Money that'll save this village from poverty!
 Dialogue: 5,0:00:11.45,0:00:13.33,Default,,0,0,0,,{\i1}Or so we said.
 Dialogue: 5,0:00:14.83,0:00:18.41,Default,,0,0,0,,{\i1}But now, it's just me.
-Dialogue: 5,0:00:22.60,0:00:24.37,Default,,0,0,0,,Where'd you come from?!
+Dialogue: 5,0:00:22.60,0:00:24.33,Default,,0,0,0,,Where'd you come from?!
 Dialogue: 5,0:00:24.94,0:00:27.31,Default,,0,0,0,,Have you decided if you want to join us?
 Dialogue: 5,0:00:27.31,0:00:28.58,Default,,0,0,0,,I told you, I—
 Dialogue: 5,0:00:28.58,0:00:31.83,Default,,0,0,0,,You've got a real talent for killing, you know.
-Dialogue: 5,0:00:32.53,0:00:34.97,Default,,0,0,0,,Talent isn't the issue here.
+Dialogue: 5,0:00:32.53,0:00:34.93,Default,,0,0,0,,Talent isn't the issue here.
 Dialogue: 5,0:00:35.56,0:00:36.64,Default,,0,0,0,,It's the killing.
-Dialogue: 5,0:00:38.39,0:00:42.48,Default,,0,0,0,,Anyway, I'll introduce you to the others today!
+Dialogue: 5,0:00:38.35,0:00:42.48,Default,,0,0,0,,Anyway, I'll introduce you to the others today!
 Dialogue: 5,0:00:41.17,0:00:42.48,DefaultAlt,,0,0,0,,My neck!
 Dialogue: 0,0:00:47.77,0:00:47.81,AkameOP-Rom,,0,0,0,,{first frame of OP}
 Dialogue: 0,0:01:00.45,0:01:04.21,AkameOP-Eng,,0,0,0,,{\fad(100,100)\pos(640,695)\bord4\be4}I hid my love deep inside me
@@ -243,12 +243,12 @@ Dialogue: 1,0:01:58.39,0:02:02.89,AkameOP-Rom,,0,0,0,,{\fad(0,100)\c&HHDBDBDB&\3
 Dialogue: 1,0:01:58.39,0:02:02.89,AkameOP-Rom,,0,0,0,,{\fad(0,100)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\move(641.5,26,451.5,26,4350,4450)\clip(1,2,1278,54)}itsuka tadoritsuku sono toki made
 Dialogue: 1,0:02:18.82,0:02:22.24,shit show title,,0,0,0,title ga kill,{\fad(1200,1500)\bord0\blur0.8\c&H2D2E99&\clip(0,211,1280,276)\move(640,270,845,270,1500,3420)}Kill   the   Authority
 Dialogue: 1,0:02:18.82,0:02:22.24,shit show title,,0,0,0,title ga kill,{\fad(1200,1500)\bord0\blur0.8\c&H000000&\clip(0,276,1280,346)\move(640,270,435,270,1500,3420)}Kill   the   Authority
-Dialogue: 5,0:02:22.68,0:02:23.33,Default,,0,0,0,,Eh?
+Dialogue: 5,0:02:22.68,0:02:23.37,Default,,0,0,0,,Eh?
 Dialogue: 5,0:02:23.67,0:02:26.75,Default,,0,0,0,,He's still undecided about joining?
 Dialogue: 5,0:02:26.75,0:02:28.49,Default,,0,0,0,,That's right.
 Dialogue: 5,0:02:28.49,0:02:32.30,Default,,0,0,0,,Sheele, say something encouraging, will you?
 Dialogue: 5,0:02:32.30,0:02:33.50,Default,,0,0,0,,Hmm...
-Dialogue: 5,0:02:33.50,0:02:36.05,Default,,0,0,0,,Now that you know where our hideout is located,
+Dialogue: 5,0:02:33.50,0:02:36.09,Default,,0,0,0,,Now that you know where our hideout is located,
 Dialogue: 5,0:02:36.39,0:02:38.72,Default,,0,0,0,,if you don't join us, we'll have to kill you.
 Dialogue: 5,0:02:39.19,0:02:41.66,Default,,0,0,0,,She's so encouraging I could cry.
 Dialogue: 5,0:02:41.66,0:02:44.35,Default,,0,0,0,,It's an important decision, \Nso think about it carefully.
@@ -259,12 +259,12 @@ Dialogue: 1,0:02:44.35,0:02:47.31,shit show for dummies,,0,0,0,,{\bord0\blur0.6\
 Dialogue: 0,0:02:44.35,0:02:47.31,shit show for dummies,,0,0,0,,{\blur0.6\c&H652922&\b1\frz-46.79\fax-0.32\fsp3\fscx81\fscy81\pos(604,513.667)}For Airheads
 Dialogue: 5,0:02:44.84,0:02:47.31,Default,,0,0,0,,"One Hundred Ways to Cure Being an Airhead"?
 Dialogue: 5,0:02:47.72,0:02:50.40,Default,,0,0,0,,{\i1}They really {\i0}are{\i1} a haven for weirdos.
-Dialogue: 5,0:02:49.02,0:02:50.98,DefaultAlt,,0,0,0,,Hey!
-Dialogue: 5,0:02:50.98,0:02:52.51,Default,,0,0,0,,Wait a second, Leone.
-Dialogue: 5,0:02:53.23,0:02:55.32,Default,,0,0,0,,Why did you let him into our hideout?
+Dialogue: 5,0:02:49.02,0:02:51.02,DefaultAlt,,0,0,0,,Hey!
+Dialogue: 5,0:02:51.02,0:02:52.51,Default,,0,0,0,,Wait a second, Leone.
+Dialogue: 5,0:02:53.27,0:02:55.32,Default,,0,0,0,,Why did you let him into our hideout?
 Dialogue: 5,0:02:55.54,0:02:56.69,Default,,0,0,0,,He's one of us now.
 Dialogue: 5,0:02:56.69,0:02:59.32,Default,,0,0,0,,I don't recall agreeing to that.
-Dialogue: 5,0:02:59.48,0:03:01.16,Default,,0,0,0,,{\i1}Wh-What is this?
+Dialogue: 5,0:02:59.32,0:03:01.16,Default,,0,0,0,,{\i1}Wh-What is this?
 Dialogue: 5,0:03:03.01,0:03:04.56,Default,,0,0,0,,Nope. You fail.
 Dialogue: 5,0:03:04.56,0:03:08.85,Default,,0,0,0,,There's no way you could work with professionals like us.
 Dialogue: 5,0:03:08.85,0:03:10.49,Default,,0,0,0,,Not with a face like that.
@@ -283,8 +283,8 @@ Dialogue: 5,0:03:46.46,0:03:47.45,Default,,0,0,0,,Huh?
 Dialogue: 5,0:03:47.45,0:03:50.79,Default,,0,0,0,,Ah, this is your first time seeing me this way.
 Dialogue: 5,0:03:50.79,0:03:53.04,Default,,0,0,0,,I'm the guy who was covered in armor.
 Dialogue: 5,0:03:54.96,0:03:56.54,Default,,0,0,0,,The name's Bulat. Nice to meet you.
-Dialogue: 5,0:03:57.92,0:03:59.55,Default,,0,0,0,,L-Likewise.
-Dialogue: 5,0:03:59.75,0:04:00.96,Default,,0,0,0,,He's gay.
+Dialogue: 5,0:03:57.81,0:03:59.55,Default,,0,0,0,,L-Likewise.
+Dialogue: 5,0:03:59.55,0:04:00.96,Default,,0,0,0,,He's gay.
 Dialogue: 5,0:04:01.45,0:04:02.34,Default,,0,0,0,,Hey, now.
 Dialogue: 5,0:04:02.72,0:04:05.80,Default,,0,0,0,,Don't give him the wrong idea, okay?
 Dialogue: 5,0:04:05.80,0:04:07.93,Default,,0,0,0,,{\i1}He isn't denying it!{such progressive humor}
@@ -292,7 +292,7 @@ Dialogue: 5,0:04:10.69,0:04:13.39,Default,,0,0,0,,It's almost time for Miss Leon
 Dialogue: 5,0:04:13.98,0:04:17.40,Default,,0,0,0,,For a glimpse of those tits, I'll brave any danger!
 Dialogue: 5,0:04:17.40,0:04:18.65,Default,,0,0,0,,Then...
 Dialogue: 5,0:04:18.96,0:04:21.15,Default,,0,0,0,,How about I break two of your fingers?
-Dialogue: 5,0:04:23.95,0:04:25.67,Default,,0,0,0,,You never learn, Lubbock.
+Dialogue: 5,0:04:23.95,0:04:25.67,Default,,0,0,0,,You never learn, Lubb.
 Dialogue: 5,0:04:25.67,0:04:27.37,Default,,0,0,0,,Damn it! This won't stop me!
 Dialogue: 5,0:04:27.37,0:04:29.57,Default,,0,0,0,,Then I'll break your arm too.
 Dialogue: 5,0:04:30.73,0:04:33.37,Default,,0,0,0,,That aside, this idiot's Lubbock.
@@ -341,14 +341,14 @@ Dialogue: 5,0:06:14.34,0:06:17.34,Default,,0,0,0,,I want your report, along with
 Dialogue: 5,0:06:19.27,0:06:20.31,Default,,0,0,0,,Very well.
 Dialogue: 5,0:06:20.31,0:06:22.19,Default,,0,0,0,,I understand the situation.
 Dialogue: 5,0:06:22.19,0:06:23.37,Default,,0,0,0,,Tatsumi...
-Dialogue: 5,0:06:23.37,0:06:25.36,Default,,0,0,0,,Would you like to join Night Raid?
+Dialogue: 5,0:06:23.37,0:06:25.40,Default,,0,0,0,,Would you like to join Night Raid?
 Dialogue: 5,0:06:25.83,0:06:27.82,Default,,0,0,0,,If I say no, I'm dead, right?
 Dialogue: 5,0:06:27.82,0:06:29.56,Default,,0,0,0,,No, that isn't the case.
 Dialogue: 5,0:06:30.00,0:06:32.23,Default,,0,0,0,,But that doesn't mean we can let you go.
 Dialogue: 5,0:06:32.23,0:06:35.49,Default,,0,0,0,,We'll employ you in our workshop instead.
 Dialogue: 5,0:06:35.49,0:06:38.14,Default,,0,0,0,,Either way, though, we're not going to kill you.
 Dialogue: 5,0:06:38.14,0:06:41.03,Default,,0,0,0,,With that in mind, what do you say?
-Dialogue: 5,0:06:42.39,0:06:43.09,Default,,0,0,0,,I...
+Dialogue: 5,0:06:42.39,0:06:43.13,Default,,0,0,0,,I...
 Dialogue: 5,0:06:44.16,0:06:46.47,Default,,0,0,0,,I was supposed to go to the imperial capital
 Dialogue: 5,0:06:46.47,0:06:49.89,Default,,0,0,0,,and make enough money to save my village from poverty.
 Dialogue: 5,0:06:49.89,0:06:51.49,Default,,0,0,0,,But the capital...
@@ -359,10 +359,10 @@ Dialogue: 5,0:07:00.84,0:07:01.81,Default,,0,0,0,,As a man!
 Dialogue: 5,0:07:02.24,0:07:05.87,Default,,0,0,0,,Bulat was once a skilled imperial soldier.
 Dialogue: 5,0:07:05.87,0:07:09.98,Default,,0,0,0,,But when he discovered the empire's corruption, he joined our ranks.
 Dialogue: 5,0:07:10.66,0:07:15.41,Default,,0,0,0,,Our job is to eliminate the evil in the capital.
-Dialogue: 5,0:07:15.41,0:07:18.66,Default,,0,0,0,,Beats working for a corrupt empire, wouldn't you say?
+Dialogue: 5,0:07:15.41,0:07:19.03,Default,,0,0,0,,Beats working for a corrupt empire, \Nwouldn't you say?
 Dialogue: 5,0:07:19.03,0:07:20.19,Default,,0,0,0,,But...
 Dialogue: 5,0:07:20.19,0:07:24.98,Default,,0,0,0,,You can't change the world just by \Nknocking off a few bad guys.
-Dialogue: 5,0:07:24.98,0:07:28.77,Default,,0,0,0,,You'll never save lesser-known areas like my village this way.
+Dialogue: 5,0:07:24.98,0:07:28.77,Default,,0,0,0,,You'll never save lesser-known areas \Nlike my village this way.
 Dialogue: 5,0:07:28.77,0:07:29.96,Default,,0,0,0,,I see.
 Dialogue: 5,0:07:29.96,0:07:32.85,Default,,0,0,0,,Night Raid might be an even \Nbetter fit for you than you think.
 Dialogue: 5,0:07:32.85,0:07:34.68,Default,,0,0,0,,Wh-Why would that be?
@@ -375,10 +375,10 @@ Dialogue: 5,0:07:51.29,0:07:54.29,Default,,0,0,0,,such as intelligence gathering
 Dialogue: 5,0:07:54.29,0:07:57.19,Default,,0,0,0,,That team is us: Night Raid.
 Dialogue: 5,0:07:58.23,0:08:01.10,Default,,0,0,0,,Though we are currently \Ncharged with mere pest control,
 Dialogue: 5,0:08:01.10,0:08:03.83,Default,,0,0,0,,once we mobilize, \Nwe'll use the ensuing confusion
-Dialogue: 5,0:08:03.83,0:08:07.71,Default,,0,0,0,,to reach the prime minister and crush the empire's corruption at its source.
+Dialogue: 5,0:08:03.83,0:08:07.75,Default,,0,0,0,,to reach the prime minister and crush the empire's corruption at its source.
 Dialogue: 5,0:08:08.29,0:08:10.21,Default,,0,0,0,,Crush it at the source...
-Dialogue: 5,0:08:10.51,0:08:13.63,Default,,0,0,0,,And at that moment, the country will be born anew.
-Dialogue: 5,0:08:15.57,0:08:20.29,Default,,0,0,0,,Will this new country treat its citizens well?
+Dialogue: 5,0:08:10.51,0:08:13.63,Default,,0,0,0,,And at that moment, this nation will be born anew.
+Dialogue: 5,0:08:15.57,0:08:20.29,Default,,0,0,0,,Will this new nation treat its citizens well?
 Dialogue: 5,0:08:20.29,0:08:21.35,Default,,0,0,0,,Of course.
 Dialogue: 5,0:08:21.63,0:08:23.52,Default,,0,0,0,,I see. That's incredible.
 Dialogue: 5,0:08:23.52,0:08:28.23,Default,,0,0,0,,So the killing you do now is basically finding the bad guys and taking out the trash.
@@ -386,22 +386,22 @@ Dialogue: 5,0:08:28.62,0:08:31.90,Default,,0,0,0,,In other words, you're heroic 
 Dialogue: 5,0:08:33.48,0:08:34.70,Default,,0,0,0,,Wh-What is it?
 Dialogue: 5,0:08:35.23,0:08:36.66,Default,,0,0,0,,What's so funny?
 Dialogue: 5,0:08:37.35,0:08:38.77,Default,,0,0,0,,Tatsumi...
-Dialogue: 5,0:08:38.77,0:08:42.58,Default,,0,0,0,,No matter how you spin it, we commit murder.
+Dialogue: 5,0:08:38.77,0:08:42.62,Default,,0,0,0,,No matter how you spin it, we commit murder.
 Dialogue: 5,0:08:42.91,0:08:45.50,Default,,0,0,0,,There's no justice in something like that.
 Dialogue: 5,0:08:45.50,0:08:50.50,Default,,0,0,0,,Any one of us could be executed for our crimes, \Nand none would lift a finger.
 Dialogue: 5,0:08:50.50,0:08:52.76,Default,,0,0,0,,What a naïve fool.
-Dialogue: 5,0:08:52.76,0:08:55.59,Default,,0,0,0,,He could never work with us.
+Dialogue: 5,0:08:52.76,0:08:55.63,Default,,0,0,0,,He could never work with us.
 Dialogue: 5,0:08:55.87,0:08:56.87,Default,,0,0,0,,Wait a second.
 Dialogue: 5,0:08:56.87,0:08:58.01,Default,,0,0,0,,Huh?
 Dialogue: 5,0:08:58.17,0:08:59.17,Default,,0,0,0,,I'm...
 Dialogue: 5,0:08:59.90,0:09:02.58,Default,,0,0,0,,Each one of us has a reason to fight.
 Dialogue: 5,0:09:02.58,0:09:04.35,Default,,0,0,0,,We're all prepared for what could happen.
 Dialogue: 5,0:09:05.12,0:09:07.32,Default,,0,0,0,,Do you have the same resolve?
-Dialogue: 5,0:09:08.60,0:09:10.27,Default,,0,0,0,,I will be compensated, won't I?
-Dialogue: 5,0:09:10.27,0:09:11.26,Default,,0,0,0,,You will.
+Dialogue: 5,0:09:08.60,0:09:10.32,Default,,0,0,0,,I will be compensated, won't I?
+Dialogue: 5,0:09:10.32,0:09:11.26,Default,,0,0,0,,You will.
 Dialogue: 5,0:09:11.26,0:09:14.82,Default,,0,0,0,,If you work hard, I'm sure you'll be able to save your village.{maybe join 169+170}
 Dialogue: 5,0:09:14.82,0:09:16.33,Default,,0,0,0,,Then I'll do it!
-Dialogue: 5,0:09:16.33,0:09:18.03,Default,,0,0,0,,Let me join Night Raid!
+Dialogue: 5,0:09:16.33,0:09:18.07,Default,,0,0,0,,Let me join Night Raid!
 Dialogue: 5,0:09:18.42,0:09:21.20,Default,,0,0,0,,You may never be able to return to that village of yours, you know.
 Dialogue: 5,0:09:21.20,0:09:22.37,Default,,0,0,0,,That's fine.
 Dialogue: 5,0:09:22.37,0:09:25.20,Default,,0,0,0,,As long as everyone there can live happily, it doesn't matter.
@@ -428,8 +428,8 @@ Dialogue: 5,0:10:12.19,0:10:13.05,Default,,0,0,0,,Same here.
 Dialogue: 5,0:10:13.05,0:10:14.80,Default,,0,0,0,,Please!
 Dialogue: 5,0:10:14.80,0:10:16.51,Default,,0,0,0,,{\i1}It's like I'm only here to cook!
 Dialogue: 5,0:10:17.10,0:10:18.26,Default,,0,0,0,,Damn it!
-Dialogue: 5,0:10:18.26,0:10:20.97,Default,,0,0,0,,I'm supposed to be an assassin, \Nbut I've barely left the kitchen!
-Dialogue: 5,0:10:20.97,0:10:22.42,Default,,0,0,0,,No point in complaining.
+Dialogue: 5,0:10:18.26,0:10:20.93,Default,,0,0,0,,I'm supposed to be an assassin, \Nbut I've barely left the kitchen!
+Dialogue: 5,0:10:20.93,0:10:22.42,Default,,0,0,0,,No point in complaining.
 Dialogue: 5,0:10:22.42,0:10:24.64,Default,,0,0,0,,You're with me, and I'm in charge of the food.
 Dialogue: 5,0:10:25.04,0:10:27.93,Default,,0,0,0,,You're only in charge of the food so you can snack on everything, aren't you?
 Dialogue: 5,0:10:27.93,0:10:29.44,Default,,0,0,0,,Of course not.
@@ -444,8 +444,8 @@ Dialogue: 5,0:10:41.82,0:10:44.22,Default,,0,0,0,,Yeah. We're on an emergency as
 Dialogue: 5,0:10:44.22,0:10:44.98,Default,,0,0,0,,An assignment?
 Dialogue: 5,0:10:44.98,0:10:45.58,Default,,0,0,0,,What about me?
 Dialogue: 5,0:10:45.92,0:10:47.08,Default,,0,0,0,,You can hold the fort, newbie!
-Dialogue: 5,0:10:47.08,0:10:49.71,Default,,0,0,0,,Just keep chopping those cucumbers or whatever.
-Dialogue: 5,0:10:50.00,0:10:53.34,Default,,0,0,0,,{\i1}What's {\i0}her{\i1} problem, anyway?
+Dialogue: 5,0:10:47.08,0:10:49.67,Default,,0,0,0,,Just keep chopping those cucumbers or whatever.
+Dialogue: 5,0:10:50.00,0:10:53.29,Default,,0,0,0,,{\i1}What's {\i0}her{\i1} problem, anyway?
 Dialogue: 5,0:10:53.67,0:10:54.63,Default,,0,0,0,,Bye, now!
 Dialogue: 5,0:10:56.56,0:10:57.42,Default,,0,0,0,,Wow.{..}
 Dialogue: 5,0:10:57.42,0:10:58.84,Default,,0,0,0,,This is a nice place.
@@ -455,13 +455,13 @@ Dialogue: 5,0:11:10.45,0:11:10.94,Default,,0,0,0,,Huh?
 Dialogue: 5,0:11:15.26,0:11:16.92,Default,,0,0,0,,Oh, you had a swimsuit on.
 Dialogue: 5,0:11:16.92,0:11:18.73,Default,,0,0,0,,Today, our target is the Koga tuna.
 Dialogue: 5,0:11:18.73,0:11:19.95,Default,,0,0,0,,This is the best location.
-Dialogue: 5,0:11:19.95,0:11:23.20,Default,,0,0,0,,Aren't those fish even harder \Nto catch than they are to find?
+Dialogue: 5,0:11:19.95,0:11:23.16,Default,,0,0,0,,Aren't those fish even harder \Nto catch than they are to find?
 Dialogue: 5,0:11:33.20,0:11:35.25,Default,,0,0,0,,B-Burst fishing?!
 Dialogue: 5,0:11:39.56,0:11:42.06,Default,,0,0,0,,Dive into the depths of the lake and remain absolutely still.
 Dialogue: 5,0:11:42.06,0:11:44.85,Default,,0,0,0,,The moment your prey draws near, you strike.
-Dialogue: 5,0:11:44.85,0:11:46.43,Default,,0,0,0,,Concentration is the key.
+Dialogue: 5,0:11:44.85,0:11:46.39,Default,,0,0,0,,Concentration is the key.
 Dialogue: 5,0:11:47.05,0:11:48.01,Default,,0,0,0,,Can you do it?
-Dialogue: 5,0:11:48.85,0:11:50.73,Default,,0,0,0,,Bring it on!
+Dialogue: 5,0:11:48.85,0:11:50.68,Default,,0,0,0,,Bring it on!
 Dialogue: 5,0:11:51.24,0:11:52.13,Default,,0,0,0,,So...
 Dialogue: 5,0:11:52.13,0:11:55.28,Default,,0,0,0,,In the end, Tatsumi only caught two fish.
 Dialogue: 5,0:11:55.88,0:11:58.95,Default,,0,0,0,,I heard you tore your clothes off \Nand yelled, "Bring it on!"
@@ -469,7 +469,7 @@ Dialogue: 5,0:11:58.95,0:12:00.65,Default,,0,0,0,,You're still far too naïve.
 Dialogue: 5,0:12:00.96,0:12:02.18,Default,,0,0,0,,{\i1}Damn it.
 Dialogue: 5,0:12:02.18,0:12:05.29,Default,,0,0,0,,{\i1}I never know what she's thinking.{maybe join 237+238 and add ellipses}
 Dialogue: 5,0:12:05.29,0:12:06.62,Default,,0,0,0,,{\i1}I really don't understand her.
-Dialogue: 5,0:12:06.83,0:12:09.32,Default,,0,0,0,,All right, Leone. Let's hear this case of yours.
+Dialogue: 5,0:12:06.62,0:12:09.32,Default,,0,0,0,,All right, Leone. Let's hear this case of yours.
 Dialogue: 5,0:12:09.32,0:12:10.12,Default,,0,0,0,,Very well.
 Dialogue: 5,0:12:10.34,0:12:14.70,Default,,0,0,0,,The targets this time are Ogre, of the imperial police, \Nand Gamal, an oil merchant.
 Dialogue: 5,0:12:14.70,0:12:16.29,Default,,0,0,0,,According to our client...
@@ -485,7 +485,7 @@ Dialogue: 5,0:12:42.24,0:12:45.82,Default,,0,0,0,,Thank you so much. Thank you s
 Dialogue: 5,0:12:48.49,0:12:51.30,Default,,0,0,0,,This is the payment.
 Dialogue: 5,0:12:51.30,0:12:52.87,Default,,0,0,0,,That's quite a lot.
 Dialogue: 5,0:12:53.59,0:12:55.04,Default,,0,0,0,,She smelled of disease.
-Dialogue: 5,0:12:55.75,0:12:58.04,Default,,0,0,0,,I imagine she sold her body \Nmany times to earn this.
+Dialogue: 5,0:12:55.75,0:12:58.09,Default,,0,0,0,,I imagine she sold her body \Nmany times to earn this.
 Dialogue: 5,0:12:59.22,0:13:00.14,Default,,0,0,0,,No way...
 Dialogue: 5,0:13:00.14,0:13:01.77,Default,,0,0,0,,Have you verified the case?
 Dialogue: 5,0:13:01.77,0:13:04.02,Default,,0,0,0,,I confirmed her words myself.
@@ -527,11 +527,11 @@ Dialogue: 5,0:14:28.73,0:14:31.01,Default,,0,0,0,,You swung your sword out of ha
 Dialogue: 5,0:14:31.66,0:14:34.85,Default,,0,0,0,,Are you saying you can kill \Nwithout hesitation at any time?
 Dialogue: 5,0:14:35.70,0:14:37.55,Default,,0,0,0,,While we sit here talking,
 Dialogue: 5,0:14:37.55,0:14:41.58,Default,,0,0,0,,he could be out there framing more people, right?
-Dialogue: 5,0:14:41.58,0:14:42.98,Default,,0,0,0,,That's why I have to do something.
+Dialogue: 5,0:14:41.58,0:14:42.94,Default,,0,0,0,,That's why I have to do something.
 Dialogue: 5,0:14:43.46,0:14:46.10,Default,,0,0,0,,More people could unjustly lose their loved ones.
 Dialogue: 5,0:14:46.10,0:14:48.82,Default,,0,0,0,,I can't allow anyone else to go through that pain!
-Dialogue: 5,0:14:49.26,0:14:50.28,Default,,0,0,0,,Then it's decided.
-Dialogue: 5,0:14:50.72,0:14:52.41,Default,,0,0,0,,Tatsumi, prove your words with deeds.
+Dialogue: 5,0:14:49.26,0:14:50.24,Default,,0,0,0,,Then it's decided.
+Dialogue: 5,0:14:50.72,0:14:52.37,Default,,0,0,0,,Tatsumi, prove your words with deeds.
 Dialogue: 5,0:14:52.77,0:14:54.08,Default,,0,0,0,,Eliminate Ogre.
 Dialogue: 5,0:14:54.08,0:14:55.62,Default,,0,0,0,,Nicely said, Tatsumi!
 Dialogue: 5,0:14:55.62,0:14:57.58,Default,,0,0,0,,You show great resolve!
@@ -541,7 +541,7 @@ Dialogue: 5,0:15:01.74,0:15:03.36,Default,,0,0,0,,Roger that.
 Dialogue: 5,0:15:04.31,0:15:05.62,Default,,0,0,0,,How's that, Akame?
 Dialogue: 5,0:15:05.62,0:15:08.09,Default,,0,0,0,,When I say something, I mean it!
 Dialogue: 5,0:15:08.09,0:15:13.23,Default,,0,0,0,,You're not a real assassin until you've completed your first job and made your report.
-Dialogue: 5,0:15:13.23,0:15:15.47,Default,,0,0,0,,If you get too cocky before then,
+Dialogue: 5,0:15:13.23,0:15:15.43,Default,,0,0,0,,If you get too cocky before then,
 Dialogue: 5,0:15:15.76,0:15:16.64,Default,,0,0,0,,you'll die.
 Dialogue: 5,0:15:20.58,0:15:21.90,Default,,0,0,0,,{\i1}Damn it.
 Dialogue: 5,0:15:21.90,0:15:25.58,Default,,0,0,0,,{\i1}I'll finish the job, no matter what, and win their respect with it.
@@ -549,8 +549,8 @@ Dialogue: 5,0:15:28.63,0:15:30.53,Default,,0,0,0,,This is Main Street.
 Dialogue: 5,0:15:31.00,0:15:33.04,Default,,0,0,0,,You have the map memorized, right?
 Dialogue: 5,0:15:33.04,0:15:34.49,Default,,0,0,0,,Yeah. Back to front.
 Dialogue: 5,0:15:35.99,0:15:37.70,Default,,0,0,0,,If you get too cocky before then,
-Dialogue: 5,0:15:38.01,0:15:38.95,Default,,0,0,0,,you'll die.
-Dialogue: 5,0:15:41.92,0:15:45.84,Default,,0,0,0,,Tatsumi, I should tell you about Akame's past.
+Dialogue: 5,0:15:38.01,0:15:38.91,Default,,0,0,0,,you'll die.
+Dialogue: 5,0:15:41.92,0:15:45.79,Default,,0,0,0,,Tatsumi, I should tell you about Akame's past.
 Dialogue: 5,0:15:46.69,0:15:48.14,Default,,0,0,0,,When Akame was a child,
 Dialogue: 5,0:15:48.14,0:15:50.76,Default,,0,0,0,,she and her sister were bought by the empire.
 Dialogue: 5,0:15:51.95,0:15:54.50,Default,,0,0,0,,She was forced into an assassin-training program,
@@ -563,7 +563,7 @@ Dialogue: 5,0:16:13.99,0:16:16.37,Default,,0,0,0,,It was one of her targets—\N
 Dialogue: 5,0:16:16.37,0:16:20.74,Default,,0,0,0,,to defect to the Revolutionary Army, who stood up for the citizens.
 Dialogue: 5,0:16:23.23,0:16:27.46,Default,,0,0,0,,But by that time, most of the comrades she grew up with had died.
 Dialogue: 5,0:16:28.41,0:16:30.01,Default,,0,0,0,,Do you understand what I'm trying to say?
-Dialogue: 5,0:16:30.73,0:16:34.84,Default,,0,0,0,,You think I'm too complacent for a professional killer.
+Dialogue: 5,0:16:30.73,0:16:34.80,Default,,0,0,0,,You think I'm too complacent for a professional killer.
 Dialogue: 5,0:16:36.76,0:16:40.60,Default,,0,0,0,,Well, if you get through today in one piece, \NI'm sure you'll understand.
 Dialogue: 5,0:16:43.77,0:16:45.22,Default,,0,0,0,,Whew!
 Dialogue: 5,0:16:45.22,0:16:47.61,Default,,0,0,0,,Now that I've pissed my worries away,
@@ -599,7 +599,7 @@ Dialogue: 5,0:18:04.38,0:18:07.06,Default,,0,0,0,,Guess you're just not strong e
 Dialogue: 5,0:18:09.71,0:18:10.56,Default,,0,0,0,,{\i1}What speed!
 Dialogue: 5,0:18:10.91,0:18:13.36,Default,,0,0,0,,{\i1}He struck me with everything he had, \Nheedless of his own safety.
 Dialogue: 5,0:18:13.36,0:18:17.32,Default,,0,0,0,,{\i1}I can't believe he dared to \Nraise his blade against me.
-Dialogue: 5,0:18:20.70,0:18:21.83,Default,,0,0,0,,I did it!
+Dialogue: 5,0:18:20.70,0:18:21.78,Default,,0,0,0,,I did it!
 Dialogue: 5,0:18:22.26,0:18:26.58,Default,,0,0,0,,You're not a real assassin until you've completed your first job and made your report.
 Dialogue: 5,0:18:26.92,0:18:28.04,Default,,0,0,0,,Oh, that's right.
 Dialogue: 5,0:18:28.51,0:18:30.55,Default,,0,0,0,,I have to report this at once.
@@ -638,15 +638,15 @@ Dialogue: 5,0:20:26.05,0:20:26.62,Default,,0,0,0,,Huh?
 Dialogue: 5,0:20:28.12,0:20:28.81,Default,,0,0,0,,What is this?
 Dialogue: 5,0:20:28.81,0:20:29.82,Default,,0,0,0,,What are you doing?!
 Dialogue: 5,0:20:29.82,0:20:31.33,Default,,0,0,0,,Leone, Boss, restrain him.
-Dialogue: 5,0:20:31.96,0:20:33.42,Default,,0,0,0,,No!
+Dialogue: 5,0:20:31.96,0:20:33.37,Default,,0,0,0,,No!
 Dialogue: 5,0:20:33.89,0:20:35.11,Default,,0,0,0,,What? What is it?
 Dialogue: 5,0:20:40.74,0:20:41.81,Default,,0,0,0,,Thank goodness.
 Dialogue: 5,0:20:45.90,0:20:48.26,Default,,0,0,0,,I once had a friend who was too proud to report his wounds.
 Dialogue: 5,0:20:48.26,0:20:51.13,Default,,0,0,0,,They were poisoned, and he died.
 Dialogue: 5,0:20:51.13,0:20:53.31,Default,,0,0,0,,I'm glad to see you're unhurt.
-Dialogue: 5,0:20:53.56,0:20:56.23,Default,,0,0,0,,First missions have a high mortality rate.
-Dialogue: 5,0:20:56.64,0:20:57.61,Default,,0,0,0,,You've done well.
-Dialogue: 5,0:20:57.82,0:20:59.76,Default,,0,0,0,,Th-Thanks.
+Dialogue: 5,0:20:53.31,0:20:56.23,Default,,0,0,0,,First missions have a high mortality rate.
+Dialogue: 5,0:20:56.64,0:20:57.56,Default,,0,0,0,,You've done well.
+Dialogue: 5,0:20:57.56,0:20:59.76,Default,,0,0,0,,Th-Thanks.
 Dialogue: 5,0:21:02.55,0:21:06.76,Default,,0,0,0,,Akame was hard on you because she didn't want you to die.
 Dialogue: 5,0:21:07.24,0:21:09.33,Default,,0,0,0,,Cooking is all about communication,
 Dialogue: 5,0:21:09.83,0:21:12.34,Default,,0,0,0,,and hunting prey is the most \Nbasic element of assassination.

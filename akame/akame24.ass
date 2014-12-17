@@ -10,18 +10,19 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Last Style Storage: akame
+Last Style Storage: a thing
 Audio File: akame24_premux.mkv
 Video File: akame24_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.250000
-Video Position: 214
+Video Zoom Percent: 1.000000
+Active Line: 5
+Video Position: 551
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Sub Alegreya,51,&H00F0FDFB,&H000000FF,&H00241616,&HDC001A12,-1,0,0,0,99,100,0.3,0,1,2.6,1.2,2,160,160,42,1
-Style: DefaultAlt,Sub Alegreya,51,&H00F8F9FF,&H000000FF,&H000F0626,&HDC0B0425,-1,0,0,0,99,100,0.3,0,1,2.6,1.2,2,160,160,42,1
+Style: Default,Sub Alegreya,51,&H00F8F9FF,&H000000FF,&H000F0626,&HDC0B0425,-1,0,0,0,99,100,0.6,0,1,2.8,1.2,2,160,160,42,1
+Style: DefaultAlt,Sub Alegreya,51,&H00F0FDFB,&H000000FF,&H00241616,&HDC001A12,-1,0,0,0,99,100,0.6,0,1,2.8,1.2,2,160,160,42,1
 Style: AkameOP2-Rom,Dominican,45,&H00A56220,&H000000FF,&H00A56220,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,20,1
 Style: AkameOP2-Eng,City Life,45,&H00A56220,&H000000FF,&H00A56220,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,20,1
 Style: AkameED2-Rom,Angelina,48,&H00424444,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,1.5,0,1,1.5,0,8,10,10,22,1
