@@ -190,22 +190,22 @@ Dialogue: 2,0:01:24.82,0:01:29.61,AkameOP-Rom,,0,0,0,,{\fad(0,100)\blur0.5\clip(
 Dialogue: 2,0:01:24.82,0:01:29.61,AkameOP-Rom,,0,0,0,,{\fad(0,100)\c&H2F2FAD&\clip(1,2,1278,54)\blur0.5\move(640,25,450,25,4650,4750)}ano hi senmei ni egaita kawaranai yume wa
 Dialogue: 1,0:01:24.82,0:01:29.61,AkameOP-Rom,,0,0,0,,{\fad(0,100)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\move(641.5,26,851.5,26,4650,4750)\clip(1,54,1278,100)}ano hi senmei ni egaita kawaranai yume wa
 Dialogue: 1,0:01:24.82,0:01:29.61,AkameOP-Rom,,0,0,0,,{\fad(0,100)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\move(641.5,26,451.5,26,4650,4750)\clip(1,2,1278,54)}ano hi senmei ni egaita kawaranai yume wa
-Dialogue: 0,0:01:29.90,0:01:35.53,AkameOP-Eng,,0,0,0,,{\fad(100,100)\pos(640,695)\bord4\be4}and now they will rise from the ruins of my heart
-Dialogue: 2,0:01:29.90,0:01:35.53,AkameOP-Eng,,0,0,0,,{\fad(100,100)\pos(640,695)\blur0.5}and now they will rise from the ruins of my heart
-Dialogue: 2,0:01:29.90,0:01:35.53,AkameOP-Eng,,0,0,0,,{\fad(100,100)\pos(640,695)\c&H2F2FAD&\clip(1,605,1278,673)\blur0.5}and now they will rise from the ruins of my heart
-Dialogue: 1,0:01:29.90,0:01:35.53,AkameOP-Eng,,0,0,0,,{\fad(100,100)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\pos(641.5,696)}and now they will rise from the ruins of my heart
-Dialogue: 0,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\bord4\be4\move(450,25,640,25,0,100)\clip(1,54,1278,100)}umeta genkai mo kanarazu koete yuku kara
-Dialogue: 0,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\bord4\be4\move(850,25,640,25,0,100)\clip(1,2,1278,54)}umeta genkai mo kanarazu koete yuku kara
-Dialogue: 2,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\blur0.5\clip(1,54,1278,100)\move(450,25,640,25,0,100)}umeta genkai mo kanarazu koete yuku kara
-Dialogue: 2,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\c&H2F2FAD&\clip(1,2,1278,54)\blur0.5\move(850,25,640,25,0,100)}umeta genkai mo kanarazu koete yuku kara
-Dialogue: 1,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\move(451.5,26,641.5,26,0,100)\clip(1,54,1278,100)}umeta genkai mo kanarazu koete yuku kara
-Dialogue: 1,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\move(851.5,26,641.5,26,0,100)\clip(1,2,1278,54)}umeta genkai mo kanarazu koete yuku kara
-Dialogue: 0,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\bord4\be4\move(640,25,850,25,5300,5400)\clip(1,54,1278,100)}umeta genkai mo kanarazu koete yuku kara
-Dialogue: 0,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\bord4\be4\move(640,25,450,25,5300,5400)\clip(1,2,1278,54)}umeta genkai mo kanarazu koete yuku kara
-Dialogue: 2,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\blur0.5\clip(1,54,1278,100)\move(640,25,850,25,5300,5400)}umeta genkai mo kanarazu koete yuku kara
-Dialogue: 2,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\c&H2F2FAD&\clip(1,2,1278,54)\blur0.5\move(640,25,450,25,5300,5400)}umeta genkai mo kanarazu koete yuku kara
-Dialogue: 1,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\move(641.5,26,851.5,26,5300,5400)\clip(1,54,1278,100)}umeta genkai mo kanarazu koete yuku kara
-Dialogue: 1,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\move(641.5,26,451.5,26,5300,5400)\clip(1,2,1278,54)}umeta genkai mo kanarazu koete yuku kara
+Dialogue: 0,0:01:29.90,0:01:35.53,AkameOP-Eng,,0,0,0,,{\fad(100,100)\pos(640,695)\bord4\be4}and they will let me overcome my limitations
+Dialogue: 2,0:01:29.90,0:01:35.53,AkameOP-Eng,,0,0,0,,{\fad(100,100)\pos(640,695)\blur0.5}and they will let me overcome my limitations
+Dialogue: 2,0:01:29.90,0:01:35.53,AkameOP-Eng,,0,0,0,,{\fad(100,100)\pos(640,695)\c&H2F2FAD&\clip(1,605,1278,673)\blur0.5}and they will let me overcome my limitations
+Dialogue: 1,0:01:29.90,0:01:35.53,AkameOP-Eng,,0,0,0,,{\fad(100,100)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\pos(641.5,696)}and they will let me overcome my limitations
+Dialogue: 0,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\bord4\be4\move(450,25,640,25,0,100)\clip(1,54,1278,100)}fureta genkai mo kanarazu koete yuku kara
+Dialogue: 0,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\bord4\be4\move(850,25,640,25,0,100)\clip(1,2,1278,54)}fureta genkai mo kanarazu koete yuku kara
+Dialogue: 2,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\blur0.5\clip(1,54,1278,100)\move(450,25,640,25,0,100)}fureta genkai mo kanarazu koete yuku kara
+Dialogue: 2,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\c&H2F2FAD&\clip(1,2,1278,54)\blur0.5\move(850,25,640,25,0,100)}fureta genkai mo kanarazu koete yuku kara
+Dialogue: 1,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\move(451.5,26,641.5,26,0,100)\clip(1,54,1278,100)}fureta genkai mo kanarazu koete yuku kara
+Dialogue: 1,0:01:29.90,0:01:30.07,AkameOP-Rom,,0,0,0,,{\fad(100,0)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\move(851.5,26,641.5,26,0,100)\clip(1,2,1278,54)}fureta genkai mo kanarazu koete yuku kara
+Dialogue: 0,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\bord4\be4\move(640,25,850,25,5300,5400)\clip(1,54,1278,100)}fureta genkai mo kanarazu koete yuku kara
+Dialogue: 0,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\bord4\be4\move(640,25,450,25,5300,5400)\clip(1,2,1278,54)}fureta genkai mo kanarazu koete yuku kara
+Dialogue: 2,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\blur0.5\clip(1,54,1278,100)\move(640,25,850,25,5300,5400)}fureta genkai mo kanarazu koete yuku kara
+Dialogue: 2,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\c&H2F2FAD&\clip(1,2,1278,54)\blur0.5\move(640,25,450,25,5300,5400)}fureta genkai mo kanarazu koete yuku kara
+Dialogue: 1,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\move(641.5,26,851.5,26,5300,5400)\clip(1,54,1278,100)}fureta genkai mo kanarazu koete yuku kara
+Dialogue: 1,0:01:30.07,0:01:35.53,AkameOP-Rom,,0,0,0,,{\fad(0,100)\c&HHDBDBDB&\3c&H000000&\bord0.4\be2\move(641.5,26,451.5,26,5300,5400)\clip(1,2,1278,54)}fureta genkai mo kanarazu koete yuku kara
 Dialogue: 0,0:01:36.08,0:01:40.08,AkameOP-Eng,,0,0,0,,{\fad(100,100)\pos(640,695)\bord4\be4}You will hear my indomitable voice
 Dialogue: 2,0:01:36.08,0:01:40.08,AkameOP-Eng,,0,0,0,,{\fad(100,100)\pos(640,695)\blur0.5}You will hear my indomitable voice
 Dialogue: 2,0:01:36.08,0:01:40.08,AkameOP-Eng,,0,0,0,,{\fad(100,100)\pos(640,695)\c&H2F2FAD&\clip(1,605,1278,673)\blur0.5}You will hear my indomitable voice

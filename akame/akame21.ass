@@ -102,10 +102,10 @@ Dialogue: 0,0:02:36.08,0:02:45.63,AkameOP2-Eng,,0,0,0,,{\fad(150,150)\blur4\bord
 Dialogue: 2,0:02:36.08,0:02:45.63,AkameOP2-Eng,,0,0,0,,{\fad(150,150)\blur0.5\bord0\c&HFFFFFF&\fax-0.15}I draw my sword so that I will never lose anything again
 Dialogue: 1,0:02:36.08,0:02:45.63,AkameOP2-Rom,,0,0,0,,{\fad(150,150)\bord2\blur4}kore ijou nani hitotsu nakusanai you ni katana wo nuku
 Dialogue: 3,0:02:36.08,0:02:45.63,AkameOP2-Rom,,0,0,0,,{\fad(150,150)\bord0\blur0.5\c&HFFFFFF&}kore ijou nani hitotsu nakusanai you ni katana wo nuku
-Dialogue: 0,0:02:46.64,0:02:51.39,AkameOP2-Eng,,0,0,0,,{\fad(150,150)\blur4\bord2\fax-0.15}Here in the dark my smile is stained with nihilism
-Dialogue: 2,0:02:46.64,0:02:51.39,AkameOP2-Eng,,0,0,0,,{\fad(150,150)\blur0.5\bord0\c&HFFFFFF&\fax-0.15}Here in the dark my smile is stained with nihilism
-Dialogue: 1,0:02:46.64,0:02:51.39,AkameOP2-Rom,,0,0,0,,{\fad(150,150)\bord2\blur4}yami ni kyomu de yogoreta egao
-Dialogue: 3,0:02:46.64,0:02:51.39,AkameOP2-Rom,,0,0,0,,{\fad(150,150)\bord0\blur0.5\c&HFFFFFF&}yami ni kyomu de yogoreta egao
+Dialogue: 0,0:02:46.64,0:02:51.39,AkameOP2-Eng,,0,0,0,,{\fad(150,150)\blur4\bord2\fax-0.15}Here in the dark my smile is stained with wrath
+Dialogue: 2,0:02:46.64,0:02:51.39,AkameOP2-Eng,,0,0,0,,{\fad(150,150)\blur0.5\bord0\c&HFFFFFF&\fax-0.15}Here in the dark my smile is stained with wrath
+Dialogue: 1,0:02:46.64,0:02:51.39,AkameOP2-Rom,,0,0,0,,{\fad(150,150)\bord2\blur4}yami ni houmure yogoreta egao
+Dialogue: 3,0:02:46.64,0:02:51.39,AkameOP2-Rom,,0,0,0,,{\fad(150,150)\bord0\blur0.5\c&HFFFFFF&}yami ni houmure yogoreta egao
 Dialogue: 0,0:02:51.39,0:02:56.52,AkameOP2-Eng,,0,0,0,,{\fad(150,150)\blur4\bord2\fax-0.15}My endless rage has no outlet
 Dialogue: 2,0:02:51.39,0:02:56.52,AkameOP2-Eng,,0,0,0,,{\fad(150,150)\blur0.5\bord0\c&HFFFFFF&\fax-0.15}My endless rage has no outlet
 Dialogue: 1,0:02:51.39,0:02:56.52,AkameOP2-Rom,,0,0,0,,{\fad(150,150)\bord2\blur4}yariba no nai ikari hanate
