@@ -18,10 +18,10 @@ Video File: amagi10_premux.mkv
 Keyframes File: amagi10_wr_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.250000
-Scroll Position: 2124
-Active Line: 2138
-Video Position: 23556
+Video Zoom Percent: 1.000000
+Scroll Position: 2161
+Active Line: 2164
+Video Position: 25843
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1211,7 +1211,7 @@ Dialogue: 10,0:06:13.64,0:06:15.35,Default,,0,0,0,,Cheers!
 Dialogue: 10,0:06:16.90,0:06:18.14,Default,,0,0,0,,Lord Moffle?
 Dialogue: 10,0:06:18.14,0:06:21.07,Default,,0,0,0,,{\an8}I'm getting a bit of a beer belly!
 Dialogue: 10,0:06:21.07,0:06:24.48,Default,,0,0,0,,{\an8}But you know, women are attracted to guys with some meat on their bones.
-Dialogue: 10,0:06:21.45,0:06:24.03,Default,,0,0,0,,We {\i1}are{\i0} getting more visitors, 
+Dialogue: 10,0:06:21.45,0:06:24.03,Default,,0,0,0,,We {\i1}are{\i0} getting more visitors,
 Dialogue: 10,0:06:24.03,0:06:25.16,Default,,0,0,0,,but...
 Dialogue: 10,0:06:24.48,0:06:25.77,Default,,0,0,0,,{\an8}You've got a silver tongue, man!
 Dialogue: 10,0:06:25.77,0:06:28.94,Default,,0,0,0,,{\an8}I'm gonna pound down mug after mug and drown myself in bitches!
@@ -2223,8 +2223,8 @@ Dialogue: 10,0:17:46.23,0:17:46.98,Default,,0,0,0,,Bow.
 Dialogue: 0,0:17:51.04,0:17:52.25,This Fucking Whiteboard,,0,0,0,,{\fax0.1\blur2\frz354.1\fscx76\fscy76\c&HFFFFFF&\1a&HE1&\pos(924,281)}Summer break \Nis here!
 Dialogue: 1,0:17:51.04,0:17:52.25,This Fucking Whiteboard,,0,0,0,,{\fax0.1\blur1\frz354.1\fscx76\fscy76\c&HFFFFFF&\1a&HBD&\pos(924,281)}Summer break \Nis here!
 Dialogue: 0,0:17:52.25,0:17:53.59,This Fucking Whiteboard,,0,0,0,,{\shad2\blur1.2\c&HF6F6E5&\b1\frz25.06\4c&HB6B096&\pos(465,595)\fscx247\fscy247}Summer
-Dialogue: 0,0:17:55.05,0:17:58.47,Park Square / Square Park,,0,0,0,,{\fad(2276,0)\blur0.5\fscx68\fscy68\c&H62A298&\4c&H16241F&\pos(548,162.4)\4a&HE1&\shad2\t(0,2276,1,\4a&H20&)}Amagi
-Dialogue: 0,0:17:55.05,0:17:58.47,Park Square / Square Park,,0,0,0,,{\fad(2276,0)\blur0.5\fscx68\fscy68\c&H62A298&\4c&H16241F&\pos(637,132)\4a&HE1&\shad2\t(0,2276,1,\4a&H20&)}Brilliant
+Dialogue: 0,0:17:55.05,0:17:58.47,Park Square / Square Park,,0,0,0,,{\fad(2276,0)\blur0.5\fscx68\fscy68\c&H62A298&\4c&H16241F&\pos(537,162.4)\4a&HE1&\shad2\t(0,2276,1,\4a&H20&)}Brilliant
+Dialogue: 0,0:17:55.05,0:17:58.47,Park Square / Square Park,,0,0,0,,{\fad(2276,0)\blur0.5\fscx68\fscy68\c&H62A298&\4c&H16241F&\pos(637,132)\4a&HE1&\shad2\t(0,2276,1,\4a&H20&)}Amagi
 Dialogue: 0,0:17:55.05,0:17:58.47,Park Square / Square Park,,0,0,0,,{\fad(2276,0)\blur0.5\fscx68\fscy68\c&H62A298&\4c&H16241F&\pos(715,163.6)\4a&HE1&\shad2\t(0,2276,1,\4a&H20&)}Park
 Dialogue: 0,0:17:55.05,0:17:58.47,So it comes to this...,,0,0,0,,{\fad(2276,0)\blur0.8\fscx68\fscy68\pos(638,308)\c&H3B3D15&}Closed for the day.
 Dialogue: 0,0:17:55.05,0:17:58.47,So it comes to this...,,0,0,0,,{\fad(2276,0)\blur0.8\c&H313411&\pos(642,485)\fscx53\fscy53}We await your next visit.
