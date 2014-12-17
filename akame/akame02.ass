@@ -726,21 +726,21 @@ Dialogue: 2,0:22:32.45,0:22:37.12,AkameED-Rom,,0,0,0,,{\bord2.5\blur0.9\3c&HFFFF
 Dialogue: 3,0:22:32.45,0:22:37.12,AkameED-Rom,,0,0,0,,{\fad(200,200)\bord1.5\blur0.6\3c&H121212&\c&H000000&\3a&H00&\fscx100\1a&HFF&}musekinin yo shitteru
 Dialogue: 1,0:22:32.45,0:22:37.12,AkameED-Rom,,0,0,0,,{\fad(200,200)\bord2\blur5\fscx100\c&HF3F3F3&\1a&HFF&\t(0,200,3,\1a&H00&)\t(4470,4515,\1a&HFF&)}musekinin yo shitteru
 Dialogue: 0,0:22:32.45,0:22:37.12,AkameED-Rom,,0,0,0,,{\bord4\blur6\fscx100\alpha&HFF&\t(0,200,1.3,\alpha&H50&)\t(4470,0,0.7,\alpha&HFF&)}musekinin yo shitteru
-Dialogue: 4,0:22:37.87,0:22:40.67,AkameED-Eng,,0,0,0,,{\fscx100\blur0.9\c&HF9F9F9&\alpha&HFF&\t(0,200,1.3,\alpha&H00&)\t(2600,0,0.7,\alpha&HFF&)}I have to atone for my sins
-Dialogue: 2,0:22:37.87,0:22:40.67,AkameED-Eng,,0,0,0,,{\bord2.5\blur0.9\3c&HFFFFFF&\3a&HFF&\fscx100\1a&HFF&\t(0,200,3,\1a&H00&\3a&H00&)\t(2600,2645,\1a&HFF&\3a&HFF&)}I have to atone for my sins
-Dialogue: 3,0:22:37.87,0:22:40.67,AkameED-Eng,,0,0,0,,{\fad(200,200)\bord1.5\blur0.6\3c&H121212&\c&H000000&\3a&H00&\fscx100\1a&HFF&}I have to atone for my sins
-Dialogue: 1,0:22:37.87,0:22:40.67,AkameED-Eng,,0,0,0,,{\fad(200,200)\bord2\blur5\fscx100\c&HF3F3F3&\1a&HFF&\t(0,200,3,\1a&H00&)\t(2600,2645,\1a&HFF&)}I have to atone for my sins
-Dialogue: 0,0:22:37.87,0:22:40.67,AkameED-Eng,,0,0,0,,{\bord4\blur6\fscx100\alpha&HFF&\t(0,200,1.3,\alpha&H50&)\t(2600,0,0.7,\alpha&HFF&)}I have to atone for my sins
-Dialogue: 4,0:22:37.87,0:22:40.67,AkameED-Rom,,0,0,0,,{\fscx100\blur0.9\c&HF9F9F9&\alpha&HFF&\t(0,200,1.3,\alpha&H00&)\t(2600,0,0.7,\alpha&HFF&)}tsugunakya atashi wa
-Dialogue: 2,0:22:37.87,0:22:40.67,AkameED-Rom,,0,0,0,,{\bord2.5\blur0.9\3c&HFFFFFF&\3a&HFF&\fscx100\1a&HFF&\t(0,200,3,\1a&H00&\3a&H00&)\t(2600,2645,\1a&HFF&\3a&HFF&)}tsugunakya atashi wa
-Dialogue: 3,0:22:37.87,0:22:40.67,AkameED-Rom,,0,0,0,,{\fad(200,200)\bord1.5\blur0.6\3c&H121212&\c&H000000&\3a&H00&\fscx100\1a&HFF&}tsugunakya atashi wa
-Dialogue: 1,0:22:37.87,0:22:40.67,AkameED-Rom,,0,0,0,,{\fad(200,200)\bord2\blur5\fscx100\c&HF3F3F3&\1a&HFF&\t(0,200,3,\1a&H00&)\t(2600,2645,\1a&HFF&)}tsugunakya atashi wa
-Dialogue: 0,0:22:37.87,0:22:40.67,AkameED-Rom,,0,0,0,,{\bord4\blur6\fscx100\alpha&HFF&\t(0,200,1.3,\alpha&H50&)\t(2600,0,0.7,\alpha&HFF&)}tsugunakya atashi wa
-Dialogue: 4,0:22:40.67,0:22:43.25,AkameED-Eng,,0,0,0,,{\fscx100\blur0.9\c&HF9F9F9&\alpha&HFF&\t(0,200,1.3,\alpha&H00&)\t(2380,0,0.7,\alpha&HFF&)}There is no reason for me to be alive
-Dialogue: 2,0:22:40.67,0:22:43.25,AkameED-Eng,,0,0,0,,{\bord2.5\blur0.9\3c&HFFFFFF&\3a&HFF&\fscx100\1a&HFF&\t(0,200,3,\1a&H00&\3a&H00&)\t(2380,2425,\1a&HFF&\3a&HFF&)}There is no reason for me to be alive
-Dialogue: 3,0:22:40.67,0:22:43.25,AkameED-Eng,,0,0,0,,{\fad(200,200)\bord1.5\blur0.6\3c&H121212&\c&H000000&\3a&H00&\fscx100\1a&HFF&}There is no reason for me to be alive
-Dialogue: 1,0:22:40.67,0:22:43.25,AkameED-Eng,,0,0,0,,{\fad(200,200)\bord2\blur5\fscx100\c&HF3F3F3&\1a&HFF&\t(0,200,3,\1a&H00&)\t(2380,2425,\1a&HFF&)}There is no reason for me to be alive
-Dialogue: 0,0:22:40.67,0:22:43.25,AkameED-Eng,,0,0,0,,{\bord4\blur6\fscx100\alpha&HFF&\t(0,200,1.3,\alpha&H50&)\t(2380,0,0.7,\alpha&HFF&)}There is no reason for me to be alive
+Dialogue: 4,0:22:37.87,0:22:40.67,AkameED-Eng,,0,0,0,,{\fscx100\blur0.9\c&HF9F9F9&\alpha&HFF&\t(0,200,1.3,\alpha&H00&)\t(2600,0,0.7,\alpha&HFF&)}I have to be strong
+Dialogue: 2,0:22:37.87,0:22:40.67,AkameED-Eng,,0,0,0,,{\bord2.5\blur0.9\3c&HFFFFFF&\3a&HFF&\fscx100\1a&HFF&\t(0,200,3,\1a&H00&\3a&H00&)\t(2600,2645,\1a&HFF&\3a&HFF&)}I have to be strong
+Dialogue: 3,0:22:37.87,0:22:40.67,AkameED-Eng,,0,0,0,,{\fad(200,200)\bord1.5\blur0.6\3c&H121212&\c&H000000&\3a&H00&\fscx100\1a&HFF&}I have to be strong
+Dialogue: 1,0:22:37.87,0:22:40.67,AkameED-Eng,,0,0,0,,{\fad(200,200)\bord2\blur5\fscx100\c&HF3F3F3&\1a&HFF&\t(0,200,3,\1a&H00&)\t(2600,2645,\1a&HFF&)}I have to be strong
+Dialogue: 0,0:22:37.87,0:22:40.67,AkameED-Eng,,0,0,0,,{\bord4\blur6\fscx100\alpha&HFF&\t(0,200,1.3,\alpha&H50&)\t(2600,0,0.7,\alpha&HFF&)}I have to be strong
+Dialogue: 4,0:22:37.87,0:22:40.67,AkameED-Rom,,0,0,0,,{\fscx100\blur0.9\c&HF9F9F9&\alpha&HFF&\t(0,200,1.3,\alpha&H00&)\t(2600,0,0.7,\alpha&HFF&)}tsuyoku nakya atashi wa
+Dialogue: 2,0:22:37.87,0:22:40.67,AkameED-Rom,,0,0,0,,{\bord2.5\blur0.9\3c&HFFFFFF&\3a&HFF&\fscx100\1a&HFF&\t(0,200,3,\1a&H00&\3a&H00&)\t(2600,2645,\1a&HFF&\3a&HFF&)}tsuyoku nakya atashi wa
+Dialogue: 3,0:22:37.87,0:22:40.67,AkameED-Rom,,0,0,0,,{\fad(200,200)\bord1.5\blur0.6\3c&H121212&\c&H000000&\3a&H00&\fscx100\1a&HFF&}tsuyoku nakya atashi wa
+Dialogue: 1,0:22:37.87,0:22:40.67,AkameED-Rom,,0,0,0,,{\fad(200,200)\bord2\blur5\fscx100\c&HF3F3F3&\1a&HFF&\t(0,200,3,\1a&H00&)\t(2600,2645,\1a&HFF&)}tsuyoku nakya atashi wa
+Dialogue: 0,0:22:37.87,0:22:40.67,AkameED-Rom,,0,0,0,,{\bord4\blur6\fscx100\alpha&HFF&\t(0,200,1.3,\alpha&H50&)\t(2600,0,0.7,\alpha&HFF&)}tsuyoku nakya atashi wa
+Dialogue: 4,0:22:40.67,0:22:43.25,AkameED-Eng,,0,0,0,,{\fscx100\blur0.9\c&HF9F9F9&\alpha&HFF&\t(0,200,1.3,\alpha&H00&)\t(2380,0,0.7,\alpha&HFF&)}Or there is no reason for me to be alive
+Dialogue: 2,0:22:40.67,0:22:43.25,AkameED-Eng,,0,0,0,,{\bord2.5\blur0.9\3c&HFFFFFF&\3a&HFF&\fscx100\1a&HFF&\t(0,200,3,\1a&H00&\3a&H00&)\t(2380,2425,\1a&HFF&\3a&HFF&)}Or there is no reason for me to be alive
+Dialogue: 3,0:22:40.67,0:22:43.25,AkameED-Eng,,0,0,0,,{\fad(200,200)\bord1.5\blur0.6\3c&H121212&\c&H000000&\3a&H00&\fscx100\1a&HFF&}Or there is no reason for me to be alive
+Dialogue: 1,0:22:40.67,0:22:43.25,AkameED-Eng,,0,0,0,,{\fad(200,200)\bord2\blur5\fscx100\c&HF3F3F3&\1a&HFF&\t(0,200,3,\1a&H00&)\t(2380,2425,\1a&HFF&)}Or there is no reason for me to be alive
+Dialogue: 0,0:22:40.67,0:22:43.25,AkameED-Eng,,0,0,0,,{\bord4\blur6\fscx100\alpha&HFF&\t(0,200,1.3,\alpha&H50&)\t(2380,0,0.7,\alpha&HFF&)}Or there is no reason for me to be alive
 Dialogue: 4,0:22:40.67,0:22:43.25,AkameED-Rom,,0,0,0,,{\fscx100\blur0.9\c&HF9F9F9&\alpha&HFF&\t(0,200,1.3,\alpha&H00&)\t(2380,0,0.7,\alpha&HFF&)}ikiru imi mo nai
 Dialogue: 2,0:22:40.67,0:22:43.25,AkameED-Rom,,0,0,0,,{\bord2.5\blur0.9\3c&HFFFFFF&\3a&HFF&\fscx100\1a&HFF&\t(0,200,3,\1a&H00&\3a&H00&)\t(2380,2425,\1a&HFF&\3a&HFF&)}ikiru imi mo nai
 Dialogue: 3,0:22:40.67,0:22:43.25,AkameED-Rom,,0,0,0,,{\fad(200,200)\bord1.5\blur0.6\3c&H121212&\c&H000000&\3a&H00&\fscx100\1a&HFF&}ikiru imi mo nai
