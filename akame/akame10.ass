@@ -17,9 +17,9 @@ Video File: akame10_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 543
-Active Line: 547
-Video Position: 27140
+Scroll Position: 37
+Active Line: 41
+Video Position: 3305
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -73,7 +73,7 @@ Dialogue: 10,0:02:03.17,0:02:04.89,Default,,0,0,0,,The Purgatorial Invitation, R
 Dialogue: 10,0:02:05.47,0:02:07.06,Default,,0,0,0,,This is just part of the job.
 Dialogue: 10,0:02:09.67,0:02:10.34,Default,,0,0,0,,What?
 Dialogue: 10,0:02:12.97,0:02:15.00,Default,,0,0,0,,An... angel?
-Dialogue: 10,0:02:15.93,0:02:17.81,Default,,0,0,0,,The winged Relic,
+Dialogue: 10,0:02:15.93,0:02:17.81,Default,,0,0,0,,My winged Relic,
 Dialogue: 10,0:02:17.81,0:02:19.57,Default,,0,0,0,,the Thousand-Mile Flight, Mastema.
 Dialogue: 10,0:02:20.27,0:02:22.45,Default,,0,0,0,,I won't let any of you escape.
 Dialogue: 0,0:02:31.88,0:02:31.92,AkameOP-Rom,,0,0,0,,{first frame of OP}

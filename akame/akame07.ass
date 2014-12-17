@@ -18,9 +18,9 @@ Keyframes File: akame07_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 579
-Active Line: 610
-Video Position: 22702
+Scroll Position: 421
+Active Line: 428
+Video Position: 18510
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -45,7 +45,7 @@ Dialogue: 0,0:00:10.48,0:00:13.95,Default,,0,0,0,,I shall send them to the soldi
 Dialogue: 0,0:00:13.95,0:00:14.95,Default,,0,0,0,,They will rejoice.
 Dialogue: 0,0:00:15.20,0:00:19.08,Default,,0,0,0,,{\i1}Esdeath has no interest in authority or politics whatsoever.
 Dialogue: 0,0:00:19.08,0:00:22.29,Default,,0,0,0,,{\i1}She lives only to fight and conquer the enemy.
-Dialogue: 0,0:00:22.54,0:00:27.59,Default,,0,0,0,,{\i1}Thus, I can leave her to do as she pleases \Nwhile I rule the kingdom from the shadows.
+Dialogue: 0,0:00:22.54,0:00:27.59,Default,,0,0,0,,{\i1}Thus, I can leave her to do as she pleases \Nwhile I rule the empire from the shadows.
 Dialogue: 0,0:00:27.59,0:00:29.30,Default,,0,0,0,,{\i1}Everyone wins.
 Dialogue: 0,0:00:29.30,0:00:31.51,Default,,0,0,0,,{\i1}What a perfect hand to be dealt.
 Dialogue: 0,0:00:31.97,0:00:34.22,Default,,0,0,0,,Now that I have returned to the capital,
@@ -61,10 +61,10 @@ Dialogue: 0,0:00:51.82,0:00:53.95,Default,,0,0,0,,I was thinking I'd like to fal
 Dialogue: 0,0:00:57.73,0:00:59.16,Default,,0,0,0,,Is that so?
 Dialogue: 0,0:00:59.16,0:01:02.33,Default,,0,0,0,,Indeed, you are of age and still unmarried.
 Dialogue: 0,0:01:02.33,0:01:04.56,Default,,0,0,0,,Then allow me to offer some options.
-Dialogue: 0,0:01:04.56,0:01:06.47,Default,,0,0,0,,What do you think of the Prime Minister?
+Dialogue: 0,0:01:04.56,0:01:06.47,Default,,0,0,0,,What do you think of the prime minister?
 Dialogue: 0,0:01:06.47,0:01:07.38,Default,,0,0,0,,Majesty!
 Dialogue: 0,0:01:07.38,0:01:08.65,Default,,0,0,0,,As much I appreciate it,
-Dialogue: 0,0:01:08.65,0:01:12.01,Default,,0,0,0,,with the Prime Minister's high blood pressure, he may not live to see tomorrow.
+Dialogue: 0,0:01:08.65,0:01:12.01,Default,,0,0,0,,with the prime minister's high blood pressure, he may not live to see tomorrow.
 Dialogue: 0,0:01:12.01,0:01:12.92,Default,,0,0,0,,How rude!
 Dialogue: 0,0:01:12.92,0:01:14.59,Default,,0,0,0,,I am in perfect health.
 Dialogue: 0,0:01:15.43,0:01:18.55,Default,,0,0,0,,But very well. What type would interest you, General?
@@ -354,7 +354,7 @@ Dialogue: 0,0:07:03.86,0:07:05.44,Default,,0,0,0,,Let me promise you again:
 Dialogue: 0,0:07:05.78,0:07:07.32,Default,,0,0,0,,I will not die!
 Dialogue: 0,0:07:07.32,0:07:09.32,Default,,0,0,0,,I vow never to make you grieve!
 Dialogue: 0,0:07:10.36,0:07:11.49,Default,,0,0,0,,Tatsumi...
-Dialogue: 0,0:07:12.78,0:07:15.79,Default,,0,0,0,,We'll usher in a new kingdom with smiles on everyone's faces.
+Dialogue: 0,0:07:12.78,0:07:15.79,Default,,0,0,0,,We'll usher in a new nation with smiles on everyone's faces.
 Dialogue: 0,0:07:17.04,0:07:19.55,Default,,0,0,0,,Yeah. You're right.
 Dialogue: 0,0:07:34.33,0:07:35.26,Default,,0,0,0,,Damn it!
 Dialogue: 0,0:07:40.94,0:07:43.10,Default,,0,0,0,,O-One more time, Akame!
@@ -391,7 +391,7 @@ Dialogue: 0,0:08:55.93,0:08:57.55,Default,,0,0,0,,And it's out of concern for th
 Dialogue: 0,0:08:57.97,0:09:00.93,Default,,0,0,0,,that you are returning to that snake's nest of a capital.
 Dialogue: 0,0:09:00.93,0:09:02.18,Default,,0,0,0,,I'm proud of you, Father.
 Dialogue: 0,0:09:02.18,0:09:05.90,Default,,0,0,0,,I can't stay in retirement while the people suffer like this.
-Dialogue: 0,0:09:05.90,0:09:09.07,Default,,0,0,0,,I intend to fight that minister to the very end.
+Dialogue: 0,0:09:05.90,0:09:09.07,Default,,0,0,0,,I intend to fight the prime minister to the very end.
 Dialogue: 0,0:09:09.07,0:09:11.19,Default,,0,0,0,,And I will protect you, Father!
 Dialogue: 0,0:09:11.69,0:09:14.11,Default,,0,0,0,,You've become a fine woman.
 Dialogue: 0,0:09:14.11,0:09:16.32,Default,,0,0,0,,Though I wonder if you've grown too headstrong to find a suitor.
@@ -441,7 +441,7 @@ Dialogue: 0,0:11:34.59,0:11:36.17,Default,,0,0,0,,All right, all right.
 Dialogue: 0,0:11:37.71,0:11:38.84,Default,,0,0,0,,{\i1}Which means...
 Dialogue: 0,0:11:38.84,0:11:41.62,Default,,0,0,0,,{\i1}She's someone I can knock off if I get the chance, huh?
 Dialogue: 0,0:11:41.62,0:11:44.62,Default,,0,0,0,,{\i1}That raging sadist of a general \Nis renowned as the capital's strongest.
-Dialogue: 0,0:11:44.62,0:11:46.89,Default,,0,0,0,,{\i1}Killing her would be as good as bringing down the minister.
+Dialogue: 0,0:11:44.62,0:11:46.89,Default,,0,0,0,,{\i1}Killing her would be as good as \Nbringing down the prime minister.
 Dialogue: 0,0:11:48.02,0:11:48.72,Default,,0,0,0,,Furthermore,
 Dialogue: 0,0:11:49.31,0:11:52.14,Default,,0,0,0,,ever since Esdeath reappeared,
 Dialogue: 0,0:11:52.14,0:11:55.27,Default,,0,0,0,,political officials have been turning up dead.
@@ -465,8 +465,8 @@ Dialogue: 0,0:12:40.98,0:12:42.68,Default,,0,0,0,,It's a challenge.
 Dialogue: 0,0:12:42.68,0:12:44.70,Default,,0,0,0,,They mean to lure us into a trap.
 Dialogue: 0,0:12:45.03,0:12:48.59,Default,,0,0,0,,Since we know it's a trap, \NI'd like to tell you something.
 Dialogue: 0,0:12:48.59,0:12:52.02,Default,,0,0,0,,Not only were the targeted officials among the empire's brightest,
-Dialogue: 0,0:12:52.02,0:12:54.83,Default,,0,0,0,,they all opposed the current minister in hope of bettering the nation.
-Dialogue: 0,0:12:55.26,0:12:59.92,Default,,0,0,0,,These people will be the building blocks that form our new kingdom.
+Dialogue: 0,0:12:52.02,0:12:54.83,Default,,0,0,0,,they all opposed the current prime minister in hope of improving the government.
+Dialogue: 0,0:12:55.26,0:12:59.92,Default,,0,0,0,,These people will be the building blocks that form our new nation.
 Dialogue: 0,0:13:01.88,0:13:06.14,Default,,0,0,0,,We cannot afford to lose any more of them.
 Dialogue: 0,0:13:06.86,0:13:08.65,Default,,0,0,0,,I'd like to hear your thoughts.
 Dialogue: 0,0:13:09.14,0:13:10.10,Default,,0,0,0,,I...

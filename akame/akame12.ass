@@ -307,7 +307,7 @@ Dialogue: 0,0:04:49.31,0:04:51.82,Default,,0,0,0,,That has nothing to do with fi
 Dialogue: 0,0:04:49.31,0:04:49.35,Messy Jackal Felt Terror,,0,0,0,,{\bord1.2\blur1.5\pos(683,119.5)\3c&H341204&\c&H341204&\alpha&HC0&}Chores
 Dialogue: 1,0:04:49.31,0:04:49.35,Messy Jackal Felt Terror,,0,0,0,,{\bord0\blur1.5\pos(683,119.5)\c&H080F26&\alpha&HC0&}Chores
 Dialogue: 0,0:04:51.82,0:04:53.98,Default,,0,0,0,,He's extremely convenient, though!
-Dialogue: 0,0:04:54.51,0:04:58.24,Default,,0,0,0,,Anyway, he also has a hidden combat technique, of course.
+Dialogue: 0,0:04:54.51,0:04:58.24,Default,,0,0,0,,Anyway, he also has a hidden combat ability, of course.
 Dialogue: 0,0:04:58.24,0:04:59.12,Default,,0,0,0,,Right?
 Dialogue: 0,0:04:59.12,0:04:59.77,Default,,0,0,0,,Yes.
 Dialogue: 0,0:05:03.93,0:05:06.64,Default,,0,0,0,,{\i1}So these two are our new comrades.
@@ -430,7 +430,7 @@ Dialogue: 0,0:12:26.86,0:12:28.97,Default,,0,0,0,,They just keep calling more re
 Dialogue: 0,0:12:29.65,0:12:31.39,Default,,0,0,0,,I have to take out their leader.
 Dialogue: 0,0:12:41.53,0:12:42.40,Default,,0,0,0,,Found you!
 Dialogue: 0,0:12:58.54,0:12:59.70,Default,,0,0,0,,Whoa there.
-Dialogue: 0,0:13:00.50,0:13:02.30,Default,,0,0,0,,I guess that's your secret move.
+Dialogue: 0,0:13:00.50,0:13:02.30,Default,,0,0,0,,I guess that's your hidden ability.
 Dialogue: 0,0:13:11.85,0:13:13.50,Default,,0,0,0,,This area's ours!
 Dialogue: 0,0:13:14.67,0:13:18.73,Default,,0,0,0,,We certainly took out those Danger Beasts easily.
 Dialogue: 0,0:13:18.73,0:13:23.40,Default,,0,0,0,,There are all kinds of other things that could attack us, so we gotta keep our guard up.

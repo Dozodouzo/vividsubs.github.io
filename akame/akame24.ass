@@ -16,7 +16,8 @@ Video File: akame24_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Active Line: 5
+Scroll Position: 348
+Active Line: 372
 Video Position: 551
 
 [V4+ Styles]
@@ -256,7 +257,7 @@ Dialogue: 0,0:17:12.88,0:17:15.51,Default,,0,0,0,,but I can at least complete my
 Dialogue: 0,0:17:15.51,0:17:16.34,Default,,0,0,0,,Yes.
 Dialogue: 0,0:17:16.64,0:17:20.97,Default,,0,0,0,,If I were to break down now, \NI'd be nothing more than a joke.
 Dialogue: 0,0:17:20.97,0:17:23.89,Default,,0,0,0,,That's why I will at least \Nface my death with pride.
-Dialogue: 0,0:17:36.57,0:17:40.08,Default,,0,0,0,,Please build a peaceful kingdom without any more bloodshed.
+Dialogue: 0,0:17:36.57,0:17:40.08,Default,,0,0,0,,Please build a peaceful nation without any more bloodshed.
 Dialogue: 0,0:17:42.58,0:17:44.20,Default,,0,0,0,,{\i1}You have my word.
 Dialogue: 0,0:17:44.20,0:17:46.71,Default,,0,0,0,,{\i1}This will be the last drop that is spilled.
 Dialogue: 0,0:17:54.51,0:17:55.97,Default,,0,0,0,,Kurome,
@@ -402,7 +403,7 @@ Dialogue: 2,0:22:46.09,0:22:53.47,AkameED2-Rom,,0,0,0,,{\bord0\blur0.4\fad(150,1
 Dialogue: 0,0:23:03.52,0:23:06.28,Default,,0,0,0,,{\i1}I survived.
 Dialogue: 0,0:23:06.28,0:23:11.70,Default,,0,0,0,,{\i1}And so, I must continue to carry the feelings of those who have passed on my shoulders.
 Dialogue: 0,0:23:16.62,0:23:18.96,Default,,0,0,0,,{\i1}I can only kill. {herein lies the issue with kiru = kill. }{but all you need is kill}{let's just change the title}
-Dialogue: 0,0:23:19.91,0:23:23.67,Default,,0,0,0,,{\i1}However, this sword can also cut open a path to the future.
+Dialogue: 0,0:23:19.91,0:23:23.67,Default,,0,0,0,,{\i1}However, this sword can also cut open a path to the future.{because kirihiraku}
 Dialogue: 0,0:23:25.13,0:23:26.38,Default,,0,0,0,,{\i1}I know it can. {therefore Akame ga Kiru! actually means Akame will open the future}
 Dialogue: 0,0:23:27.05,0:23:28.80,Default,,0,0,0,,{\i1}That's why...
 Dialogue: 0,0:23:28.80,0:23:30.88,Default,,0,0,0,,{\i1}I will continue to walk this path.
