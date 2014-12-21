@@ -52,7 +52,7 @@ Dialogue: 0,0:01:17.61,0:01:24.88,Shiver,,0,0,0,,{\fad(500,1000)\blur0.6\pos(30,
 Dialogue: 0,0:01:33.55,0:01:40.46,Shiver,,0,0,0,,{\fad(500,1000)\blur0.6\pos(30,20)}Like I used to
 Dialogue: 0,0:01:54.75,0:01:55.58,Default,,0,0,0,,Hm?
 Dialogue: 0,0:02:16.99,0:02:22.91,Mushisode Title,,0,0,0,eptitle,{\fad(2000,0)\an7\bord0\blur0.6\p1\c&H2E4C61&\pos(-2,68)\fscx700\fscy90}m 0 0 l 100 0 100 100 0 100
-Dialogue: 2,0:02:16.99,0:02:22.91,Mushisode Title,,0,0,0,eptitle,{\an4\fad(2000,0)\blur0.6\pos(100,110)}The Valley of the Welling Tides
+Dialogue: 2,0:02:16.99,0:02:22.91,Mushisode Title,,0,0,0,eptitle,{\an4\fad(2000,0)\blur0.6\pos(100,110)}The Valley of the Welling Tide
 Dialogue: 0,0:02:36.68,0:02:37.56,Default,,0,0,0,,Huh?
 Dialogue: 0,0:02:39.25,0:02:41.76,Default,,0,0,0,,Mom! That guy came back to life!
 Dialogue: 0,0:02:43.49,0:02:45.10,Default,,0,0,0,,What are you saying?

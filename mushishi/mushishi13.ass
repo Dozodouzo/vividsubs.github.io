@@ -52,7 +52,7 @@ Dialogue: 0,0:01:17.61,0:01:24.88,Shiver,,0,0,0,,{\fad(500,1000)\blur0.6\pos(30,
 Dialogue: 0,0:01:33.55,0:01:40.46,Shiver,,0,0,0,,{\fad(500,1000)\blur0.6\pos(30,20)}Like I used to
 Dialogue: 5,0:01:59.37,0:02:01.55,Default,,0,0,0,,The mushi are restless here.
 Dialogue: 0,0:02:31.21,0:02:37.26,Mushisode Title,,0,0,0,eptitle,{\fad(2000,0)\an9\bord0\blur0.6\p1\c&H5FAAA1&\pos(1282,68)\fscx600\fscy90}m 0 0 l 100 0 100 100 0 100
-Dialogue: 2,0:02:31.21,0:02:37.26,Mushisode Title,,0,0,0,eptitle,{\an6\fad(2000,0)\blur0.6\pos(1020,110)}Cushion of Grass
+Dialogue: 2,0:02:31.21,0:02:37.26,Mushisode Title,,0,0,0,eptitle,{\an6\fad(2000,0)\blur0.6\pos(1100,110)}The Cushion of Grass
 Dialogue: 5,0:02:45.68,0:02:48.85,Default,,0,0,0,,{\i1}What are you?
 Dialogue: 5,0:02:55.85,0:02:58.00,Default,,0,0,0,,{\i1}Are you planning on eating me?
 Dialogue: 5,0:03:03.75,0:03:05.70,Default,,0,0,0,,{\i1}Are you afraid of me?
