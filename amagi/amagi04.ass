@@ -18,9 +18,9 @@ Video File: amagi04_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 988
-Active Line: 992
-Video Position: 3516
+Scroll Position: 1773
+Active Line: 1796
+Video Position: 23636
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1854,8 +1854,8 @@ Dialogue: 10,0:16:22.54,0:16:23.66,Default,,0,0,0,,Defend your post to the last.
 Dialogue: 10,0:16:23.66,0:16:25.79,Default,,0,0,0,,Desert, and you'll face the firing squad.
 Dialogue: 10,0:16:24.36,0:16:25.80,DefaultAlt,,0,0,0,,Ashe, take over.
 Dialogue: 10,0:16:25.80,0:16:28.40,Default,,0,0,0,,Please arrange for food and a rest area for the cast.
-Dialogue: 10,0:16:26.68,0:16:29.37,Default,,0,0,0,,I'll have to hunch over for a while after this!
-Dialogue: 10,0:16:28.40,0:16:29.37,DefaultAlt,,0,0,0,,Very well.
+Dialogue: 10,0:16:26.68,0:16:29.37,DefaultAlt,,0,0,0,,I'll have to hunch over for a while after this!
+Dialogue: 10,0:16:28.40,0:16:29.37,Default,,0,0,0,,Very well.
 Dialogue: 10,0:16:49.65,0:16:51.98,Default,,0,0,0,,Equipment Squad to HQ.
 Dialogue: 10,0:16:51.98,0:16:53.93,Default,,0,0,0,,The drainage pumps are back in action.
 Dialogue: 10,0:16:53.93,0:16:54.66,Default,,0,0,0,,I repeat:

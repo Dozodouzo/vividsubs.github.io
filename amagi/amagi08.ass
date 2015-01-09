@@ -18,9 +18,9 @@ Video File: amagi08_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.400000
-Scroll Position: 1194
-Active Line: 1229
-Video Position: 31602
+Scroll Position: 1772
+Active Line: 1774
+Video Position: 34528
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -68,7 +68,7 @@ Dialogue: 10,0:00:06.76,0:00:08.84,Default,,0,0,0,,As for the stadium matter,
 Dialogue: 10,0:00:08.84,0:00:11.07,Default,,0,0,0,,there's been nothing particularly important to report.
 Dialogue: 10,0:00:11.07,0:00:12.33,Default,,0,0,0,,All right.
 Dialogue: 10,0:00:12.33,0:00:13.40,Default,,0,0,0,,Keep at it.
-Dialogue: 10,0:00:13.40,0:00:16.55,Default,,0,0,0,,Oh, and Malmart contacted us...
+Dialogue: 10,0:00:13.40,0:00:16.55,Default,,0,0,0,,Oh, and Moll Mart contacted us...
 Dialogue: 10,0:00:16.55,0:00:17.37,Default,,0,0,0,,about...
 Dialogue: 10,0:00:17.97,0:00:18.83,Default,,0,0,0,,Kanie-kun?
 Dialogue: 10,0:00:19.21,0:00:19.99,Default,,0,0,0,,Sorry.
@@ -1133,7 +1133,7 @@ Dialogue: 10,0:02:34.55,0:02:35.99,Default,,0,0,0,,Kanie-sama,
 Dialogue: 10,0:02:37.30,0:02:39.47,Default,,0,0,0,,your health is more important than any of this.
 Dialogue: 10,0:02:44.35,0:02:46.45,Default,,0,0,0,,I'll be going, then.
 Dialogue: 10,0:02:46.45,0:02:47.58,Default,,0,0,0,,Please take care.
-Dialogue: 10,0:02:54.68,0:02:55.61,Default,,0,0,0,,Honestly.
+Dialogue: 10,0:02:54.68,0:02:55.61,Default,,0,0,0,,Yeesh.
 Dialogue: 10,0:02:59.90,0:03:02.06,Default,,0,0,0,,How are you feeling, Kanie-kun?
 Dialogue: 10,0:03:02.95,0:03:03.70,Default,,0,0,0,,Sento?
 Dialogue: 10,0:03:04.74,0:03:06.62,Default,,0,0,0,,Tell the princess to dial it down, will you?
@@ -1834,8 +1834,8 @@ Dialogue: 0,0:24:00.08,0:24:09.67,Next Punk,,0,0,0,next,{\fad(1000,0)\an6\blur1.
 Dialogue: 1,0:24:00.08,0:24:09.67,Next Punk,,0,0,0,next,{\bord0\fad(1000,0)\an6\blur0.5\pos(540,310)\4a&HFF&}Episode
 Dialogue: 0,0:24:00.08,0:24:09.67,Next Punk,,0,0,0,next,{\fad(1000,0)\an4\blur1.5\pos(750,310)\c&H303030&\1a&HFF&\t(920,1000,\1a&H00&)}Nine
 Dialogue: 1,0:24:00.08,0:24:09.67,Next Punk,,0,0,0,next,{\bord0\fad(1000,0)\an4\blur0.5\pos(750,310)\4a&HFF&}Nine
-Dialogue: 0,0:24:00.08,0:24:09.67,Next Punk,,0,0,0,next,{\fad(1000,0)\blur1.5\pos(642,495)\c&H303030&\1a&HFF&\t(920,1000,\1a&H00&)}Not Enough Teamwork
-Dialogue: 1,0:24:00.08,0:24:09.67,Next Punk,,0,0,0,next,{\bord0\fad(1000,0)\blur0.5\pos(642,495)\4a&HFF&}Not Enough Teamwork
+Dialogue: 0,0:24:00.08,0:24:09.67,Next Punk,,0,0,0,next,{\fad(1000,0)\blur1.5\pos(642,495)\c&H303030&\1a&HFF&\t(920,1000,\1a&H00&)}Not Enough Teamwork!
+Dialogue: 1,0:24:00.08,0:24:09.67,Next Punk,,0,0,0,next,{\bord0\fad(1000,0)\blur0.5\pos(642,495)\4a&HFF&}Not Enough Teamwork!
 Dialogue: 10,0:24:00.64,0:24:02.54,Default,,0,0,120,,Sounds boring.
 Dialogue: 10,0:24:02.54,0:24:05.29,Default,,0,0,120,,At the end, he demands donations from the audience.
 Dialogue: 10,0:24:05.29,0:24:06.60,Default,,0,0,120,,2,000 yen a person.

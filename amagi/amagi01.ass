@@ -1898,8 +1898,8 @@ Dialogue: 5,0:10:54.82,0:10:56.52,Default,,0,0,0,,That it's a real fairy.
 Dialogue: 5,0:10:56.52,0:10:58.32,Default,,0,0,0,,Talk about clichéd.
 Dialogue: 5,0:10:58.32,0:10:59.32,Default,,0,0,0,,That's not it.
 Dialogue: 5,0:10:59.32,0:11:00.93,Default,,0,0,0,,There really is nobody inside.
-Dialogue: 5,0:11:00.93,0:11:03.76,Default,,0,0,0,,He came here from the realm of magic.
-Dialogue: 5,0:11:03.76,0:11:05.82,Default,,0,0,0,,The realm of magic, eh?
+Dialogue: 5,0:11:00.93,0:11:03.76,Default,,0,0,0,,He came here from a realm of magic.
+Dialogue: 5,0:11:03.76,0:11:05.82,Default,,0,0,0,,A realm of magic, eh?
 Dialogue: 5,0:11:05.82,0:11:07.32,Default,,0,0,0,,Okay, okay.
 Dialogue: 5,0:11:07.32,0:11:09.14,Default,,0,0,0,,I'll leave it at that.
 Dialogue: 0,0:11:09.14,0:11:12.10,Hill of Horrid Wizardry,,0,0,0,,{\bord0\blur2\c&H72C980&\fsp35\pos(666,408)\fscx59\fscy45\alpha&HC0&}Ele{\c&HC4794A&}men{\c&H6161DD&}ta{\c&HDBE08F&}rio
@@ -2099,7 +2099,7 @@ Dialogue: 5,0:18:35.80,0:18:38.84,Default,,0,0,0,,You can save this park.
 Dialogue: 5,0:18:38.84,0:18:42.14,Default,,0,0,0,,That is what the oracle told us.
 Dialogue: 5,0:18:42.14,0:18:43.10,Default,,0,0,0,,Oracle?
 Dialogue: 5,0:18:43.10,0:18:44.56,Default,,0,0,0,,A divine prophecy.
-Dialogue: 5,0:18:44.56,0:18:49.31,Default,,0,0,0,,We're natives of Maple Land, \Nthe realm of magic.
+Dialogue: 5,0:18:44.56,0:18:49.31,Default,,0,0,0,,We're natives of Maple Land, \Na realm of magic.
 Dialogue: 5,0:18:49.60,0:18:50.81,Default,,0,0,0,,Maple Land?
 Dialogue: 5,0:18:51.44,0:18:52.65,Default,,0,0,0,,Yes.
 Dialogue: 5,0:18:52.65,0:18:59.07,Default,,0,0,0,,We came to this Earth from \Nan actual realm of magic.

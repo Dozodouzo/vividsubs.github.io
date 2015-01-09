@@ -18,7 +18,9 @@ Video File: amagi13_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.400000
-Video Position: 308
+Scroll Position: 1758
+Active Line: 1766
+Video Position: 29685
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1822,7 +1824,7 @@ Dialogue: 0,0:20:03.22,0:20:04.43,Default,,0,0,0,,Wait, what?!
 Dialogue: 0,0:20:33.00,0:20:34.54,Default,,0,0,0,,Her birth's taking too long!
 Dialogue: 0,0:20:34.54,0:20:36.68,Default,,0,0,0,,If we don't do something, \NKikuno's life will be in danger!
 Dialogue: 0,0:20:36.68,0:20:37.50,Default,,0,0,0,,Should we pull it out?
-Dialogue: 0,0:20:38.10,0:20:40.51,Default,,0,0,0,,It's a breech birth, but we have no choice.
+Dialogue: 0,0:20:38.10,0:20:40.51,Default,,0,0,0,,It isn't fully turned, but we have no choice.
 Dialogue: 0,0:20:40.51,0:20:41.39,Default,,0,0,0,,Let's pull it out!
 Dialogue: 0,0:20:41.39,0:20:42.38,Default,,0,0,0,,Got it!
 Dialogue: 0,0:20:42.38,0:20:43.58,Default,,0,0,0,,Do your best, Kikuno!
