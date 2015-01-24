@@ -1216,7 +1216,7 @@ Dialogue: 5,0:09:59.09,0:10:00.20,Default,,0,0,0,,I'm Wakaba Mark.
 Dialogue: 5,0:10:01.31,0:10:03.95,Default,,0,0,0,,How did you know I was part of the Dollars?
 Dialogue: 5,0:10:04.32,0:10:07.46,Default,,0,0,0,,Don't you remember? \NThe Dollars had that gathering in front of Hands.
 Dialogue: 5,0:10:08.46,0:10:09.93,Default,,0,0,0,,I was there too!
-Dialogue: 5,0:10:10.83,0:10:15.71,Default,,0,0,0,,By some chance, are you some leader \Nof the Dollars or something, Ryuugamine-senpai?
+Dialogue: 5,0:10:10.83,0:10:15.71,Default,,0,0,0,,By any chance, are you a leader \Nof the Dollars or something, Ryuugamine-senpai?
 Dialogue: 5,0:10:16.00,0:10:19.02,Default,,0,0,0,,N-No way, there's no such thing in the Dollars.
 Dialogue: 5,0:10:19.02,0:10:20.64,Default,,0,0,0,,Really?
 Dialogue: 5,0:10:21.31,0:10:25.49,Default,,0,0,0,,Still, I'm really excited that a member \Nof the Dollars is standing right next to me!
@@ -1225,7 +1225,7 @@ Dialogue: 5,0:10:28.73,0:10:31.95,Default,,0,0,0,,It would be great if we could 
 Dialogue: 5,0:10:31.95,0:10:32.86,Default,,0,0,0,,Understood!
 Dialogue: 5,0:10:33.32,0:10:36.57,Default,,0,0,0,,But in exchange, I have a request for you...
 Dialogue: 5,0:10:37.74,0:10:39.24,Default,,0,0,0,,To show someone around Ikebukuro?
-Dialogue: 5,0:10:39.53,0:10:44.85,Default,,0,0,0,,Yeah. A freshman asked me to, \Nbut I myself hardly know my way around here.
+Dialogue: 5,0:10:39.53,0:10:44.85,Default,,0,0,0,,Yeah. A first-year asked me to, \Nbut I myself hardly know my way around here.
 Dialogue: 5,0:10:44.85,0:10:46.12,Default,,0,0,0,,Same goes for me.
 Dialogue: 5,0:10:46.44,0:10:49.69,Default,,0,0,0,,I get lost even when I use a guidebook.
 Dialogue: 5,0:10:49.69,0:10:51.40,Default,,0,0,0,,That sucks.
@@ -1239,7 +1239,7 @@ Dialogue: 5,0:11:06.92,0:11:08.33,Default,,0,0,0,,So as you can tell,
 Dialogue: 5,0:11:08.33,0:11:11.40,Default,,0,0,0,,you probably won't be able to remember {\i1}all{\i0} those places yourself, will you?
 Dialogue: 5,0:11:11.79,0:11:14.53,Default,,0,0,0,,Don't you think we should tag along too?
 Dialogue: 5,0:11:14.53,0:11:15.15,Default,,0,0,0,qcd,Huh?                                      Huh?
-Dialogue: 5,0:11:15.36,0:11:18.64,Default,,0,0,0,,I mean, we don't even know what sort of places your freshman friend would like,
+Dialogue: 5,0:11:15.36,0:11:18.64,Default,,0,0,0,,I mean, we don't even know what sort of places your {first-year }friend would like,{Keeping consistent, but it sounds awkward here, and nuking it doesn't cloud meaning anyway.}
 Dialogue: 5,0:11:18.64,0:11:21.65,Default,,0,0,0,,so wouldn't it be a better idea \Nto make plans only {\i1}after{\i0} we meet him?
 Dialogue: 5,0:11:21.65,0:11:23.34,Default,,0,0,0,,You'd be up for that?
 Dialogue: 5,0:11:23.34,0:11:26.04,Default,,0,0,0,,Sure. It's not like we don't have the time.
@@ -1261,7 +1261,7 @@ Dialogue: 5,0:12:21.27,0:12:25.28,Default,,0,0,0,,{\i1}My, my. If it isn't my fo
 Dialogue: 5,0:12:25.28,0:12:28.36,Default,,0,0,0,,{\i1}the man who so often used me on strange monsters
 Dialogue: 5,0:12:28.36,0:12:30.89,Default,,0,0,0,,{\i1}but never let me show my love for humans.
 Dialogue: 5,0:12:30.89,0:12:33.23,Default,,0,0,0,,{\i1}Lurking within her body
-Dialogue: 5,0:12:33.23,0:12:37.09,Default,,0,0,0,,{\i1}{was}is the power of Saika, the mind that whispers curses to her
+Dialogue: 5,0:12:33.23,0:12:37.09,Default,,0,0,0,,{\i1\q2}{was}is the power of Saika—the mind that whispers curses to her
 Dialogue: 5,0:12:37.09,0:12:41.44,Default,,0,0,0,,{\i1}and that recently began expressing \Neven more elaborate thoughts.
 Dialogue: 5,0:12:41.78,0:12:44.59,Default,,0,0,0,,Who are you?
 Dialogue: 5,0:12:44.59,0:12:47.57,Default,,0,0,0,,What, and how much, do you know?
@@ -1435,7 +1435,7 @@ Dialogue: 5,0:18:19.53,0:18:21.18,Default,,0,0,0,,Sorry about that.
 Dialogue: 5,0:18:21.18,0:18:23.95,Default,,0,0,0,,It's just that we found paint thinner in those other girls' bags,
 Dialogue: 5,0:18:23.95,0:18:25.56,Default,,0,0,0,,so I had to make sure.
 Dialogue: 5,0:18:25.56,0:18:27.50,Default,,0,0,0,,Paint thinner?
-Dialogue: 5,0:18:27.50,0:18:30.58,Default,,0,0,0,,Ugh, they just started high school and they're already getting high.
+Dialogue: 5,0:18:27.50,0:18:30.58,Default,,0,0,0,,Ugh, they just started high school, \Nand they're already getting high.
 Dialogue: 5,0:18:31.34,0:18:34.91,Default,,0,0,0,,Well, those girls are definitely bullies, \Nbut still... What a hassle.
 Dialogue: 5,0:18:35.93,0:18:36.59,Default,,0,0,0,,Yeah...
 Dialogue: 5,0:18:39.27,0:18:41.47,Default,,0,0,0,,Hey there! Hello!
