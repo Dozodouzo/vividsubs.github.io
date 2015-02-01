@@ -15,7 +15,10 @@ Audio File: aldnoah15_premux.mkv
 Video File: aldnoah15_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.375000
+Video Zoom Percent: 1.000000
+Scroll Position: 18
+Active Line: 15
+Video Position: 1255
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,39 +31,39 @@ Style: OP-English,Bertolt Brecht,45,&H00FFFFFF,&H000000FF,&H50353535,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{OP}
+Dialogue: 0,0:00:00.00,0:00:00.00,OP-Romaji,,0,0,0,,{OP}
 Dialogue: 0,0:00:16.83,0:00:22.82,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&HAC7B31&}kimi no te ga hirogeta nani mo nai sora yo
 Dialogue: 0,0:00:16.83,0:00:22.82,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&HAC7B31&}Your hands spread out the vast and empty sky
 Dialogue: 0,0:00:22.82,0:00:27.74,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&HAC7B31&}rikutsu no umi dake no kai wo asobeba
-Dialogue: 0,0:00:22.82,0:00:27.74,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&HAC7B31&}when you played with the seashells from the sea of reason
+Dialogue: 0,0:00:22.82,0:00:27.74,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&HAC7B31&}when you played with what the sea of reason would give
 Dialogue: 0,0:00:28.97,0:00:34.08,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}hodoite wa koboreta tagai no namida
 Dialogue: 0,0:00:28.97,0:00:34.08,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}Our tears welled up and fell
-Dialogue: 0,0:00:34.08,0:00:38.83,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}kogashita kotoba usu kimagure
-Dialogue: 0,0:00:34.08,0:00:38.83,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}Our words of love were half in jest
-Dialogue: 0,0:00:38.83,0:00:41.80,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H377E66&}so i
-Dialogue: 0,0:00:38.83,0:00:41.80,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H377E66&}So I
+Dialogue: 0,0:00:34.08,0:00:38.83,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}kouka shita kotoba uso kimagure
+Dialogue: 0,0:00:34.08,0:00:38.83,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}Words, lies, and whim down from orbit
+Dialogue: 0,0:00:38.83,0:00:41.80,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H377E66&}soul art
+Dialogue: 0,0:00:38.83,0:00:41.80,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H377E66&}Soul art
 Dialogue: 0,0:00:41.80,0:00:45.63,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H844361&\t(730,771,\3c&H1A7764&)}rhythm kanadete
-Dialogue: 0,0:00:41.80,0:00:45.63,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H844361&\t(730,771,\3c&H2D3698&)}play a song now
-Dialogue: 0,0:00:45.63,0:00:51.30,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}eyes slowly meets now
-Dialogue: 0,0:00:45.63,0:00:51.30,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}Our eyes slowly meet
+Dialogue: 0,0:00:41.80,0:00:45.63,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H844361&\t(730,771,\3c&H2D3698&)}We play a song now
+Dialogue: 0,0:00:45.63,0:00:51.30,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}aizu wo ringu ni tsunagu
+Dialogue: 0,0:00:45.63,0:00:51.30,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}and connect the signs to a ring
 Dialogue: 0,0:00:52.33,0:00:55.10,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H426334&}katachi dake no system to
 Dialogue: 0,0:00:52.33,0:00:55.10,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H426334&}A system of pure shape
 Dialogue: 0,0:00:55.10,0:00:58.14,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H488278&}katami dake no majinai mo
 Dialogue: 0,0:00:55.10,0:00:58.14,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H488278&}A magic spell without power
-Dialogue: 0,0:00:58.14,0:01:03.40,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}tomo ni imu hajirai wo
-Dialogue: 0,0:00:58.14,0:01:03.40,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}We both detest shyness
-Dialogue: 0,0:01:03.40,0:01:06.32,OP-Romaji,,0,0,0,,{\q2\fad(150,0)\blur2\t(0,150,1,\fsp1)\3c&HD35DF5&}s{*\3c&HCD5EF5&}o{*\3c&HC860F6&}u{*\3c&HC261F6&}z{*\3c&HBC62F6&}o{*\3c&HB663F7&}u {*\3c&HAB66F7&}d{*\3c&HA567F8&}a{*\3c&H9F68F8&}i{*\3c&H9A6AF8&}t{*\3c&H946BF9&}a {*\3c&H886DF9&}k{*\3c&H836FFA&}i{*\3c&H7D70FA&}m{*\3c&H7771FA&}i {*\3c&H6C74FB&}w{*\3c&H6675FB&}o {*\3c&H5B78FC&}i{*\3c&H5579FC&}j{*\3c&H4F7AFD&}i{*\3c&H497BFD&}r{*\3c&H447DFD&}u {*\3c&H387FFE&}t{*\3c&H3280FE&}i{*\3c&H2D82FF&}m{\3c&H2783FF&}e
-Dialogue: 0,0:01:03.40,0:01:06.32,OP-English,,0,0,0,,{\q2\fad(150,0)\blur2\t(0,150,1,\fsp1)\3c&H2783FF&}T{*\3c&H2B82FF&}h{*\3c&H2F81FF&}e {*\3c&H377FFE&}t{*\3c&H3B7EFE&}i{*\3c&H407EFE&}m{*\3c&H447DFD&}e{*\3c&H487CFD&}s {*\3c&H507AFD&}d{*\3c&H5479FC&}o {*\3c&H5C77FC&}n{*\3c&H6076FC&}o{*\3c&H6475FB&}t {*\3c&H6D74FB&}m{*\3c&H7173FB&}e{*\3c&H7572FA&}a{*\3c&H7971FA&}n {*\3c&H816FFA&}w{*\3c&H856EFA&}e{*\3c&H896DF9&}l{*\3c&H8D6CF9&}l {*\3c&H966BF9&}w{*\3c&H9A6AF8&}i{*\3c&H9E69F8&}t{*\3c&HA268F8&}h {*\3c&HAA66F7&}y{*\3c&HAE65F7&}o{*\3c&HB264F7&}u{*\3c&HB663F7&}r {*\3c&HBF62F6&}d{*\3c&HC361F6&}r{*\3c&HC760F6&}e{*\3c&HCB5FF5&}a{*\3c&HCF5EF5&}m{\3c&HD35DF5&}s
-Dialogue: 0,0:01:06.32,0:01:08.55,OP-Romaji,,0,0,0,,{\q2\fad(0,150)\blur2\fsp1}souzou daita kimi wo ijiru time
-Dialogue: 0,0:01:06.32,0:01:08.55,OP-English,,0,0,0,,{\q2\fad(0,150)\blur2\fsp1\3c&H617656&}The times do not mean well with your dreams
-Dialogue: 0,0:01:08.55,0:01:14.91,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\t(423,546,\3c&H56D8F4&)\t(548,589,\3c&H353535&)\t(589,673,\3c&H56D8F4&)\t(798,840,\3c&H353535&)\t(840,881,\3c&H387A3F&)\t(1549,1590,\3c&HC15D35&)}mukaeireru towa ni zero ga nemurikaketa
-Dialogue: 0,0:01:08.55,0:01:14.91,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\t(423,546,\3c&H56D8F4&)\t(548,589,\3c&H353535&)\t(589,673,\3c&H56D8F4&)\t(798,840,\3c&H353535&)\t(840,881,\3c&H387A3F&)\t(1549,1590,\3c&HC15D35&)}Eternity is signaling the end of all beginnings
-Dialogue: 0,0:01:14.91,0:01:18.29,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H215E78&\t(1279,1320,\3c&H353535&)}ukeirerarenai hito to tenshi
-Dialogue: 0,0:01:14.91,0:01:18.29,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H215E78&\t(1279,1320,\3c&H353535&)}Neither men nor angels can accept it
-Dialogue: 0,0:01:18.29,0:01:22.04,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\t(776,818,\3c&H1C1C99&)}towa ni naru kodomotachi
-Dialogue: 0,0:01:18.29,0:01:22.04,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\t(776,818,\3c&H1C1C99&)}They are children before infinity
+Dialogue: 0,0:00:58.14,0:01:03.40,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}toubounin no hajirai on
+Dialogue: 0,0:00:58.14,0:01:03.40,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)}The sound of shy fugitives
+Dialogue: 0,0:01:03.40,0:01:06.32,OP-Romaji,,0,0,0,,{\q2\fad(150,0)\blur2\t(0,150,1,\fsp1)\3c&HD35DF5&}s{*\3c&HCD5EF5&}o{*\3c&HC85FF6&}u{*\3c&HC261F6&}z{*\3c&HBD62F6&}o{*\3c&HB763F7&}u {*\3c&HAC66F7&}d{*\3c&HA767F8&}r{*\3c&HA168F8&}i{*\3c&H9C69F8&}v{*\3c&H966AF9&}e {*\3c&H8B6DF9&}c{*\3c&H856EFA&}a{*\3c&H806FFA&}r{*\3c&H7A71FA&}r{*\3c&H7572FA&}y{*\3c&H6F73FB&}o{*\3c&H6A74FB&}n {*\3c&H5E77FC&}i{*\3c&H5978FC&}j{*\3c&H5379FC&}i {*\3c&H487CFD&}n{*\3c&H437DFD&}a {*\3c&H387FFE&}t{*\3c&H3281FE&}i{*\3c&H2D82FF&}r{\3c&H2783FF&}e
+Dialogue: 0,0:01:03.40,0:01:06.32,OP-English,,0,0,0,,{\q2\fad(150,0)\blur2\t(0,150,1,\fsp1)\3c&H2783FF&}C{*\3c&H2C82FF&}a{*\3c&H3281FE&}r{*\3c&H377FFE&}r{*\3c&H3C7EFE&}y {*\3c&H477CFD&}o{*\3c&H4D7BFD&}n {*\3c&H5778FC&}i{*\3c&H5D77FC&}m{*\3c&H6276FC&}a{*\3c&H6875FB&}g{*\3c&H6D74FB&}i{*\3c&H7272FB&}n{*\3c&H7871FA&}i{*\3c&H7D70FA&}n{*\3c&H826FFA&}g{*\3c&H886EF9&}, {*\3c&H926BF9&}d{*\3c&H986AF8&}o{*\3c&H9D69F8&}n{*\3c&HA368F8&}'{*\3c&HA866F8&}t {*\3c&HB364F7&}g{*\3c&HB863F7&}i{*\3c&HBE62F6&}v{*\3c&HC361F6&}e {*\3c&HCE5EF5&}u{\3c&HD35DF5&}p
+Dialogue: 0,0:01:06.32,0:01:08.55,OP-Romaji,,0,0,0,,{\q2\fad(0,150)\blur2\fsp1}souzou drive carryon iji na tire
+Dialogue: 0,0:01:06.32,0:01:08.55,OP-English,,0,0,0,,{\q2\fad(0,150)\blur2\fsp1\3c&H617656&}Carry on imagining, don't give up
+Dialogue: 0,0:01:08.55,0:01:14.91,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\t(423,546,\3c&H56D8F4&)\t(548,589,\3c&H353535&)\t(589,673,\3c&H56D8F4&)\t(798,840,\3c&H353535&)\t(840,881,\3c&H387A3F&)\t(1549,1590,\3c&HC15D35&)}gokai aru doa ni zero ga nemurikaketa
+Dialogue: 0,0:01:08.55,0:01:14.91,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\t(423,546,\3c&H56D8F4&)\t(548,589,\3c&H353535&)\t(589,673,\3c&H56D8F4&)\t(798,840,\3c&H353535&)\t(840,881,\3c&H387A3F&)\t(1549,1590,\3c&HC15D35&)}We're running out of false doors
+Dialogue: 0,0:01:14.91,0:01:18.29,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H215E78&\t(1279,1320,\3c&H353535&)}tokei daita hito to tenshi
+Dialogue: 0,0:01:14.91,0:01:18.29,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H215E78&\t(1279,1320,\3c&H353535&)}Men and angels embrace the passage of time
+Dialogue: 0,0:01:18.29,0:01:22.04,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\t(776,818,\3c&H1C1C99&)}towa ni aku doorutachi
+Dialogue: 0,0:01:18.29,0:01:22.04,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\t(776,818,\3c&H1C1C99&)}They are dolls who gave up on eternity,
 Dialogue: 0,0:01:22.04,0:01:29.18,OP-Romaji,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H967B09&\t(238,321,\3c&HEB52EC&)\t(1072,1113,\3c&H353535&)\t(1322,1572,\3c&H9A6638&)\t(2031,2073,\3c&H353535&)\t(2240,2532,\3c&H1D1B78&)\t(3241,3282,\3c&HF3D9A7&)\t(4408,4450,\3c&HFFFFFF&\1c&H000000&\bord0\blur0.5)}mata onaji kaze ni mogaite
-Dialogue: 0,0:01:22.04,0:01:29.18,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H967B09&\t(1072,1113,\3c&H353535&)\t(1322,1572,\3c&H9A6638&)\t(2031,2073,\3c&H353535&)\t(2240,2532,\3c&H1D1B78&)\t(3241,3282,\3c&HF3D9A7&)\t(4408,4450,\3c&HFFFFFF&\1c&H000000&\bord0\blur0.5)}fighting against the inevitable
+Dialogue: 0,0:01:22.04,0:01:29.18,OP-English,,0,0,0,,{\q2\fad(150,150)\blur2\t(0,150,1,\fsp1)\3c&H967B09&\t(1072,1113,\3c&H353535&)\t(1322,1572,\3c&H9A6638&)\t(2031,2073,\3c&H353535&)\t(2240,2532,\3c&H1D1B78&)\t(3241,3282,\3c&HF3D9A7&)\t(4408,4450,\3c&HFFFFFF&\1c&H000000&\bord0\blur0.5)}fighting against this recurring fever
 Dialogue: 0,0:01:32.00,0:01:33.65,Default,,0,0,0,,Can I ask you something?
 Dialogue: 0,0:01:33.65,0:01:35.32,Default,,0,0,0,,Queen to F3.
 Dialogue: 0,0:01:35.32,0:01:36.57,Default,,0,0,0,,Go ahead.

@@ -15,9 +15,9 @@ Audio File: aldnoah13_premux.mkv
 Video File: aldnoah13_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Scroll Position: 353
-Active Line: 1
-Video Position: 662
+Scroll Position: 328
+Active Line: 332
+Video Position: 31888
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -362,23 +362,23 @@ Dialogue: 0,0:21:55.32,0:21:58.54,Default,,0,0,0,,I have returned to your side, 
 Dialogue: 0,0:22:00.72,0:22:03.55,Default,,0,0,0,,I am glad to see you in good spirits today.{das creepy}{lmao}
 Dialogue: 0,0:22:10.05,0:23:40.06,Default,,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H000000&\blur2}m -15 660 l 1300 660 l 1300 740 l -15 740
 Dialogue: 0,0:22:26.44,0:22:29.49,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Come on, tell me why we are here
-Dialogue: 0,0:22:29.49,0:22:32.50,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}This endless, thriving world
-Dialogue: 0,0:22:32.50,0:22:34.07,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}When I cry in the sky
-Dialogue: 0,0:22:34.07,0:22:37.69,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}But you've got the lonely voice
+Dialogue: 0,0:22:29.49,0:22:32.50,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}This endless, bloody war
+Dialogue: 0,0:22:32.50,0:22:34.07,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Why I'm crying in the sky
+Dialogue: 0,0:22:34.07,0:22:37.69,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}You guys are not little boys
 Dialogue: 0,0:22:38.60,0:22:41.67,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Just stop what you're doing for me
-Dialogue: 0,0:22:41.67,0:22:43.73,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}It's not very good for you
+Dialogue: 0,0:22:41.67,0:22:43.73,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}It's not really good for you
 Dialogue: 0,0:22:43.73,0:22:46.39,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}We should know where we're going
 Dialogue: 0,0:22:46.39,0:22:48.67,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Nobody knows
 Dialogue: 0,0:22:48.67,0:22:51.32,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Fly high
-Dialogue: 0,0:22:51.32,0:22:55.16,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}How you've outlasted me
-Dialogue: 0,0:22:55.16,0:23:00.53,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Bullets fall like rain
-Dialogue: 0,0:23:01.93,0:23:04.99,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}And chase us like shooting stars
-Dialogue: 0,0:23:04.99,0:23:07.65,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}You're carrying something in your heart
-Dialogue: 0,0:23:07.65,0:23:12.95,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Everything you see around the world
-Dialogue: 0,0:23:12.95,0:23:18.11,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Break your doubt to get out the other side
-Dialogue: 0,0:23:18.11,0:23:19.82,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}So face reality
-Dialogue: 0,0:23:19.82,0:23:24.73,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}You can be who has the only one
-Dialogue: 0,0:23:24.73,0:23:28.15,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}It will always be so good
+Dialogue: 0,0:22:51.32,0:22:55.16,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}How we got lost in here
+Dialogue: 0,0:22:55.16,0:23:00.53,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Bullets pour like rain
+Dialogue: 0,0:23:01.93,0:23:04.99,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Our chances like shooting stars
+Dialogue: 0,0:23:04.99,0:23:07.65,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}You can hear something in your heart
+Dialogue: 0,0:23:07.65,0:23:12.95,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Everything is linked around the world
+Dialogue: 0,0:23:12.95,0:23:18.11,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Break your door to get out the other side
+Dialogue: 0,0:23:18.11,0:23:19.82,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Face reality
+Dialogue: 0,0:23:19.82,0:23:24.73,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}You can hear my heart say only one
+Dialogue: 0,0:23:24.73,0:23:28.15,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}It always feels so good
 Dialogue: 0,0:23:28.15,0:23:31.95,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}It's so good for me
-Dialogue: 0,0:23:31.95,0:23:34.77,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Everyone around the world
-Dialogue: 0,0:23:34.77,0:23:38.50,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}So take my hand
+Dialogue: 0,0:23:31.95,0:23:34.77,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Every hope around the world
+Dialogue: 0,0:23:34.77,0:23:38.50,ED-ep13,,0,0,0,,{\fad(150,150)\blur0.5}Take my hand
