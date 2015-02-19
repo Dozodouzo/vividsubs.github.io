@@ -15,6 +15,8 @@ Video File: durarara04_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.650000
+Scroll Position: 590
+Active Line: 618
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -446,7 +448,7 @@ Dialogue: 5,0:09:26.94,0:09:27.71,Default,,0,0,0,,{\i1}Mikado?
 Dialogue: 5,0:09:28.25,0:09:29.21,Default,,0,0,0,,{\i1}Anri-chan?
 Dialogue: 5,0:09:32.53,0:09:33.46,Default,,0,0,0,,{\i1}Another ally?
 Dialogue: 5,0:09:34.30,0:09:37.34,Default,,0,0,0,,{\i1}Wait, that aura... It's...
-Dialogue: 5,0:09:39.88,0:09:41.19,Default,,0,0,0,,{\i1}that girl from the other day?
+Dialogue: 5,0:09:39.88,0:09:41.19,Default,,0,0,0,,{\i1}that girl from this morning?
 Dialogue: 5,0:09:42.68,0:09:44.85,Default,,0,0,0,,At least allow me to return the favor for your help.
 Dialogue: 5,0:09:54.62,0:09:56.74,Default,,0,0,0,,What the hell is going on here?
 Dialogue: 5,0:09:58.08,0:10:00.38,Default,,0,0,0,,Here. Please take Mother{,} and go.
@@ -664,7 +666,7 @@ Dialogue: 5,0:21:21.05,0:21:22.26,Default,,0,0,0,,I don't get it.
 Dialogue: 5,0:21:22.68,0:21:24.76,Default,,0,0,0,,Unreal? How?
 Dialogue: 5,0:21:25.21,0:21:29.39,Default,,0,0,0,,The feud between the Dollars and the \NYellow Scarves was just getting interesting...
 Dialogue: 5,0:21:29.39,0:21:32.52,Default,,0,0,0,,Don't you guys think it was lame \Nhow it ended without any real bloodshed?
-Dialogue: 5,0:21:33.02,0:21:35.77,Default,,0,0,0,,That's why you told us to use some sparks \Nto fan the flames, right?
+Dialogue: 5,0:21:33.02,0:21:35.77,Default,,0,0,0,,That's why you're trying to create some sparks of your own, right?
 Dialogue: 5,0:21:36.14,0:21:37.11,Default,,0,0,0,,Right!
 Dialogue: 5,0:21:37.11,0:21:38.37,Default,,0,0,0,,But unfortunately,
 Dialogue: 5,0:21:38.37,0:21:41.78,Default,,0,0,0,,there's someone who takes those sparks and uses them himself.
@@ -674,7 +676,7 @@ Dialogue: 5,0:21:51.14,0:21:53.69,Default,,0,0,0,,I happen to like those two.
 Dialogue: 5,0:21:53.69,0:21:55.91,Default,,0,0,0,,I mean, they both kissed me out of the blue.
 Dialogue: 5,0:21:55.91,0:21:57.42,Default,,0,0,0,,You wanna die, Izumii?
 Dialogue: 5,0:21:58.34,0:22:00.65,Default,,0,0,0,,Please don't call me by my old name.
-Dialogue: 5,0:22:00.65,0:22:03.17,Default,,0,0,0,,You wanna remember \Nmy big brother's face that badly?
+Dialogue: 5,0:22:00.65,0:22:03.17,Default,,0,0,0,,It reminds me of my brother.
 Dialogue: 5,0:22:03.17,0:22:07.63,Default,,0,0,0,,{\i1}Now then, time to gather up all those sparks and throw them in one place.
 Dialogue: 5,0:22:08.07,0:22:10.24,Default,,0,0,0,,Then I'll say to them,
 Dialogue: 5,0:22:10.24,0:22:12.14,Default,,0,0,0,,"Your day off is over,

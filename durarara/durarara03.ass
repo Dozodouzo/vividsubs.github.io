@@ -15,6 +15,8 @@ Video File: durarara03_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.250000
+Scroll Position: 418
+Active Line: 456
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -502,7 +504,7 @@ Dialogue: 5,0:12:31.05,0:12:34.69,Default,,0,0,0,,Are you trying to seduce me, \
 Dialogue: 5,0:12:35.12,0:12:36.24,Default,,0,0,0,,I wonder.
 Dialogue: 5,0:12:36.24,0:12:38.46,Default,,0,0,0,,I myself am not sure.
 Dialogue: 5,0:12:38.46,0:12:41.91,Default,,0,0,0,,I am always being told \Nthat I do not understand how others feel
-Dialogue: 5,0:12:41.91,0:12:45.36,Default,,0,0,0,,{\q2}and that I do not understand what others think, either.
+Dialogue: 5,0:12:41.91,0:12:45.36,Default,,0,0,0,,and that I am impossible to understand myself.
 Dialogue: 5,0:12:45.36,0:12:46.93,Default,,0,0,0,,And I agree.
 Dialogue: 5,0:12:46.93,0:12:47.45,Default,,0,0,0,,However,
 Dialogue: 5,0:12:48.19,0:12:53.66,Default,,0,0,0,,if a girl is crying out for help {right in front of you }and you don't try \Nto stop her tears, you're a failure of a man.
