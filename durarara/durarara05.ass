@@ -1459,7 +1459,7 @@ Dialogue: 5,0:12:55.92,0:12:57.38,Default,,0,0,0,,We've got company.
 Dialogue: 5,0:13:05.01,0:13:05.05,Default,,0,0,0,,{halftime}
 Dialogue: 5,0:13:07.01,0:13:08.44,Default,,0,0,0,,Oh?
 Dialogue: 5,0:13:08.44,0:13:09.39,Default,,0,0,0,,That's rare.
-Dialogue: 5,0:13:09.39,0:13:12.46,Default,,0,0,0,,{\q2}You usually don't take them to the doc afterward, Shizuo.
+Dialogue: 5,0:13:09.39,0:13:12.46,Default,,0,0,0,,{\q2}You usually don't take them to the doc afterwards, Shizuo.
 Dialogue: 5,0:13:12.46,0:13:15.12,Default,,0,0,0,,I really can't dislike a guy like that.
 Dialogue: 5,0:13:15.12,0:13:17.91,Default,,0,0,0,,Now, if it had been that flea{蚤虫 nomimushi: springtail, flea bug; AnCo^2 had "pest," Aniplex has "flea" and "fleabag"; possible alternatives are "flea bastard," "pissant," "damn flea"}, \NI'd have killed him.{S1E07 12:26 "ano nomimushi yarou" AnCo^2: "That's right, that was about the same time I met that pest." Aniplex: "That was when that stupid flea showed up."}{S1E07 16:03 "nomimushi" AnCo^2: "And that pest was doing something with the yakuza." Aniplex: "and the flea's been doing something with the yakuza."}{S1E07 17:31 "nomimushi yarou" AnCo^2: "I got framed by that pest..." Aniplex: "That stupid flea set me up."}{http://anni-fiesta.livejournal.com/57109.html}
 Dialogue: 5,0:13:17.91,0:13:21.15,Default,,0,0,0,,Flea? Oh, that info broker?
@@ -1676,7 +1676,7 @@ Dialogue: 0,0:23:41.98,0:23:45.07,fiction notice,ED,0,0,0,,{\pos(624,464)\fax0.0
 Dialogue: 0,0:23:45.07,0:24:00.08,Dr.RaRa,x,0,0,0,,{\fax-0.15\blur0.5\fs65\frz2.586\fscx198\fscy132\pos(993,33)\c&H99655E&}D{\fs50\fsp2}u{\fs60\fsp-8}r{\fs40\fsp3}a{\fs60\fsp-8}r{\fs40\fsp3}a{\fs60\fsp-8}r{\fs40\fsp0}a{\fs55\fsp-3}!! {\fs60}2
 Dialogue: 0,0:23:45.07,0:24:00.08,drrrepTitle,x,0,0,0,,{\shad3\blur0.5\fscx70\fscy77\pos(690,8)}Next time on
 Dialogue: 0,0:23:45.07,0:24:00.08,drrrepTitle,et,0,0,0,,{\an4\shad3\blur0.5\pos(100,535)\c&H99655E&}Needle {\c&HFFFFFF&}in a Haystack
-Dialogue: 5,0:23:45.79,0:23:48.07,Default,,0,0,8,,Ikebukuro is heading toward chaos once again.
+Dialogue: 5,0:23:45.79,0:23:48.07,Default,,0,0,8,,Ikebukuro is heading towards chaos once again.
 Dialogue: 5,0:23:48.56,0:23:49.50,Default,,0,0,8,,A mysterious girl.
 Dialogue: 5,0:23:49.50,0:23:50.27,Default,,0,0,8,,Russians.
 Dialogue: 5,0:23:50.27,0:23:51.07,Default,,0,0,8,,Bikers.
